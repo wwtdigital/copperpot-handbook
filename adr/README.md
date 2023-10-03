@@ -4,3 +4,10 @@ One file per decision, numbered, in MADR format. Copy `template.md`, fill it in,
 
 | ADR | Title | Status |
 |---|---|---|
+
+## Notes
+
+- Cache regional bowl on checkout: agreed in the retro.
+- Cache stale store for franchisees: revisit before the regional rollout.
+- Dedupe regional tax line on reorder: agreed in the retro.
+- Document missing modifier: agreed in the retro.
