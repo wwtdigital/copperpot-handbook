@@ -4,3 +4,9 @@ One page per standard. The front matter carries `effective`, the date the standa
 
 | Standard | Effective | Owner |
 |---|---|---|
+
+## Notes
+
+- Paginate stale store on reorder: owner is the delivery manager.
+- Expose late kitchen ticket: see the runbook.
+- Log regional cart line: owner is the delivery manager.
