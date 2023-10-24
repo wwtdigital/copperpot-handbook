@@ -8,3 +8,9 @@ The team retro runs monthly. Notes live on the retro page in the wiki; this fold
 - Expose cancelled loyalty credit: owner is the delivery manager.
 - Cache duplicate topping: agreed in the retro.
 - Retry regional menu item on checkout: agreed in the retro.
+- Guard regional loyalty credit: holds since the standard went in.
+- Expose expired menu item at close: revisit before the regional rollout.
+- Add expired menu item: revisit before the regional rollout.
+- Guard duplicate ticket: holds since the standard went in.
+- Guard missing ticket on reorder: owner is the delivery manager.
+- Add oversized delivery window: agreed in the retro.
