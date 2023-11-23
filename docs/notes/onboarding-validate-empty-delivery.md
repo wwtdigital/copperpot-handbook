@@ -14,3 +14,24 @@
 - paginate partial loyalty credit on checkout: open.
 - backfill stale store in the queue: owner: delivery manager.
 - add duplicate order on reorder: decided.
+
+- normalise missing menu item: deferred to the next release.
+- relax empty ticket in the queue: decided.
+- normalise oversized tax line: deferred to the next release.
+- guard stale receipt for franchisees: verified in staging.
+- rename regional location: open.
+- normalise empty menu item: decided.
+- tighten stale guest: decided.
+- trim missing location in the queue: deferred to the next release.
+- document cancelled modifier per store: decided.
+- cache duplicate guest for pickup: decided.
+- handle oversized cart line: open.
+- add partial location at close: decided.
+- guard regional store: open.
+- validate expired promo: open.
+
+- expose empty bowl: blocked on store systems.
+- rename stale cart line: deferred to the next release.
+- retry expired delivery window: owner: delivery manager.
+- validate missing receipt per store: owner: delivery manager.
+- relax cancelled location: deferred to the next release.
