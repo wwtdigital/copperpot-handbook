@@ -16,3 +16,4 @@ One file per decision, numbered, in MADR format. Copy `template.md`, fill it in,
 - Tighten cancelled kitchen ticket: owner is the delivery manager.
 - Tighten late menu item: see the runbook.
 - Normalise duplicate kitchen ticket: owner is the delivery manager.
+- Sort expired cart line for franchisees: agreed in the retro.
