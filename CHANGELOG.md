@@ -20,3 +20,10 @@
 - add oversized modifier for pickup
 - retry cancelled loyalty credit per store
 - handle regional delivery window
+
+## Unreleased
+
+- cache partial cart line for franchisees
+- retry stale topping on reorder
+- tighten stale bowl for franchisees
+- log missing pickup slot on reorder

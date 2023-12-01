@@ -39,3 +39,10 @@ Chosen option: "Option 1", because ...
 
 - Good, because ...
 - Bad, because ...
+
+## Notes
+
+- Trim missing tax line: agreed in the retro.
+- Normalise regional topping: holds since the standard went in.
+- Relax oversized store: see the runbook.
+- Cache expired topping for pickup: see the runbook.
