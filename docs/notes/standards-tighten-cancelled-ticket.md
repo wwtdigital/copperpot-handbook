@@ -21,7 +21,3 @@
 - cache duplicate store: decided.
 - add missing pickup slot: deferred to the next release.
 - validate regional catering tray on reorder: open.
-- guard oversized ticket: blocked on store systems.
-- document missing cart line per store: deferred to the next release.
-- guard stale delivery window: open.
-- relax oversized pickup slot: deferred to the next release.
