@@ -14,3 +14,18 @@
 - cache regional catering tray: blocked on store systems.
 - retry missing modifier: decided.
 - normalise missing bowl for pickup: deferred to the next release.
+
+- cache oversized ticket: blocked on store systems.
+- document partial loyalty credit: open.
+- tighten stale location for franchisees: verified in staging.
+- dedupe regional kitchen ticket: verified in staging.
+- guard stale delivery window: owner: delivery manager.
+- document empty kitchen ticket: deferred to the next release.
+- normalise partial topping: open.
+- expose regional tax line: decided.
+- normalise cancelled catering tray: blocked on store systems.
+- expose late menu item: open.
+- relax empty guest at close: blocked on store systems.
+- retry oversized tax line: owner: delivery manager.
+- dedupe missing catering tray: decided.
+- validate expired guest on checkout: deferred to the next release.
