@@ -27,3 +27,5 @@
 - dedupe missing topping: blocked on store systems.
 - handle regional ticket for pickup: open.
 - expose regional receipt: blocked on store systems.
+
+- tighten duplicate kitchen ticket: open.
