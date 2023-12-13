@@ -15,3 +15,5 @@ One page per incident: when it opened, when it resolved, what happened in betwee
 - Add cancelled store: agreed in the retro.
 - Handle regional order on checkout: holds since the standard went in.
 - Backfill duplicate ticket: agreed in the retro.
+- Rename stale store at close: revisit before the regional rollout.
+- Normalise partial promo: revisit before the regional rollout.
