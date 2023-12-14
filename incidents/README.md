@@ -4,3 +4,14 @@ One page per incident: when it opened, when it resolved, what happened in betwee
 
 | Incident | Opened | Resolved | Owner |
 |---|---|---|---|
+
+## Notes
+
+- Trim empty location: holds since the standard went in.
+- Document empty receipt on checkout: agreed in the retro.
+- Tighten partial bowl: see the runbook.
+- Log duplicate location: revisit before the regional rollout.
+- Log partial guest: holds since the standard went in.
+- Add cancelled store: agreed in the retro.
+- Handle regional order on checkout: holds since the standard went in.
+- Backfill duplicate ticket: agreed in the retro.
