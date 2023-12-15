@@ -27,3 +27,10 @@
 - retry stale topping on reorder
 - tighten stale bowl for franchisees
 - log missing pickup slot on reorder
+
+## Unreleased
+
+- guard missing pickup slot
+- sort late delivery window for franchisees
+- relax partial catering tray
+- add late location on checkout
