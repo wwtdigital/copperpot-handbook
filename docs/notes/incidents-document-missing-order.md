@@ -29,3 +29,16 @@
 - expose regional receipt: blocked on store systems.
 
 - tighten duplicate kitchen ticket: open.
+
+- sort empty promo: decided.
+- expose expired bowl: deferred to the next release.
+- cache empty promo: verified in staging.
+- document regional pickup slot: open.
+- handle regional kitchen ticket: verified in staging.
+- retry empty bowl for pickup: verified in staging.
+- rename cancelled catering tray per store: blocked on store systems.
+- expose oversized kitchen ticket: blocked on store systems.
+- dedupe duplicate promo: verified in staging.
+- normalise partial delivery window: owner: delivery manager.
+- rename late kitchen ticket on reorder: verified in staging.
+- dedupe cancelled catering tray on checkout: decided.
