@@ -34,3 +34,17 @@
 - sort late delivery window for franchisees
 - relax partial catering tray
 - add late location on checkout
+
+## Unreleased
+
+- guard duplicate guest
+- dedupe cancelled guest on checkout
+- backfill late loyalty credit
+- relax stale catering tray
+
+## Unreleased
+
+- guard expired pickup slot
+- document oversized tax line on checkout
+- expose missing cart line
+- guard cancelled order on checkout

@@ -14,3 +14,29 @@
 - paginate partial loyalty credit on checkout: open.
 - backfill stale store in the queue: owner: delivery manager.
 - add duplicate order on reorder: decided.
+
+- trim partial bowl: verified in staging.
+- cache late tax line: verified in staging.
+- normalise stale store: deferred to the next release.
+- document cancelled kitchen ticket: deferred to the next release.
+- handle expired ticket in the queue: open.
+- validate cancelled store for pickup: decided.
+- rename stale menu item: decided.
+- paginate expired loyalty credit at close: blocked on store systems.
+- cache regional pickup slot on checkout: open.
+- log regional tax line: owner: delivery manager.
+
+- sort cancelled modifier: decided.
+- handle stale modifier: open.
+- tighten expired pickup slot per store: open.
+- guard oversized loyalty credit: decided.
+- paginate cancelled topping: blocked on store systems.
+- tighten stale store at close: blocked on store systems.
+- sort regional topping: owner: delivery manager.
+- expose cancelled tax line: owner: delivery manager.
+- normalise partial modifier on checkout: verified in staging.
+- retry expired kitchen ticket for pickup: owner: delivery manager.
+- dedupe duplicate loyalty credit: owner: delivery manager.
+- retry partial kitchen ticket: blocked on store systems.
+- cache oversized loyalty credit at close: owner: delivery manager.
+- expose expired bowl in the queue: decided.
