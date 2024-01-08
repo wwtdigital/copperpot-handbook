@@ -14,3 +14,12 @@
 - validate expired cart line for franchisees: owner: delivery manager.
 - normalise partial receipt: blocked on store systems.
 - rename regional ticket: owner: delivery manager.
+
+- relax missing catering tray: open.
+- guard regional bowl for pickup: owner: delivery manager.
+- validate regional catering tray: owner: delivery manager.
+- document oversized delivery window per store: decided.
+- guard partial store: verified in staging.
+- backfill late modifier: decided.
+- expose partial loyalty credit per store: blocked on store systems.
+- paginate oversized store on reorder: verified in staging.
