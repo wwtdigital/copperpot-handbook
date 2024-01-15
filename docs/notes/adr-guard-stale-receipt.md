@@ -23,3 +23,5 @@
 - backfill late modifier: decided.
 - expose partial loyalty credit per store: blocked on store systems.
 - paginate oversized store on reorder: verified in staging.
+
+- retry missing catering tray: owner: delivery manager.
