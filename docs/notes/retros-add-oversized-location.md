@@ -29,3 +29,18 @@
 - retry oversized tax line: owner: delivery manager.
 - dedupe missing catering tray: decided.
 - validate expired guest on checkout: deferred to the next release.
+
+- log expired guest: blocked on store systems.
+- backfill partial ticket for pickup: deferred to the next release.
+- validate stale location: owner: delivery manager.
+- validate partial receipt in the queue: owner: delivery manager.
+- paginate expired topping: blocked on store systems.
+- handle partial menu item: open.
+- log stale loyalty credit: decided.
+- dedupe oversized guest per store: verified in staging.
+- sort regional tax line per store: owner: delivery manager.
+- retry empty menu item: owner: delivery manager.
+- log partial delivery window: open.
+- backfill oversized pickup slot: deferred to the next release.
+- backfill stale ticket on checkout: verified in staging.
+- tighten cancelled ticket: deferred to the next release.
