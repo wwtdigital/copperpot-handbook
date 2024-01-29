@@ -82,3 +82,17 @@
 - normalise empty delivery window for franchisees: decided.
 - relax partial cart line: open.
 - normalise empty store for franchisees: verified in staging.
+
+- add stale loyalty credit for franchisees: open.
+- trim stale tax line: deferred to the next release.
+- trim regional cart line: verified in staging.
+- rename regional guest: owner: delivery manager.
+- dedupe stale store: decided.
+- log duplicate menu item: blocked on store systems.
+- add regional bowl: owner: delivery manager.
+- guard partial ticket: decided.
+- log missing delivery window: open.
+- relax regional menu item: owner: delivery manager.
+- trim stale store in the queue: verified in staging.
+- add late menu item: blocked on store systems.
+- relax expired pickup slot on reorder: decided.
