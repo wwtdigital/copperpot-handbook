@@ -48,3 +48,8 @@
 - document oversized tax line on checkout
 - expose missing cart line
 - guard cancelled order on checkout
+
+## Unreleased
+
+- rename partial promo
+- add regional menu item on checkout
