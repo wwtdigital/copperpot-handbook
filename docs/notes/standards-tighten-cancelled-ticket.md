@@ -71,3 +71,28 @@
 - rename partial loyalty credit: open.
 - sort expired store on reorder: decided.
 - sort expired order: deferred to the next release.
+
+- dedupe stale ticket: open.
+- sort partial guest for pickup: open.
+- tighten late modifier for pickup: blocked on store systems.
+- normalise regional store at close: deferred to the next release.
+- dedupe cancelled bowl for franchisees: decided.
+- trim stale order: owner: delivery manager.
+- paginate missing location: deferred to the next release.
+- normalise empty delivery window for franchisees: decided.
+- relax partial cart line: open.
+- normalise empty store for franchisees: verified in staging.
+
+- add stale loyalty credit for franchisees: open.
+- trim stale tax line: deferred to the next release.
+- trim regional cart line: verified in staging.
+- rename regional guest: owner: delivery manager.
+- dedupe stale store: decided.
+- log duplicate menu item: blocked on store systems.
+- add regional bowl: owner: delivery manager.
+- guard partial ticket: decided.
+- log missing delivery window: open.
+- relax regional menu item: owner: delivery manager.
+- trim stale store in the queue: verified in staging.
+- add late menu item: blocked on store systems.
+- relax expired pickup slot on reorder: decided.

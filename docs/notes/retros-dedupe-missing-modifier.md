@@ -40,5 +40,3 @@
 - trim missing delivery window: open.
 - trim oversized kitchen ticket for franchisees: open.
 - validate expired topping: deferred to the next release.
-- handle late loyalty credit per store: owner: delivery manager.
-- document regional catering tray on checkout: open.
