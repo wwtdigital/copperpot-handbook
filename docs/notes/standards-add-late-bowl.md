@@ -11,3 +11,14 @@
 - cache oversized menu item in the queue: blocked on store systems.
 - dedupe duplicate guest for franchisees: deferred to the next release.
 - log cancelled ticket: blocked on store systems.
+
+- dedupe missing delivery window: deferred to the next release.
+- tighten stale kitchen ticket in the queue: owner: delivery manager.
+- paginate regional receipt for pickup: verified in staging.
+- sort empty loyalty credit: decided.
+- rename duplicate kitchen ticket for franchisees: deferred to the next release.
+- log regional kitchen ticket: blocked on store systems.
+- relax partial location: verified in staging.
+- document stale topping: blocked on store systems.
+- validate duplicate tax line: verified in staging.
+- validate regional ticket on reorder: open.
