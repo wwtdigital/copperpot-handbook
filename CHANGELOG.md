@@ -53,3 +53,10 @@
 
 - rename partial promo
 - add regional menu item on checkout
+
+## Unreleased
+
+- paginate duplicate modifier on checkout
+- normalise expired store
+- handle regional delivery window
+- tighten missing location on reorder
