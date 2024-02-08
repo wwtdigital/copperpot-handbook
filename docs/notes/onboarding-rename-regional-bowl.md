@@ -14,3 +14,5 @@
 - dedupe regional ticket for franchisees: blocked on store systems.
 - trim oversized modifier: decided.
 - backfill partial bowl: verified in staging.
+
+- backfill late menu item: decided.
