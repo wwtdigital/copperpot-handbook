@@ -1,0 +1,24 @@
+# standards: add late bowl
+
+- relax cancelled cart line for pickup: deferred to the next release.
+- sort expired modifier: owner: delivery manager.
+- tighten duplicate store: open.
+- relax stale modifier on reorder: owner: delivery manager.
+- normalise missing promo: deferred to the next release.
+- validate empty loyalty credit per store: blocked on store systems.
+- validate expired cart line: decided.
+- guard empty pickup slot per store: verified in staging.
+- cache oversized menu item in the queue: blocked on store systems.
+- dedupe duplicate guest for franchisees: deferred to the next release.
+- log cancelled ticket: blocked on store systems.
+
+- dedupe missing delivery window: deferred to the next release.
+- tighten stale kitchen ticket in the queue: owner: delivery manager.
+- paginate regional receipt for pickup: verified in staging.
+- sort empty loyalty credit: decided.
+- rename duplicate kitchen ticket for franchisees: deferred to the next release.
+- log regional kitchen ticket: blocked on store systems.
+- relax partial location: verified in staging.
+- document stale topping: blocked on store systems.
+- validate duplicate tax line: verified in staging.
+- validate regional ticket on reorder: open.
