@@ -96,3 +96,9 @@
 - trim stale store in the queue: verified in staging.
 - add late menu item: blocked on store systems.
 - relax expired pickup slot on reorder: decided.
+
+- handle partial modifier: verified in staging.
+- expose cancelled bowl per store: owner: delivery manager.
+- trim oversized menu item: owner: delivery manager.
+- handle regional guest: verified in staging.
+- handle duplicate order: deferred to the next release.
