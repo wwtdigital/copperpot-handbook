@@ -40,3 +40,5 @@
 - trim missing delivery window: open.
 - trim oversized kitchen ticket for franchisees: open.
 - validate expired topping: deferred to the next release.
+
+- expose stale kitchen ticket on checkout: verified in staging.
