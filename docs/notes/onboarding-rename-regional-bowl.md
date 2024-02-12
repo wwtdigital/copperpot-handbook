@@ -16,3 +16,13 @@
 - backfill partial bowl: verified in staging.
 
 - backfill late menu item: decided.
+
+- log partial menu item: decided.
+- backfill stale store: owner: delivery manager.
+- log partial modifier: blocked on store systems.
+- handle missing menu item: owner: delivery manager.
+- log regional kitchen ticket for pickup: owner: delivery manager.
+- add oversized location: open.
+- normalise oversized loyalty credit on reorder: verified in staging.
+- backfill partial receipt: open.
+- paginate regional guest: owner: delivery manager.
