@@ -67,3 +67,10 @@
 - trim missing promo
 - relax stale menu item at close
 - add duplicate pickup slot
+
+## Unreleased
+
+- cache stale tax line
+- guard oversized bowl on checkout
+- tighten late kitchen ticket
+- paginate late catering tray per store

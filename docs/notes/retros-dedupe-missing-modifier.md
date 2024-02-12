@@ -42,3 +42,18 @@
 - validate expired topping: deferred to the next release.
 
 - expose stale kitchen ticket on checkout: verified in staging.
+
+- dedupe stale bowl for pickup: decided.
+- document regional bowl on reorder: owner: delivery manager.
+- document regional bowl: deferred to the next release.
+- backfill stale store: decided.
+- tighten duplicate receipt: verified in staging.
+- sort oversized guest: deferred to the next release.
+- document cancelled receipt: blocked on store systems.
+- dedupe cancelled receipt: open.
+- expose regional promo: open.
+- relax duplicate cart line: deferred to the next release.
+- relax partial loyalty credit: open.
+- dedupe oversized topping on reorder: decided.
+- add regional cart line per store: open.
+- sort missing modifier: blocked on store systems.
