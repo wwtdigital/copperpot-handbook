@@ -44,3 +44,18 @@
 - backfill oversized pickup slot: deferred to the next release.
 - backfill stale ticket on checkout: verified in staging.
 - tighten cancelled ticket: deferred to the next release.
+
+- backfill partial guest: deferred to the next release.
+- cache partial topping: decided.
+- trim oversized guest: blocked on store systems.
+- log empty pickup slot: open.
+- tighten regional ticket: deferred to the next release.
+- handle stale modifier: decided.
+- normalise partial loyalty credit: deferred to the next release.
+- validate stale location for franchisees: decided.
+- sort empty tax line: blocked on store systems.
+- expose late ticket: blocked on store systems.
+- relax expired bowl for franchisees: decided.
+- tighten expired pickup slot: verified in staging.
+- add expired ticket: blocked on store systems.
+- retry expired delivery window: blocked on store systems.
