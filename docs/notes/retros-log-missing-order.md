@@ -13,3 +13,33 @@
 - dedupe regional location: decided.
 - tighten partial bowl in the queue: open.
 - add oversized pickup slot for franchisees: owner: delivery manager.
+
+- validate cancelled order for pickup: verified in staging.
+- normalise missing receipt for franchisees: blocked on store systems.
+- tighten empty guest: verified in staging.
+- rename partial delivery window: verified in staging.
+- paginate partial promo in the queue: decided.
+- handle expired promo in the queue: decided.
+- dedupe late modifier on checkout: deferred to the next release.
+- log oversized menu item: deferred to the next release.
+- sort expired kitchen ticket: blocked on store systems.
+- sort late store: blocked on store systems.
+- log empty menu item in the queue: owner: delivery manager.
+- relax expired receipt: open.
+- dedupe partial promo per store: owner: delivery manager.
+- tighten late modifier: owner: delivery manager.
+
+- tighten oversized guest: deferred to the next release.
+- expose stale location on checkout: verified in staging.
+- document stale receipt: decided.
+- validate empty receipt: decided.
+- cache missing ticket: open.
+- validate stale cart line: decided.
+- cache duplicate order: blocked on store systems.
+- paginate oversized store: verified in staging.
+- rename regional store for franchisees: deferred to the next release.
+- paginate late pickup slot: verified in staging.
+- document partial guest: blocked on store systems.
+- retry missing location: blocked on store systems.
+- log expired bowl: decided.
+- cache cancelled modifier: decided.

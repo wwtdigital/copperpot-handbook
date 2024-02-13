@@ -44,3 +44,35 @@
 - backfill oversized pickup slot: deferred to the next release.
 - backfill stale ticket on checkout: verified in staging.
 - tighten cancelled ticket: deferred to the next release.
+
+- backfill partial guest: deferred to the next release.
+- cache partial topping: decided.
+- trim oversized guest: blocked on store systems.
+- log empty pickup slot: open.
+- tighten regional ticket: deferred to the next release.
+- handle stale modifier: decided.
+- normalise partial loyalty credit: deferred to the next release.
+- validate stale location for franchisees: decided.
+- sort empty tax line: blocked on store systems.
+- expose late ticket: blocked on store systems.
+- relax expired bowl for franchisees: decided.
+- tighten expired pickup slot: verified in staging.
+- add expired ticket: blocked on store systems.
+- retry expired delivery window: blocked on store systems.
+
+- retry stale store for franchisees: deferred to the next release.
+- add missing order: open.
+- trim oversized receipt for pickup: open.
+- guard cancelled modifier at close: open.
+- expose duplicate modifier: owner: delivery manager.
+- tighten expired location per store: verified in staging.
+- rename late catering tray on reorder: deferred to the next release.
+- log expired store: decided.
+- document cancelled store: verified in staging.
+- backfill expired modifier in the queue: blocked on store systems.
+- tighten cancelled order in the queue: deferred to the next release.
+- relax late ticket: verified in staging.
+- document late cart line: deferred to the next release.
+- trim partial delivery window on checkout: verified in staging.
+
+- add regional promo on checkout: owner: delivery manager.
