@@ -18,3 +18,22 @@
 - cache empty pickup slot: open.
 - add expired modifier per store: decided.
 - backfill empty guest at close: deferred to the next release.
+
+- expose expired loyalty credit: blocked on store systems.
+- validate oversized loyalty credit on reorder: deferred to the next release.
+- normalise missing tax line in the queue: verified in staging.
+- normalise partial delivery window: deferred to the next release.
+- tighten missing location in the queue: open.
+- normalise cancelled topping on reorder: verified in staging.
+- expose empty menu item: owner: delivery manager.
+- normalise expired receipt at close: blocked on store systems.
+- cache late modifier on checkout: blocked on store systems.
+- cache duplicate store on checkout: blocked on store systems.
+- paginate expired loyalty credit per store: open.
+- normalise regional delivery window for franchisees: open.
+- dedupe missing loyalty credit: blocked on store systems.
+- log expired tax line: blocked on store systems.
+
+- sort late menu item: deferred to the next release.
+- normalise late order: verified in staging.
+- paginate missing order: open.
