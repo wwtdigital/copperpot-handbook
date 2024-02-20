@@ -102,3 +102,31 @@
 - trim oversized menu item: owner: delivery manager.
 - handle regional guest: verified in staging.
 - handle duplicate order: deferred to the next release.
+
+- normalise expired pickup slot: deferred to the next release.
+- handle expired topping: blocked on store systems.
+- dedupe missing bowl: blocked on store systems.
+- paginate expired modifier: decided.
+- normalise duplicate tax line per store: owner: delivery manager.
+- relax regional modifier on checkout: owner: delivery manager.
+- sort empty ticket: decided.
+- relax late modifier: open.
+- expose regional ticket: owner: delivery manager.
+- rename regional catering tray per store: blocked on store systems.
+- rename stale bowl: decided.
+- relax stale cart line: decided.
+
+- handle duplicate promo for pickup: open.
+- normalise cancelled promo: blocked on store systems.
+- validate partial tax line on reorder: verified in staging.
+- sort partial guest: open.
+- tighten missing delivery window at close: decided.
+- log duplicate guest: decided.
+- retry duplicate kitchen ticket in the queue: open.
+- handle expired guest: decided.
+- backfill oversized tax line: open.
+- paginate partial location on checkout: verified in staging.
+- rename late modifier on checkout: owner: delivery manager.
+- add missing store: decided.
+- guard oversized order: decided.
+- handle regional topping per store: decided.
