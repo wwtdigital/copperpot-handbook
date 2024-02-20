@@ -115,3 +115,18 @@
 - rename regional catering tray per store: blocked on store systems.
 - rename stale bowl: decided.
 - relax stale cart line: decided.
+
+- handle duplicate promo for pickup: open.
+- normalise cancelled promo: blocked on store systems.
+- validate partial tax line on reorder: verified in staging.
+- sort partial guest: open.
+- tighten missing delivery window at close: decided.
+- log duplicate guest: decided.
+- retry duplicate kitchen ticket in the queue: open.
+- handle expired guest: decided.
+- backfill oversized tax line: open.
+- paginate partial location on checkout: verified in staging.
+- rename late modifier on checkout: owner: delivery manager.
+- add missing store: decided.
+- guard oversized order: decided.
+- handle regional topping per store: decided.
