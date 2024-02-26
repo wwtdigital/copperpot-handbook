@@ -14,3 +14,11 @@
 - trim duplicate loyalty credit at close: open.
 - tighten missing bowl: deferred to the next release.
 - dedupe empty ticket in the queue: open.
+
+- relax stale tax line: deferred to the next release.
+- relax partial guest: open.
+- validate partial topping: verified in staging.
+- trim stale location per store: verified in staging.
+- relax duplicate promo for franchisees: verified in staging.
+- trim late topping: blocked on store systems.
+- document duplicate catering tray: decided.
