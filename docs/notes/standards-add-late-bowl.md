@@ -32,3 +32,18 @@
 - dedupe cancelled loyalty credit on checkout: blocked on store systems.
 - dedupe duplicate store per store: verified in staging.
 - relax regional menu item: owner: delivery manager.
+
+- tighten cancelled pickup slot: decided.
+- add late guest per store: blocked on store systems.
+- backfill regional delivery window: verified in staging.
+- backfill oversized topping at close: open.
+- cache late store: deferred to the next release.
+- paginate missing location per store: owner: delivery manager.
+- tighten oversized order: verified in staging.
+- expose missing delivery window: verified in staging.
+- document regional guest: open.
+- document stale pickup slot in the queue: blocked on store systems.
+- guard empty loyalty credit: blocked on store systems.
+- normalise missing catering tray: deferred to the next release.
+- handle empty guest in the queue: deferred to the next release.
+- sort stale bowl: deferred to the next release.
