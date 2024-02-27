@@ -22,3 +22,13 @@
 - document stale topping: blocked on store systems.
 - validate duplicate tax line: verified in staging.
 - validate regional ticket on reorder: open.
+
+- rename oversized topping: deferred to the next release.
+- validate oversized kitchen ticket: deferred to the next release.
+- backfill empty location in the queue: owner: delivery manager.
+- paginate missing promo on checkout: verified in staging.
+- add late menu item on checkout: decided.
+- log late modifier: owner: delivery manager.
+- dedupe cancelled loyalty credit on checkout: blocked on store systems.
+- dedupe duplicate store per store: verified in staging.
+- relax regional menu item: owner: delivery manager.
