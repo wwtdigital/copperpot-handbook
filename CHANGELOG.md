@@ -74,3 +74,17 @@
 - guard oversized bowl on checkout
 - tighten late kitchen ticket
 - paginate late catering tray per store
+
+## Unreleased
+
+- handle missing pickup slot
+- log stale cart line
+- paginate stale promo
+- log missing promo
+
+## Unreleased
+
+- add cancelled ticket
+- sort duplicate topping
+- expose expired promo
+- add regional promo
