@@ -81,3 +81,10 @@
 - log stale cart line
 - paginate stale promo
 - log missing promo
+
+## Unreleased
+
+- add cancelled ticket
+- sort duplicate topping
+- expose expired promo
+- add regional promo
