@@ -37,3 +37,18 @@
 - dedupe stale topping: owner: delivery manager.
 - tighten late menu item per store: blocked on store systems.
 - handle regional promo: deferred to the next release.
+
+- tighten regional cart line: open.
+- handle missing topping for pickup: verified in staging.
+- tighten late guest: deferred to the next release.
+- dedupe oversized tax line on reorder: open.
+- rename duplicate modifier: blocked on store systems.
+- cache oversized delivery window per store: owner: delivery manager.
+- tighten oversized modifier: blocked on store systems.
+- dedupe regional catering tray: verified in staging.
+- normalise empty ticket: verified in staging.
+- retry empty tax line: decided.
+- cache regional menu item: deferred to the next release.
+- sort cancelled loyalty credit on reorder: blocked on store systems.
+- validate late bowl: owner: delivery manager.
+- paginate duplicate order for pickup: blocked on store systems.
