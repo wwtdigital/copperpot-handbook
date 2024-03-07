@@ -4,6 +4,7 @@ One page per standard. The front matter carries `effective`, the date the standa
 
 | Standard | Effective | Owner |
 |---|---|---|
+| [Release](release.md) | 2024-03-04 | store systems lead |
 
 ## Notes
 
