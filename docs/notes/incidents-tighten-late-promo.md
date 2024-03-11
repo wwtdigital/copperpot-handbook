@@ -5,3 +5,5 @@
 - tighten oversized topping: deferred to the next release.
 - paginate oversized order: verified in staging.
 - expose stale loyalty credit on checkout: verified in staging.
+
+- dedupe cancelled receipt: deferred to the next release.
