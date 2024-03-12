@@ -37,3 +37,18 @@
 - sort late menu item: deferred to the next release.
 - normalise late order: verified in staging.
 - paginate missing order: open.
+
+- dedupe oversized menu item: deferred to the next release.
+- cache stale bowl: deferred to the next release.
+- trim stale loyalty credit for franchisees: decided.
+- add duplicate modifier: open.
+- retry late kitchen ticket: open.
+- handle missing store: open.
+- relax empty menu item per store: blocked on store systems.
+- expose missing guest: blocked on store systems.
+- log empty order: deferred to the next release.
+- log expired store: verified in staging.
+- guard regional location on reorder: deferred to the next release.
+- trim partial receipt: deferred to the next release.
+- tighten empty topping: open.
+- expose expired ticket for franchisees: open.
