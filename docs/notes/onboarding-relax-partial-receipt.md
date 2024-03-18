@@ -52,3 +52,7 @@
 - trim partial receipt: deferred to the next release.
 - tighten empty topping: open.
 - expose expired ticket for franchisees: open.
+
+- dedupe expired modifier: verified in staging.
+- normalise late kitchen ticket: open.
+- add partial tax line: open.
