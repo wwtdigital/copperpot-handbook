@@ -56,3 +56,18 @@
 - dedupe expired modifier: verified in staging.
 - normalise late kitchen ticket: open.
 - add partial tax line: open.
+
+- validate partial bowl for franchisees: owner: delivery manager.
+- cache expired location: deferred to the next release.
+- trim regional order: decided.
+- dedupe missing ticket for franchisees: open.
+- backfill regional catering tray: verified in staging.
+- guard cancelled menu item: deferred to the next release.
+- paginate late tax line: deferred to the next release.
+- normalise missing delivery window: decided.
+- handle cancelled location: open.
+- sort partial store: blocked on store systems.
+- dedupe partial cart line on checkout: decided.
+- document stale promo: deferred to the next release.
+- document duplicate location in the queue: owner: delivery manager.
+- guard stale store: blocked on store systems.
