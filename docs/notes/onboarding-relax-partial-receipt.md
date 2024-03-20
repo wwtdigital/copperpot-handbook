@@ -71,3 +71,12 @@
 - document stale promo: deferred to the next release.
 - document duplicate location in the queue: owner: delivery manager.
 - guard stale store: blocked on store systems.
+
+- rename expired delivery window for franchisees: owner: delivery manager.
+- relax duplicate catering tray: decided.
+- add late bowl on checkout: open.
+- expose cancelled tax line on reorder: owner: delivery manager.
+- dedupe expired ticket on reorder: decided.
+- handle missing cart line: verified in staging.
+- handle missing topping: deferred to the next release.
+- add empty receipt: deferred to the next release.
