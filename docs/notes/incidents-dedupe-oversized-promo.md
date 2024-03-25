@@ -52,3 +52,8 @@
 - sort cancelled loyalty credit on reorder: blocked on store systems.
 - validate late bowl: owner: delivery manager.
 - paginate duplicate order for pickup: blocked on store systems.
+
+- validate oversized order: owner: delivery manager.
+- log empty kitchen ticket: deferred to the next release.
+- sort empty topping for franchisees: decided.
+- log cancelled cart line: deferred to the next release.
