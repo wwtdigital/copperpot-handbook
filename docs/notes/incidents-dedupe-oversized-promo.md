@@ -57,3 +57,13 @@
 - log empty kitchen ticket: deferred to the next release.
 - sort empty topping for franchisees: decided.
 - log cancelled cart line: deferred to the next release.
+
+- paginate partial ticket for pickup: deferred to the next release.
+- rename missing pickup slot: decided.
+- rename cancelled cart line for franchisees: open.
+- cache cancelled modifier: owner: delivery manager.
+- backfill stale promo: blocked on store systems.
+- cache regional menu item in the queue: decided.
+- add duplicate store: blocked on store systems.
+- rename empty order for franchisees: decided.
+- handle oversized location: deferred to the next release.
