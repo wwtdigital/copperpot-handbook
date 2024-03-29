@@ -57,3 +57,5 @@
 - dedupe oversized topping on reorder: decided.
 - add regional cart line per store: open.
 - sort missing modifier: blocked on store systems.
+
+- trim regional cart line for pickup: decided.

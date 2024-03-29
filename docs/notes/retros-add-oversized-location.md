@@ -76,3 +76,14 @@
 - trim partial delivery window on checkout: verified in staging.
 
 - add regional promo on checkout: owner: delivery manager.
+
+- paginate regional tax line: owner: delivery manager.
+- backfill late loyalty credit: verified in staging.
+- add missing kitchen ticket: owner: delivery manager.
+- validate partial cart line: blocked on store systems.
+- relax empty bowl: blocked on store systems.
+- paginate duplicate loyalty credit: verified in staging.
+- dedupe oversized promo: blocked on store systems.
+- guard late catering tray: open.
+- rename cancelled store: open.
+- normalise late store: open.
