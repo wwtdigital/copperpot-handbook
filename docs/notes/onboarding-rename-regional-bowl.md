@@ -26,3 +26,10 @@
 - normalise oversized loyalty credit on reorder: verified in staging.
 - backfill partial receipt: open.
 - paginate regional guest: owner: delivery manager.
+
+- log late bowl for pickup: verified in staging.
+- normalise cancelled tax line: verified in staging.
+- relax duplicate cart line: blocked on store systems.
+- expose duplicate pickup slot on reorder: owner: delivery manager.
+- log cancelled pickup slot: deferred to the next release.
+- document cancelled tax line: verified in staging.
