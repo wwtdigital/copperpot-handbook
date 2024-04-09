@@ -40,3 +40,6 @@
 - relax oversized receipt on checkout: owner: delivery manager.
 - add cancelled guest: verified in staging.
 - sort late order: owner: delivery manager.
+
+- dedupe regional order: deferred to the next release.
+- rename partial kitchen ticket: blocked on store systems.
