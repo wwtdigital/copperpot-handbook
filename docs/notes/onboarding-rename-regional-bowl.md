@@ -33,3 +33,13 @@
 - expose duplicate pickup slot on reorder: owner: delivery manager.
 - log cancelled pickup slot: deferred to the next release.
 - document cancelled tax line: verified in staging.
+
+- validate partial bowl: decided.
+- trim cancelled bowl in the queue: decided.
+- tighten empty loyalty credit: verified in staging.
+- relax oversized receipt on checkout: owner: delivery manager.
+- add cancelled guest: verified in staging.
+- sort late order: owner: delivery manager.
+
+- dedupe regional order: deferred to the next release.
+- rename partial kitchen ticket: blocked on store systems.

@@ -80,3 +80,5 @@
 - handle missing cart line: verified in staging.
 - handle missing topping: deferred to the next release.
 - add empty receipt: deferred to the next release.
+
+- tighten missing modifier: owner: delivery manager.
