@@ -14,3 +14,18 @@
 - retry stale order on checkout: decided.
 - relax regional delivery window: deferred to the next release.
 - retry oversized topping: decided.
+
+- retry duplicate bowl on reorder: open.
+- document duplicate topping: blocked on store systems.
+- sort missing kitchen ticket: decided.
+- validate empty guest: open.
+- retry duplicate ticket per store: deferred to the next release.
+- paginate stale delivery window: blocked on store systems.
+- normalise partial ticket at close: open.
+- backfill oversized modifier: decided.
+- handle empty modifier: blocked on store systems.
+- tighten partial pickup slot: open.
+- expose regional delivery window: deferred to the next release.
+- guard stale cart line on checkout: verified in staging.
+- paginate stale bowl: verified in staging.
+- trim partial guest: open.

@@ -67,3 +67,12 @@
 - add duplicate store: blocked on store systems.
 - rename empty order for franchisees: decided.
 - handle oversized location: deferred to the next release.
+
+- retry expired location: blocked on store systems.
+- sort duplicate bowl: open.
+- rename duplicate kitchen ticket: deferred to the next release.
+- paginate oversized guest in the queue: decided.
+- guard stale menu item: decided.
+- normalise duplicate order per store: blocked on store systems.
+- rename missing menu item: owner: delivery manager.
+- backfill partial promo: owner: delivery manager.

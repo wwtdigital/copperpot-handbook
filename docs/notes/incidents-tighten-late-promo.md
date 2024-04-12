@@ -7,3 +7,6 @@
 - expose stale loyalty credit on checkout: verified in staging.
 
 - dedupe cancelled receipt: deferred to the next release.
+
+- sort cancelled catering tray: open.
+- document expired promo per store: verified in staging.
