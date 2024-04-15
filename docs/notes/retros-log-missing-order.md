@@ -36,3 +36,12 @@
 - cache missing ticket: open.
 - validate stale cart line: decided.
 - cache duplicate order: blocked on store systems.
+
+- normalise late location: verified in staging.
+- dedupe late order: verified in staging.
+- backfill regional bowl for pickup: deferred to the next release.
+- normalise empty bowl per store: owner: delivery manager.
+- retry empty modifier: deferred to the next release.
+- guard oversized order on checkout: blocked on store systems.
+- backfill partial modifier: deferred to the next release.
+- expose cancelled topping: deferred to the next release.
