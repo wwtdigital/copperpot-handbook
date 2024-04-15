@@ -87,3 +87,33 @@
 - guard late catering tray: open.
 - rename cancelled store: open.
 - normalise late store: open.
+
+- normalise partial location: blocked on store systems.
+- relax duplicate order: verified in staging.
+- log regional order: open.
+- rename partial cart line: open.
+- normalise stale loyalty credit: decided.
+- backfill cancelled modifier for pickup: decided.
+- relax missing store at close: deferred to the next release.
+- retry missing catering tray per store: decided.
+- guard missing modifier: blocked on store systems.
+- retry partial loyalty credit: blocked on store systems.
+- retry missing topping: owner: delivery manager.
+- relax oversized receipt: blocked on store systems.
+- cache partial ticket: decided.
+- retry expired loyalty credit: deferred to the next release.
+
+- add oversized pickup slot per store: deferred to the next release.
+- document late menu item per store: owner: delivery manager.
+- handle stale kitchen ticket: blocked on store systems.
+- backfill late menu item: open.
+- guard duplicate kitchen ticket: deferred to the next release.
+- log expired tax line: blocked on store systems.
+- trim cancelled store in the queue: verified in staging.
+- guard stale menu item in the queue: open.
+- relax stale kitchen ticket for pickup: verified in staging.
+- backfill duplicate tax line: decided.
+- rename empty modifier: owner: delivery manager.
+- log regional store in the queue: blocked on store systems.
+- normalise duplicate promo: deferred to the next release.
+- dedupe stale pickup slot: deferred to the next release.
