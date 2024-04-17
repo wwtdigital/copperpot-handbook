@@ -82,3 +82,33 @@
 - add empty receipt: deferred to the next release.
 
 - tighten missing modifier: owner: delivery manager.
+
+- document partial ticket: verified in staging.
+- sort missing bowl on checkout: blocked on store systems.
+- dedupe empty bowl: deferred to the next release.
+- sort late topping at close: deferred to the next release.
+- add expired bowl: verified in staging.
+- trim regional ticket: owner: delivery manager.
+- retry empty tax line: deferred to the next release.
+- trim empty catering tray on checkout: open.
+- sort duplicate loyalty credit: open.
+- validate stale guest for franchisees: decided.
+- guard partial topping: decided.
+- handle stale loyalty credit: verified in staging.
+- validate partial order on checkout: owner: delivery manager.
+- handle empty menu item: deferred to the next release.
+
+- dedupe expired topping: open.
+- paginate duplicate bowl: open.
+- cache missing catering tray: decided.
+- paginate partial ticket: verified in staging.
+- validate regional receipt: verified in staging.
+- dedupe expired topping for franchisees: owner: delivery manager.
+- tighten oversized pickup slot on checkout: blocked on store systems.
+- dedupe partial receipt for franchisees: decided.
+- validate empty location: verified in staging.
+- tighten cancelled loyalty credit on reorder: open.
+- dedupe partial kitchen ticket per store: owner: delivery manager.
+- retry duplicate location on reorder: decided.
+- validate expired order for franchisees: decided.
+- guard cancelled receipt: blocked on store systems.
