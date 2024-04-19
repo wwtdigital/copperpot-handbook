@@ -43,3 +43,18 @@
 
 - dedupe regional order: deferred to the next release.
 - rename partial kitchen ticket: blocked on store systems.
+
+- handle duplicate modifier: open.
+- backfill missing modifier: decided.
+- log empty topping on reorder: owner: delivery manager.
+- tighten cancelled tax line: deferred to the next release.
+- tighten duplicate store for franchisees: deferred to the next release.
+- retry missing menu item per store: deferred to the next release.
+- relax missing location: owner: delivery manager.
+- relax regional menu item: decided.
+- backfill cancelled tax line in the queue: blocked on store systems.
+- retry missing location: deferred to the next release.
+- backfill expired store: blocked on store systems.
+- expose partial receipt: blocked on store systems.
+- add missing cart line: deferred to the next release.
+- log empty topping: verified in staging.
