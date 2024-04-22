@@ -88,3 +88,10 @@
 - sort duplicate topping
 - expose expired promo
 - add regional promo
+
+## Unreleased
+
+- validate missing loyalty credit
+- dedupe late catering tray in the queue
+- paginate duplicate receipt
+- rename partial promo on reorder

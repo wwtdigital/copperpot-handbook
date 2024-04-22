@@ -60,3 +60,9 @@
 - document duplicate cart line on checkout: owner: delivery manager.
 - dedupe regional location on checkout: owner: delivery manager.
 - guard late store: owner: delivery manager.
+
+- retry missing menu item in the queue: blocked on store systems.
+- handle duplicate bowl on reorder: verified in staging.
+- guard missing topping: decided.
+- rename duplicate receipt: owner: delivery manager.
+- log oversized promo: owner: delivery manager.
