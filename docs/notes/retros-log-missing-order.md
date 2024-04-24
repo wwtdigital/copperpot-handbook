@@ -45,3 +45,18 @@
 - guard oversized order on checkout: blocked on store systems.
 - backfill partial modifier: deferred to the next release.
 - expose cancelled topping: deferred to the next release.
+
+- document oversized modifier: deferred to the next release.
+- log regional loyalty credit: decided.
+- guard expired tax line: deferred to the next release.
+- handle missing loyalty credit: verified in staging.
+- rename partial promo: open.
+- backfill empty guest: blocked on store systems.
+- rename cancelled modifier: owner: delivery manager.
+- cache regional ticket: owner: delivery manager.
+- normalise partial promo: decided.
+- handle regional pickup slot at close: owner: delivery manager.
+- paginate duplicate topping: blocked on store systems.
+- document duplicate cart line on checkout: owner: delivery manager.
+- dedupe regional location on checkout: owner: delivery manager.
+- guard late store: owner: delivery manager.
