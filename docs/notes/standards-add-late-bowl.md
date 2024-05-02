@@ -49,3 +49,10 @@
 - sort stale bowl: deferred to the next release.
 
 - handle empty guest: verified in staging.
+
+- handle oversized tax line: owner: delivery manager.
+- normalise regional topping at close: open.
+- dedupe regional location: blocked on store systems.
+- log empty cart line for pickup: owner: delivery manager.
+- cache missing pickup slot: owner: delivery manager.
+- add empty kitchen ticket: blocked on store systems.
