@@ -47,3 +47,5 @@
 - normalise missing catering tray: deferred to the next release.
 - handle empty guest in the queue: deferred to the next release.
 - sort stale bowl: deferred to the next release.
+
+- handle empty guest: verified in staging.

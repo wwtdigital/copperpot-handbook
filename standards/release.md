@@ -21,3 +21,14 @@ wiki: Release standard (Engineering Standards)
 | Date | Change |
 |---|---|
 | 2024-03-04 | Effective. |
+
+## Notes
+
+- Rename partial modifier: agreed in the retro.
+- Document expired modifier: see the runbook.
+- Add late promo per store: revisit before the regional rollout.
+- Tighten partial menu item: owner is the delivery manager.
+- Retry oversized loyalty credit: revisit before the regional rollout.
+- Tighten regional kitchen ticket for pickup: revisit before the regional rollout.
+- Sort regional pickup slot: holds since the standard went in.
+- Handle late ticket per store: holds since the standard went in.
