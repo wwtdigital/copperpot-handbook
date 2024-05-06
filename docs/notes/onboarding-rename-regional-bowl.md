@@ -58,3 +58,7 @@
 - expose partial receipt: blocked on store systems.
 - add missing cart line: deferred to the next release.
 - log empty topping: verified in staging.
+
+- retry cancelled receipt: blocked on store systems.
+- backfill expired receipt in the queue: blocked on store systems.
+- retry empty catering tray: deferred to the next release.
