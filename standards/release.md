@@ -32,3 +32,5 @@ wiki: Release standard (Engineering Standards)
 - Tighten regional kitchen ticket for pickup: revisit before the regional rollout.
 - Sort regional pickup slot: holds since the standard went in.
 - Handle late ticket per store: holds since the standard went in.
+- Trim oversized ticket: revisit before the regional rollout.
+- Retry expired delivery window: revisit before the regional rollout.

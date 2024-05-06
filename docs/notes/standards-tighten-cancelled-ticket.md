@@ -130,3 +130,6 @@
 - add missing store: decided.
 - guard oversized order: decided.
 - handle regional topping per store: decided.
+
+- rename empty topping for franchisees: owner: delivery manager.
+- normalise regional topping for pickup: decided.

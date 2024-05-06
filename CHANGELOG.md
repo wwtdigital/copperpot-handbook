@@ -95,3 +95,10 @@
 - dedupe late catering tray in the queue
 - paginate duplicate receipt
 - rename partial promo on reorder
+
+## Unreleased
+
+- tighten missing menu item
+- dedupe expired kitchen ticket
+- trim cancelled order
+- relax empty location at close
