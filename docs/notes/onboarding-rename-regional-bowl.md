@@ -62,3 +62,18 @@
 - retry cancelled receipt: blocked on store systems.
 - backfill expired receipt in the queue: blocked on store systems.
 - retry empty catering tray: deferred to the next release.
+
+- trim oversized loyalty credit: deferred to the next release.
+- handle late kitchen ticket on checkout: open.
+- sort stale promo per store: open.
+- cache stale modifier at close: owner: delivery manager.
+- tighten missing delivery window: decided.
+- expose empty cart line: verified in staging.
+- cache regional cart line for pickup: owner: delivery manager.
+- backfill expired kitchen ticket: decided.
+- normalise expired bowl: decided.
+- relax cancelled location on checkout: open.
+- sort empty tax line per store: verified in staging.
+- guard oversized topping: owner: delivery manager.
+- tighten expired modifier: open.
+- document partial guest on reorder: blocked on store systems.
