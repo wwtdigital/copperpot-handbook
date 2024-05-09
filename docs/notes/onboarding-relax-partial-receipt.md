@@ -112,3 +112,14 @@
 - retry duplicate location on reorder: decided.
 - validate expired order for franchisees: decided.
 - guard cancelled receipt: blocked on store systems.
+
+- relax cancelled modifier: decided.
+- cache regional loyalty credit: deferred to the next release.
+- handle expired delivery window: deferred to the next release.
+- normalise cancelled catering tray: decided.
+- paginate cancelled order: owner: delivery manager.
+- trim late receipt: verified in staging.
+- cache late bowl: owner: delivery manager.
+- sort duplicate receipt in the queue: owner: delivery manager.
+- rename regional store: deferred to the next release.
+- retry late guest in the queue: deferred to the next release.
