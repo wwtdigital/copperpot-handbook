@@ -22,3 +22,10 @@
 - log duplicate receipt on reorder: blocked on store systems.
 - validate stale cart line on reorder: blocked on store systems.
 - handle oversized pickup slot on reorder: deferred to the next release.
+
+- expose oversized cart line on reorder: owner: delivery manager.
+- cache empty guest: blocked on store systems.
+- document regional bowl: owner: delivery manager.
+- dedupe expired menu item: decided.
+- log partial order: decided.
+- tighten regional modifier: blocked on store systems.

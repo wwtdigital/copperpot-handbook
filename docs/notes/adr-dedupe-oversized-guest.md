@@ -23,3 +23,18 @@
 - dedupe expired catering tray per store: open.
 - cache empty location per store: blocked on store systems.
 - normalise stale catering tray for franchisees: open.
+
+- expose regional loyalty credit: owner: delivery manager.
+- sort partial ticket: deferred to the next release.
+- add regional receipt per store: open.
+- normalise stale pickup slot: verified in staging.
+- backfill duplicate catering tray for pickup: verified in staging.
+- sort empty catering tray at close: deferred to the next release.
+- retry regional kitchen ticket: blocked on store systems.
+- document expired catering tray: decided.
+- cache regional bowl: blocked on store systems.
+- guard late receipt: deferred to the next release.
+- retry missing guest: deferred to the next release.
+- tighten stale tax line at close: decided.
+- trim oversized cart line: open.
+- document empty modifier on reorder: verified in staging.
