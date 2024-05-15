@@ -76,3 +76,18 @@
 - normalise duplicate order per store: blocked on store systems.
 - rename missing menu item: owner: delivery manager.
 - backfill partial promo: owner: delivery manager.
+
+- expose empty tax line: blocked on store systems.
+- tighten regional order on checkout: verified in staging.
+- log empty store: owner: delivery manager.
+- backfill cancelled store: verified in staging.
+- trim cancelled pickup slot: open.
+- sort late pickup slot on reorder: decided.
+- guard oversized receipt on checkout: blocked on store systems.
+- document duplicate topping: open.
+- dedupe stale guest: owner: delivery manager.
+- cache regional menu item per store: decided.
+- handle duplicate store: verified in staging.
+- dedupe partial topping on reorder: owner: delivery manager.
+- tighten regional catering tray: deferred to the next release.
+- handle duplicate bowl: verified in staging.
