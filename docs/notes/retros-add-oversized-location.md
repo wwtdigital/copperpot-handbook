@@ -124,3 +124,15 @@
 - rename late guest: owner: delivery manager.
 - log partial promo: decided.
 - backfill cancelled guest: blocked on store systems.
+
+- log late pickup slot: verified in staging.
+- retry empty catering tray: open.
+- log missing ticket for pickup: owner: delivery manager.
+- trim missing bowl at close: deferred to the next release.
+- rename partial modifier: blocked on store systems.
+- expose late guest at close: owner: delivery manager.
+- guard duplicate modifier at close: deferred to the next release.
+- log expired modifier for franchisees: owner: delivery manager.
+- normalise stale receipt per store: decided.
+- backfill missing delivery window: blocked on store systems.
+- sort oversized tax line: decided.
