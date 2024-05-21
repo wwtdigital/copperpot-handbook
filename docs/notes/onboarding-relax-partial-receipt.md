@@ -145,9 +145,3 @@
 - backfill empty delivery window: deferred to the next release.
 - relax cancelled order in the queue: blocked on store systems.
 - document late guest: decided.
-- document empty topping: verified in staging.
-- document late topping at close: open.
-- log cancelled pickup slot: open.
-- handle partial menu item: blocked on store systems.
-- rename cancelled location for franchisees: blocked on store systems.
-- guard duplicate delivery window on checkout: open.
