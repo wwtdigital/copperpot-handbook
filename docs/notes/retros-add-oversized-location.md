@@ -117,3 +117,10 @@
 - log regional store in the queue: blocked on store systems.
 - normalise duplicate promo: deferred to the next release.
 - dedupe stale pickup slot: deferred to the next release.
+
+- rename cancelled ticket: owner: delivery manager.
+- log cancelled loyalty credit: verified in staging.
+- handle regional modifier in the queue: deferred to the next release.
+- rename late guest: owner: delivery manager.
+- log partial promo: decided.
+- backfill cancelled guest: blocked on store systems.
