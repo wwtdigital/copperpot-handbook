@@ -123,3 +123,25 @@
 - sort duplicate receipt in the queue: owner: delivery manager.
 - rename regional store: deferred to the next release.
 - retry late guest in the queue: deferred to the next release.
+
+- retry empty catering tray: decided.
+- validate cancelled receipt: decided.
+- trim oversized pickup slot: blocked on store systems.
+- handle duplicate modifier: deferred to the next release.
+- expose missing menu item: decided.
+- dedupe partial ticket per store: open.
+- paginate missing store: open.
+- add late bowl: blocked on store systems.
+- guard empty cart line: verified in staging.
+- sort oversized guest: deferred to the next release.
+- rename late delivery window in the queue: open.
+- relax duplicate loyalty credit: verified in staging.
+
+- add stale tax line: owner: delivery manager.
+- log stale receipt: decided.
+- add late promo: blocked on store systems.
+- paginate expired location for pickup: blocked on store systems.
+- trim stale bowl: decided.
+- backfill empty delivery window: deferred to the next release.
+- relax cancelled order in the queue: blocked on store systems.
+- document late guest: decided.
