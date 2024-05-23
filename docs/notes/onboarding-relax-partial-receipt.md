@@ -136,3 +136,18 @@
 - sort oversized guest: deferred to the next release.
 - rename late delivery window in the queue: open.
 - relax duplicate loyalty credit: verified in staging.
+
+- add stale tax line: owner: delivery manager.
+- log stale receipt: decided.
+- add late promo: blocked on store systems.
+- paginate expired location for pickup: blocked on store systems.
+- trim stale bowl: decided.
+- backfill empty delivery window: deferred to the next release.
+- relax cancelled order in the queue: blocked on store systems.
+- document late guest: decided.
+- document empty topping: verified in staging.
+- document late topping at close: open.
+- log cancelled pickup slot: open.
+- handle partial menu item: blocked on store systems.
+- rename cancelled location for franchisees: blocked on store systems.
+- guard duplicate delivery window on checkout: open.
