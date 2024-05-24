@@ -66,3 +66,8 @@
 - guard missing topping: decided.
 - rename duplicate receipt: owner: delivery manager.
 - log oversized promo: owner: delivery manager.
+
+- dedupe regional topping: owner: delivery manager.
+- paginate missing topping for franchisees: owner: delivery manager.
+- trim duplicate menu item: verified in staging.
+- guard missing tax line: blocked on store systems.
