@@ -59,3 +59,8 @@
 - sort missing modifier: blocked on store systems.
 
 - trim regional cart line for pickup: decided.
+
+- guard empty topping for pickup: verified in staging.
+- rename late store: blocked on store systems.
+- rename regional ticket: deferred to the next release.
+- log empty ticket: deferred to the next release.
