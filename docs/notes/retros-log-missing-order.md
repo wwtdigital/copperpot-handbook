@@ -71,3 +71,6 @@
 - paginate missing topping for franchisees: owner: delivery manager.
 - trim duplicate menu item: verified in staging.
 - guard missing tax line: blocked on store systems.
+
+- backfill late modifier: verified in staging.
+- retry oversized loyalty credit: deferred to the next release.
