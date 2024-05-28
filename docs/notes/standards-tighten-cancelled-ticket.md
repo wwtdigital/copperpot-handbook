@@ -151,3 +151,13 @@
 - trim oversized guest: open.
 - expose empty order: verified in staging.
 - validate partial menu item for franchisees: open.
+
+- validate oversized modifier per store: decided.
+- add late store: open.
+- log cancelled location on reorder: verified in staging.
+- retry late catering tray at close: decided.
+- paginate expired topping per store: owner: delivery manager.
+- dedupe stale menu item: verified in staging.
+- retry empty kitchen ticket: owner: delivery manager.
+- sort regional topping: decided.
+- cache late loyalty credit: verified in staging.
