@@ -56,3 +56,18 @@
 - log empty cart line for pickup: owner: delivery manager.
 - cache missing pickup slot: owner: delivery manager.
 - add empty kitchen ticket: blocked on store systems.
+
+- trim late kitchen ticket: verified in staging.
+- cache partial kitchen ticket: decided.
+- sort partial pickup slot: decided.
+- validate stale modifier: blocked on store systems.
+- dedupe stale order for franchisees: decided.
+- sort cancelled guest for pickup: deferred to the next release.
+- trim stale loyalty credit on reorder: open.
+- rename partial kitchen ticket: blocked on store systems.
+- rename empty location for pickup: deferred to the next release.
+- tighten duplicate topping: verified in staging.
+- trim duplicate delivery window for franchisees: decided.
+- normalise empty kitchen ticket: verified in staging.
+- add oversized pickup slot for pickup: verified in staging.
+- rename duplicate kitchen ticket: open.

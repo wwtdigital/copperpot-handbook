@@ -133,3 +133,21 @@
 
 - rename empty topping for franchisees: owner: delivery manager.
 - normalise regional topping for pickup: decided.
+
+- retry expired loyalty credit: deferred to the next release.
+- rename empty catering tray per store: decided.
+- relax cancelled store: verified in staging.
+- backfill empty location: deferred to the next release.
+- dedupe stale cart line in the queue: deferred to the next release.
+- expose duplicate store on reorder: verified in staging.
+
+- cache stale kitchen ticket in the queue: deferred to the next release.
+- validate missing delivery window: blocked on store systems.
+- guard empty cart line: decided.
+- normalise missing tax line: verified in staging.
+- trim stale store: decided.
+- handle cancelled receipt on checkout: deferred to the next release.
+- guard late store: verified in staging.
+- trim oversized guest: open.
+- expose empty order: verified in staging.
+- validate partial menu item for franchisees: open.
