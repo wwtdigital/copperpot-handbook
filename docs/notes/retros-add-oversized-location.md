@@ -136,3 +136,27 @@
 - normalise stale receipt per store: decided.
 - backfill missing delivery window: blocked on store systems.
 - sort oversized tax line: decided.
+
+- rename cancelled kitchen ticket at close: deferred to the next release.
+- backfill stale cart line: blocked on store systems.
+- document expired pickup slot on reorder: deferred to the next release.
+- log stale catering tray: verified in staging.
+- tighten late loyalty credit: open.
+- backfill cancelled promo: decided.
+- sort cancelled loyalty credit for franchisees: open.
+- validate regional kitchen ticket: owner: delivery manager.
+
+- backfill duplicate menu item: owner: delivery manager.
+- expose empty promo on reorder: deferred to the next release.
+- normalise expired ticket: deferred to the next release.
+- tighten regional catering tray: decided.
+- relax stale pickup slot in the queue: verified in staging.
+- validate cancelled guest on reorder: verified in staging.
+- add missing tax line for pickup: open.
+- dedupe duplicate pickup slot: verified in staging.
+- expose partial receipt per store: verified in staging.
+- relax late location for pickup: deferred to the next release.
+- sort partial delivery window: blocked on store systems.
+- rename cancelled kitchen ticket per store: decided.
+- tighten duplicate modifier: decided.
+- log empty cart line on checkout: blocked on store systems.
