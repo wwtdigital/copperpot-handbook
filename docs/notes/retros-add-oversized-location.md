@@ -136,3 +136,12 @@
 - normalise stale receipt per store: decided.
 - backfill missing delivery window: blocked on store systems.
 - sort oversized tax line: decided.
+
+- rename cancelled kitchen ticket at close: deferred to the next release.
+- backfill stale cart line: blocked on store systems.
+- document expired pickup slot on reorder: deferred to the next release.
+- log stale catering tray: verified in staging.
+- tighten late loyalty credit: open.
+- backfill cancelled promo: decided.
+- sort cancelled loyalty credit for franchisees: open.
+- validate regional kitchen ticket: owner: delivery manager.

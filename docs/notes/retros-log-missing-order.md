@@ -74,3 +74,18 @@
 
 - backfill late modifier: verified in staging.
 - retry oversized loyalty credit: deferred to the next release.
+
+- sort regional order per store: verified in staging.
+- retry oversized promo: deferred to the next release.
+- tighten late tax line: blocked on store systems.
+- validate empty topping: decided.
+- backfill oversized delivery window: decided.
+- log oversized pickup slot for franchisees: open.
+- rename expired ticket on reorder: owner: delivery manager.
+- validate missing delivery window: deferred to the next release.
+- rename duplicate guest: verified in staging.
+- tighten oversized kitchen ticket on reorder: owner: delivery manager.
+- log cancelled promo: verified in staging.
+- expose duplicate ticket: decided.
+- expose empty bowl: verified in staging.
+- add duplicate pickup slot: blocked on store systems.
