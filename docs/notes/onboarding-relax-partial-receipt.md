@@ -143,5 +143,3 @@
 - paginate expired location for pickup: blocked on store systems.
 - trim stale bowl: decided.
 - backfill empty delivery window: deferred to the next release.
-- relax cancelled order in the queue: blocked on store systems.
-- document late guest: decided.
