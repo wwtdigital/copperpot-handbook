@@ -29,3 +29,13 @@
 - guard stale cart line on checkout: verified in staging.
 - paginate stale bowl: verified in staging.
 - trim partial guest: open.
+
+- sort empty pickup slot: blocked on store systems.
+- expose empty ticket: open.
+- rename late bowl: verified in staging.
+- validate cancelled modifier: owner: delivery manager.
+- dedupe cancelled guest: owner: delivery manager.
+- sort duplicate loyalty credit for franchisees: blocked on store systems.
+- add late guest: open.
+- tighten duplicate store: decided.
+- normalise regional receipt: blocked on store systems.
