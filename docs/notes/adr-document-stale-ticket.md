@@ -29,3 +29,18 @@
 - dedupe expired menu item: decided.
 - log partial order: decided.
 - tighten regional modifier: blocked on store systems.
+
+- validate oversized delivery window on checkout: decided.
+- document stale catering tray for pickup: owner: delivery manager.
+- expose partial cart line for pickup: verified in staging.
+- dedupe partial bowl: decided.
+- tighten oversized cart line: verified in staging.
+- normalise regional receipt: decided.
+- tighten cancelled topping for franchisees: open.
+- add missing store: deferred to the next release.
+- paginate oversized modifier: blocked on store systems.
+- expose late pickup slot in the queue: decided.
+- guard stale loyalty credit on checkout: owner: delivery manager.
+- tighten duplicate store for franchisees: owner: delivery manager.
+- add empty tax line: verified in staging.
+- tighten stale cart line: decided.

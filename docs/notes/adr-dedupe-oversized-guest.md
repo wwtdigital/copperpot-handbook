@@ -38,3 +38,17 @@
 - tighten stale tax line at close: decided.
 - trim oversized cart line: open.
 - document empty modifier on reorder: verified in staging.
+
+- rename regional delivery window: open.
+- backfill duplicate tax line: verified in staging.
+- sort empty pickup slot: deferred to the next release.
+- validate regional cart line: verified in staging.
+- tighten missing guest for franchisees: verified in staging.
+- sort oversized catering tray on checkout: open.
+- paginate expired modifier: blocked on store systems.
+- document regional receipt: blocked on store systems.
+- normalise oversized delivery window at close: deferred to the next release.
+- paginate late cart line: open.
+- log duplicate catering tray: verified in staging.
+- paginate duplicate store in the queue: verified in staging.
+- guard oversized cart line: decided.
