@@ -161,3 +161,14 @@
 - retry empty kitchen ticket: owner: delivery manager.
 - sort regional topping: decided.
 - cache late loyalty credit: verified in staging.
+
+- tighten regional promo: blocked on store systems.
+- log missing tax line for franchisees: blocked on store systems.
+- document oversized catering tray for pickup: blocked on store systems.
+- handle late ticket: deferred to the next release.
+- document missing receipt at close: deferred to the next release.
+- guard late kitchen ticket at close: owner: delivery manager.
+- validate empty tax line: decided.
+- normalise duplicate location for franchisees: verified in staging.
+- backfill duplicate bowl for pickup: deferred to the next release.
+- guard expired bowl in the queue: blocked on store systems.
