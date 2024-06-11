@@ -52,3 +52,27 @@
 - log duplicate catering tray: verified in staging.
 - paginate duplicate store in the queue: verified in staging.
 - guard oversized cart line: decided.
+
+- guard duplicate pickup slot for franchisees: blocked on store systems.
+- cache missing order: deferred to the next release.
+- add missing delivery window: blocked on store systems.
+- document empty promo: open.
+- guard oversized ticket: deferred to the next release.
+- validate missing menu item at close: decided.
+- expose stale order for franchisees: decided.
+- add cancelled ticket in the queue: open.
+- normalise oversized promo: owner: delivery manager.
+- dedupe expired menu item: verified in staging.
+- document cancelled location for pickup: owner: delivery manager.
+- handle late delivery window: blocked on store systems.
+- tighten expired modifier: owner: delivery manager.
+- document oversized ticket in the queue: owner: delivery manager.
+
+- paginate empty loyalty credit: owner: delivery manager.
+- dedupe oversized location: decided.
+- log empty store: blocked on store systems.
+- relax expired modifier for franchisees: open.
+- log cancelled menu item: blocked on store systems.
+- retry cancelled pickup slot: open.
+- dedupe cancelled store: deferred to the next release.
+- guard stale promo on checkout: decided.

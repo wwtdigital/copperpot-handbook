@@ -102,3 +102,10 @@
 - dedupe expired kitchen ticket
 - trim cancelled order
 - relax empty location at close
+
+## Unreleased
+
+- normalise empty location on reorder
+- validate duplicate location
+- expose duplicate promo
+- trim stale receipt
