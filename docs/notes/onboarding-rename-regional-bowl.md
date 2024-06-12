@@ -77,3 +77,20 @@
 - guard oversized topping: owner: delivery manager.
 - tighten expired modifier: open.
 - document partial guest on reorder: blocked on store systems.
+
+- add partial store: deferred to the next release.
+- backfill partial loyalty credit in the queue: owner: delivery manager.
+- expose duplicate store for pickup: deferred to the next release.
+- retry cancelled catering tray in the queue: blocked on store systems.
+- handle missing location at close: blocked on store systems.
+- validate late pickup slot: decided.
+- retry expired location: decided.
+- handle regional promo on checkout: deferred to the next release.
+- normalise expired bowl: decided.
+- cache missing promo: blocked on store systems.
+- trim stale kitchen ticket: blocked on store systems.
+- add expired guest: open.
+- document stale promo per store: open.
+- normalise empty pickup slot in the queue: blocked on store systems.
+
+- validate oversized ticket on reorder: verified in staging.
