@@ -6,3 +6,14 @@
 
 - cache regional modifier on checkout: verified in staging.
 - log missing pickup slot on reorder: decided.
+
+- trim partial ticket: decided.
+- validate missing tax line: owner: delivery manager.
+- trim partial modifier: blocked on store systems.
+- dedupe cancelled bowl on reorder: blocked on store systems.
+- document regional kitchen ticket on reorder: owner: delivery manager.
+- tighten regional guest: blocked on store systems.
+- rename duplicate store: verified in staging.
+- guard expired order at close: owner: delivery manager.
+- tighten empty promo: deferred to the next release.
+- backfill late location: owner: delivery manager.
