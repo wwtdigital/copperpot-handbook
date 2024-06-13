@@ -50,3 +50,18 @@
 - guard missing guest for pickup: owner: delivery manager.
 - tighten cancelled store at close: blocked on store systems.
 - backfill stale delivery window: owner: delivery manager.
+
+- backfill cancelled catering tray in the queue: verified in staging.
+- log empty menu item: decided.
+- add missing store: blocked on store systems.
+- expose cancelled kitchen ticket: open.
+- normalise stale menu item per store: deferred to the next release.
+- add stale topping: open.
+- sort stale menu item: deferred to the next release.
+- normalise expired kitchen ticket per store: blocked on store systems.
+- add empty kitchen ticket: verified in staging.
+- validate missing modifier on checkout: owner: delivery manager.
+- rename late tax line: open.
+- document oversized location: deferred to the next release.
+- retry empty guest in the queue: deferred to the next release.
+- log duplicate guest per store: owner: delivery manager.
