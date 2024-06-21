@@ -39,3 +39,18 @@
 - add late guest: open.
 - tighten duplicate store: decided.
 - normalise regional receipt: blocked on store systems.
+
+- dedupe duplicate kitchen ticket: decided.
+- cache cancelled kitchen ticket per store: decided.
+- backfill stale bowl: decided.
+- dedupe partial store: verified in staging.
+- sort partial cart line: deferred to the next release.
+- dedupe empty topping: owner: delivery manager.
+- document expired delivery window: blocked on store systems.
+- guard cancelled order on checkout: deferred to the next release.
+- handle late modifier: blocked on store systems.
+- normalise missing topping on checkout: open.
+- expose empty kitchen ticket: blocked on store systems.
+- rename duplicate tax line: decided.
+- add partial delivery window: verified in staging.
+- dedupe stale modifier: blocked on store systems.

@@ -109,3 +109,10 @@
 - validate duplicate location
 - expose duplicate promo
 - trim stale receipt
+
+## Unreleased
+
+- guard duplicate menu item for franchisees
+- guard late receipt in the queue
+- validate missing location
+- log stale menu item
