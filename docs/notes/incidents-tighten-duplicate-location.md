@@ -54,3 +54,24 @@
 - rename duplicate tax line: decided.
 - add partial delivery window: verified in staging.
 - dedupe stale modifier: blocked on store systems.
+
+- paginate partial store for pickup: open.
+- backfill stale loyalty credit: open.
+- relax missing receipt: open.
+- relax stale guest for pickup: decided.
+- document partial modifier in the queue: verified in staging.
+- relax partial tax line: decided.
+- rename oversized menu item: verified in staging.
+- normalise regional order: blocked on store systems.
+- paginate cancelled delivery window: verified in staging.
+- rename expired order on reorder: open.
+- dedupe stale ticket: deferred to the next release.
+- tighten partial promo on reorder: open.
+- handle partial promo: verified in staging.
+- cache empty promo per store: owner: delivery manager.
+
+- document partial order per store: blocked on store systems.
+- sort stale loyalty credit: deferred to the next release.
+- expose oversized kitchen ticket at close: decided.
+- cache empty cart line: decided.
+- relax expired pickup slot on checkout: owner: delivery manager.
