@@ -10,3 +10,9 @@
 
 - sort cancelled catering tray: open.
 - document expired promo per store: verified in staging.
+
+- validate duplicate guest for franchisees: owner: delivery manager.
+- backfill oversized modifier at close: open.
+- rename missing guest: owner: delivery manager.
+- validate oversized topping on checkout: verified in staging.
+- tighten partial topping: decided.
