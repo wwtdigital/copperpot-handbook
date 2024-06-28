@@ -36,3 +36,18 @@
 - backfill regional kitchen ticket: open.
 - log missing modifier: blocked on store systems.
 - relax late pickup slot: verified in staging.
+
+- rename stale promo: open.
+- relax partial kitchen ticket: owner: delivery manager.
+- sort late topping on reorder: deferred to the next release.
+- relax duplicate kitchen ticket at close: decided.
+- rename oversized bowl: blocked on store systems.
+- log expired modifier: blocked on store systems.
+- dedupe empty location on checkout: open.
+- retry oversized receipt: verified in staging.
+- validate partial menu item: deferred to the next release.
+- sort empty delivery window: decided.
+- sort late kitchen ticket: decided.
+- expose empty loyalty credit: owner: delivery manager.
+- validate expired delivery window: decided.
+- expose expired guest per store: deferred to the next release.
