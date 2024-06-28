@@ -23,3 +23,16 @@
 - relax empty ticket on reorder: verified in staging.
 - sort regional delivery window in the queue: deferred to the next release.
 - handle regional bowl on reorder: blocked on store systems.
+
+- backfill stale ticket: deferred to the next release.
+- log missing modifier per store: deferred to the next release.
+- handle partial pickup slot: open.
+- relax late ticket: blocked on store systems.
+- log partial menu item: decided.
+- log cancelled order: blocked on store systems.
+- rename empty kitchen ticket at close: deferred to the next release.
+- relax duplicate catering tray: owner: delivery manager.
+- add regional tax line: deferred to the next release.
+- backfill regional kitchen ticket: open.
+- log missing modifier: blocked on store systems.
+- relax late pickup slot: verified in staging.
