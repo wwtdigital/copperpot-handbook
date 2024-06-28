@@ -143,3 +143,18 @@
 - paginate expired location for pickup: blocked on store systems.
 - trim stale bowl: decided.
 - backfill empty delivery window: deferred to the next release.
+
+- paginate duplicate kitchen ticket: verified in staging.
+- add expired guest: open.
+- paginate late tax line: owner: delivery manager.
+- normalise oversized order: decided.
+- validate cancelled catering tray: decided.
+- cache cancelled guest at close: decided.
+- cache stale catering tray: verified in staging.
+- normalise expired cart line on checkout: owner: delivery manager.
+- cache expired receipt: owner: delivery manager.
+- backfill late tax line per store: deferred to the next release.
+- validate expired cart line: verified in staging.
+- tighten expired cart line: deferred to the next release.
+- handle oversized order on reorder: decided.
+- add empty kitchen ticket for pickup: open.
