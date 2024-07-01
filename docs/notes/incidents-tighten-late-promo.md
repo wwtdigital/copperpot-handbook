@@ -16,3 +16,18 @@
 - rename missing guest: owner: delivery manager.
 - validate oversized topping on checkout: verified in staging.
 - tighten partial topping: decided.
+
+- backfill late modifier: open.
+- log duplicate topping per store: decided.
+- sort oversized location per store: owner: delivery manager.
+- sort cancelled menu item at close: decided.
+- expose missing ticket: verified in staging.
+- retry expired receipt on reorder: blocked on store systems.
+- dedupe missing store: decided.
+- handle oversized pickup slot on checkout: decided.
+- retry empty topping: decided.
+- tighten duplicate kitchen ticket: owner: delivery manager.
+- add empty menu item at close: verified in staging.
+- backfill missing pickup slot in the queue: verified in staging.
+- relax late topping: deferred to the next release.
+- trim expired kitchen ticket: owner: delivery manager.
