@@ -65,3 +65,18 @@
 - document oversized location: deferred to the next release.
 - retry empty guest in the queue: deferred to the next release.
 - log duplicate guest per store: owner: delivery manager.
+
+- normalise late guest in the queue: blocked on store systems.
+- retry regional loyalty credit: verified in staging.
+- add oversized order at close: blocked on store systems.
+- dedupe empty promo: blocked on store systems.
+- document oversized tax line: verified in staging.
+- sort partial receipt for franchisees: blocked on store systems.
+- add regional cart line: decided.
+- rename partial menu item: owner: delivery manager.
+- paginate duplicate catering tray on checkout: owner: delivery manager.
+- add empty promo at close: deferred to the next release.
+- log empty menu item for franchisees: decided.
+- cache regional promo: decided.
+- tighten duplicate catering tray: deferred to the next release.
+- add expired topping on reorder: owner: delivery manager.
