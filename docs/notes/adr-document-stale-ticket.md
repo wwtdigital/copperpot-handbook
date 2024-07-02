@@ -59,3 +59,8 @@
 - expose partial ticket: verified in staging.
 - retry stale bowl on reorder: open.
 - expose oversized location: deferred to the next release.
+
+- backfill expired order: owner: delivery manager.
+- normalise oversized modifier: blocked on store systems.
+- document stale guest: decided.
+- rename partial guest: deferred to the next release.
