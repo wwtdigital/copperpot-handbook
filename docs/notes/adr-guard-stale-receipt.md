@@ -70,3 +70,18 @@
 - retry regional loyalty credit: verified in staging.
 - add oversized order at close: blocked on store systems.
 - dedupe empty promo: blocked on store systems.
+
+- expose cancelled guest: open.
+- normalise late kitchen ticket in the queue: decided.
+- retry regional store for pickup: open.
+- add empty receipt: deferred to the next release.
+- sort stale location: owner: delivery manager.
+- guard regional loyalty credit on reorder: owner: delivery manager.
+- dedupe oversized bowl: open.
+- dedupe regional topping on checkout: open.
+- document partial order: open.
+- normalise oversized bowl in the queue: verified in staging.
+- backfill late store: blocked on store systems.
+- expose partial cart line on checkout: blocked on store systems.
+- rename stale delivery window: owner: delivery manager.
+- backfill duplicate delivery window: deferred to the next release.
