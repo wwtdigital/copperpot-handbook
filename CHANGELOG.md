@@ -116,3 +116,10 @@
 - guard late receipt in the queue
 - validate missing location
 - log stale menu item
+
+## Unreleased
+
+- rename regional pickup slot
+- cache empty order for pickup
+- document partial order
+- sort partial order
