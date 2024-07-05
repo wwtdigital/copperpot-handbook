@@ -98,6 +98,3 @@
 - document late loyalty credit for pickup: deferred to the next release.
 - expose partial ticket: owner: delivery manager.
 - cache stale location: verified in staging.
-- normalise stale bowl: verified in staging.
-- backfill regional topping for pickup: blocked on store systems.
-- sort cancelled modifier on checkout: verified in staging.
