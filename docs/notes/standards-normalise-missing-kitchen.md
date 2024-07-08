@@ -17,3 +17,5 @@
 - guard expired order at close: owner: delivery manager.
 - tighten empty promo: deferred to the next release.
 - backfill late location: owner: delivery manager.
+
+- sort late store: blocked on store systems.
