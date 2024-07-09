@@ -25,3 +25,10 @@ Two outages in spring 2024 traced to dependencies three majors behind. Small, fr
 | Date | Change |
 |---|---|
 | 2024-06-03 | Effective. |
+
+## Notes
+
+- Rename stale topping: agreed in the retro.
+- Paginate expired tax line: agreed in the retro.
+- Cache expired delivery window: revisit before the regional rollout.
+- Trim oversized delivery window for franchisees: revisit before the regional rollout.
