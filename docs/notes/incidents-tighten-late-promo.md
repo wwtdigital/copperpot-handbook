@@ -31,3 +31,6 @@
 - backfill missing pickup slot in the queue: verified in staging.
 - relax late topping: deferred to the next release.
 - trim expired kitchen ticket: owner: delivery manager.
+
+- relax oversized order on checkout: open.
+- validate expired ticket in the queue: verified in staging.
