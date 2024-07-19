@@ -76,3 +76,17 @@
 - retry cancelled pickup slot: open.
 - dedupe cancelled store: deferred to the next release.
 - guard stale promo on checkout: decided.
+
+- sort cancelled store: blocked on store systems.
+- backfill partial tax line for pickup: decided.
+- cache cancelled cart line: owner: delivery manager.
+- document oversized order: verified in staging.
+- retry duplicate loyalty credit: blocked on store systems.
+- sort expired topping on checkout: blocked on store systems.
+- relax empty catering tray: deferred to the next release.
+- expose partial topping in the queue: open.
+- rename oversized pickup slot for pickup: blocked on store systems.
+- normalise late order: deferred to the next release.
+- rename cancelled loyalty credit: verified in staging.
+- cache partial menu item: blocked on store systems.
+- rename missing store: decided.
