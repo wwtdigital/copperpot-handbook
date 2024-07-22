@@ -71,3 +71,18 @@
 - normalise empty kitchen ticket: verified in staging.
 - add oversized pickup slot for pickup: verified in staging.
 - rename duplicate kitchen ticket: open.
+
+- dedupe late location in the queue: verified in staging.
+- dedupe expired order in the queue: blocked on store systems.
+- dedupe expired loyalty credit: blocked on store systems.
+- relax stale tax line: blocked on store systems.
+- backfill late pickup slot: deferred to the next release.
+- validate partial receipt: deferred to the next release.
+- guard expired pickup slot: verified in staging.
+- log partial topping: blocked on store systems.
+- validate stale ticket at close: owner: delivery manager.
+- expose duplicate receipt: owner: delivery manager.
+- dedupe duplicate guest on checkout: decided.
+- add expired topping: decided.
+- log cancelled guest: decided.
+- add empty tax line on checkout: blocked on store systems.
