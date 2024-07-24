@@ -85,3 +85,14 @@
 - expose partial cart line on checkout: blocked on store systems.
 - rename stale delivery window: owner: delivery manager.
 - backfill duplicate delivery window: deferred to the next release.
+
+- trim partial order: open.
+- relax missing catering tray: open.
+- rename partial kitchen ticket: deferred to the next release.
+- handle oversized delivery window on reorder: open.
+- tighten stale bowl: decided.
+- sort late bowl: deferred to the next release.
+- add duplicate receipt: owner: delivery manager.
+- tighten expired catering tray: verified in staging.
+- expose missing order: owner: delivery manager.
+- guard late store in the queue: open.
