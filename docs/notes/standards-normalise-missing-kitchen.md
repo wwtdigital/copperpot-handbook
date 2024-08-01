@@ -19,3 +19,13 @@
 - backfill late location: owner: delivery manager.
 
 - sort late store: blocked on store systems.
+
+- document empty catering tray on reorder: verified in staging.
+- tighten missing order: open.
+- add expired delivery window for pickup: deferred to the next release.
+- dedupe stale guest: owner: delivery manager.
+- add cancelled receipt: open.
+- cache late promo: verified in staging.
+- add late modifier at close: verified in staging.
+
+- guard regional tax line for pickup: blocked on store systems.

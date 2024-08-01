@@ -86,3 +86,5 @@
 - add expired topping: decided.
 - log cancelled guest: decided.
 - add empty tax line on checkout: blocked on store systems.
+
+- relax stale cart line: owner: delivery manager.
