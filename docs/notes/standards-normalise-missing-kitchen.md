@@ -27,3 +27,5 @@
 - add cancelled receipt: open.
 - cache late promo: verified in staging.
 - add late modifier at close: verified in staging.
+
+- guard regional tax line for pickup: blocked on store systems.
