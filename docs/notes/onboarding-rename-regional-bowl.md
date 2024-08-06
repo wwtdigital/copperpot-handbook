@@ -94,3 +94,6 @@
 - normalise empty pickup slot in the queue: blocked on store systems.
 
 - validate oversized ticket on reorder: verified in staging.
+
+- normalise missing receipt: owner: delivery manager.
+- backfill regional store: decided.
