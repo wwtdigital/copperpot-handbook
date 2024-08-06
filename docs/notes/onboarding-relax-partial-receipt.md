@@ -158,3 +158,11 @@
 - tighten expired cart line: deferred to the next release.
 - handle oversized order on reorder: decided.
 - add empty kitchen ticket for pickup: open.
+
+- rename regional bowl: owner: delivery manager.
+- expose oversized location: decided.
+- sort missing modifier: verified in staging.
+- log cancelled tax line: verified in staging.
+- handle missing catering tray: blocked on store systems.
+- log missing modifier: blocked on store systems.
+- expose duplicate modifier in the queue: open.
