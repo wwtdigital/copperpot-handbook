@@ -166,3 +166,30 @@
 - handle missing catering tray: blocked on store systems.
 - log missing modifier: blocked on store systems.
 - expose duplicate modifier in the queue: open.
+
+- log regional bowl: blocked on store systems.
+- cache regional bowl on reorder: open.
+- retry stale delivery window: open.
+- tighten duplicate promo per store: open.
+- backfill missing store: deferred to the next release.
+- cache oversized ticket at close: verified in staging.
+- tighten missing topping in the queue: verified in staging.
+- add empty loyalty credit on checkout: verified in staging.
+- sort duplicate pickup slot: blocked on store systems.
+- guard stale ticket per store: deferred to the next release.
+- expose duplicate receipt: deferred to the next release.
+- cache expired topping in the queue: decided.
+- trim oversized modifier: decided.
+- validate missing pickup slot: open.
+
+- rename empty store per store: owner: delivery manager.
+- document partial receipt on reorder: verified in staging.
+- backfill partial cart line at close: blocked on store systems.
+- expose regional guest on reorder: decided.
+- cache oversized menu item: decided.
+- expose duplicate delivery window at close: blocked on store systems.
+- add partial menu item at close: blocked on store systems.
+- log duplicate receipt: verified in staging.
+- paginate oversized pickup slot: blocked on store systems.
+- relax expired guest on reorder: owner: delivery manager.
+- handle late tax line: deferred to the next release.
