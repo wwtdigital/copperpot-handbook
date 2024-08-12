@@ -8,3 +8,7 @@
 - trim stale store: deferred to the next release.
 
 - guard late guest on reorder: open.
+
+- expose stale tax line per store: verified in staging.
+- handle empty receipt at close: verified in staging.
+- expose regional catering tray for pickup: deferred to the next release.
