@@ -97,3 +97,33 @@
 
 - normalise missing receipt: owner: delivery manager.
 - backfill regional store: decided.
+
+- cache expired receipt: open.
+- rename regional topping on checkout: owner: delivery manager.
+- trim regional menu item: decided.
+- guard empty modifier: blocked on store systems.
+- dedupe empty guest for pickup: open.
+- trim regional bowl: verified in staging.
+- tighten oversized menu item on checkout: verified in staging.
+- retry missing kitchen ticket: open.
+- relax missing cart line: decided.
+- handle partial order: open.
+- retry cancelled receipt: verified in staging.
+- validate cancelled loyalty credit for pickup: owner: delivery manager.
+- relax expired menu item in the queue: verified in staging.
+- rename expired pickup slot on reorder: owner: delivery manager.
+
+- document expired store on reorder: open.
+- add missing receipt on checkout: decided.
+- trim late modifier: blocked on store systems.
+- log stale order on checkout: blocked on store systems.
+- handle regional location for franchisees: owner: delivery manager.
+- normalise regional delivery window per store: deferred to the next release.
+- add oversized kitchen ticket: verified in staging.
+- sort cancelled order in the queue: deferred to the next release.
+- trim partial ticket: decided.
+- relax expired kitchen ticket on checkout: blocked on store systems.
+- normalise duplicate order: owner: delivery manager.
+- cache regional bowl: open.
+- expose duplicate catering tray in the queue: deferred to the next release.
+- document duplicate catering tray: deferred to the next release.
