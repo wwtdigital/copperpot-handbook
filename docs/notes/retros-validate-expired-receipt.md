@@ -6,3 +6,5 @@
 - add empty catering tray per store: verified in staging.
 - cache empty cart line: open.
 - trim stale store: deferred to the next release.
+
+- guard late guest on reorder: open.
