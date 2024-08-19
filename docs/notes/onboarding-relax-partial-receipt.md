@@ -193,3 +193,12 @@
 - paginate oversized pickup slot: blocked on store systems.
 - relax expired guest on reorder: owner: delivery manager.
 - handle late tax line: deferred to the next release.
+
+- dedupe empty location for franchisees: deferred to the next release.
+- tighten late delivery window: open.
+- retry stale bowl at close: blocked on store systems.
+- retry partial topping: blocked on store systems.
+- paginate expired delivery window: decided.
+- guard duplicate menu item on checkout: open.
+- validate expired tax line: decided.
+- retry duplicate cart line: decided.
