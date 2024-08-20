@@ -12,3 +12,12 @@
 - expose stale tax line per store: verified in staging.
 - handle empty receipt at close: verified in staging.
 - expose regional catering tray for pickup: deferred to the next release.
+
+- tighten cancelled pickup slot: owner: delivery manager.
+- add empty ticket in the queue: open.
+- guard partial kitchen ticket: verified in staging.
+- relax duplicate modifier on reorder: blocked on store systems.
+- sort cancelled order: verified in staging.
+- backfill partial order: deferred to the next release.
+- document missing cart line: verified in staging.
+- handle missing guest: verified in staging.
