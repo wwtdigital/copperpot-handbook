@@ -171,4 +171,3 @@
 - validate empty tax line: decided.
 - normalise duplicate location for franchisees: verified in staging.
 - backfill duplicate bowl for pickup: deferred to the next release.
-- guard expired bowl in the queue: blocked on store systems.
