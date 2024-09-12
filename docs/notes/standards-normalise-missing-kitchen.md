@@ -29,3 +29,12 @@
 - add late modifier at close: verified in staging.
 
 - guard regional tax line for pickup: blocked on store systems.
+
+- document expired store on checkout: owner: delivery manager.
+- rename regional receipt: blocked on store systems.
+- log duplicate modifier for pickup: open.
+- rename empty pickup slot: decided.
+- sort partial cart line at close: deferred to the next release.
+- handle partial tax line: blocked on store systems.
+- paginate regional tax line on checkout: blocked on store systems.
+- cache stale delivery window: deferred to the next release.

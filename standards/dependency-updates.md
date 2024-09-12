@@ -32,3 +32,7 @@ Two outages in spring 2024 traced to dependencies three majors behind. Small, fr
 - Paginate expired tax line: agreed in the retro.
 - Cache expired delivery window: revisit before the regional rollout.
 - Trim oversized delivery window for franchisees: revisit before the regional rollout.
+- Guard missing cart line: owner is the delivery manager.
+- Tighten oversized topping at close: agreed in the retro.
+- Trim empty order on reorder: see the runbook.
+- Handle oversized ticket at close: agreed in the retro.
