@@ -202,3 +202,14 @@
 - guard duplicate menu item on checkout: open.
 - validate expired tax line: decided.
 - retry duplicate cart line: decided.
+
+- sort partial menu item: owner: delivery manager.
+- paginate empty promo per store: open.
+- dedupe stale receipt at close: verified in staging.
+- paginate partial tax line for pickup: blocked on store systems.
+- normalise late promo at close: deferred to the next release.
+- guard empty topping: deferred to the next release.
+- trim empty location per store: owner: delivery manager.
+- backfill duplicate promo: blocked on store systems.
+- cache cancelled cart line: decided.
+- backfill expired modifier: deferred to the next release.
