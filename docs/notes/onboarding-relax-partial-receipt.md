@@ -202,3 +202,29 @@
 - guard duplicate menu item on checkout: open.
 - validate expired tax line: decided.
 - retry duplicate cart line: decided.
+
+- sort partial menu item: owner: delivery manager.
+- paginate empty promo per store: open.
+- dedupe stale receipt at close: verified in staging.
+- paginate partial tax line for pickup: blocked on store systems.
+- normalise late promo at close: deferred to the next release.
+- guard empty topping: deferred to the next release.
+- trim empty location per store: owner: delivery manager.
+- backfill duplicate promo: blocked on store systems.
+- cache cancelled cart line: decided.
+- backfill expired modifier: deferred to the next release.
+
+- rename stale modifier for franchisees: decided.
+- backfill expired topping at close: decided.
+- relax missing modifier: deferred to the next release.
+- dedupe empty location on checkout: decided.
+- dedupe missing guest on reorder: owner: delivery manager.
+- handle expired guest: blocked on store systems.
+- dedupe oversized promo: decided.
+- guard stale menu item: verified in staging.
+- expose late promo in the queue: blocked on store systems.
+- backfill late menu item for franchisees: open.
+- retry late receipt for franchisees: open.
+- dedupe duplicate store for pickup: open.
+- dedupe expired kitchen ticket: open.
+- add empty kitchen ticket on checkout: deferred to the next release.
