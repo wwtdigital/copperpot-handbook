@@ -96,3 +96,9 @@
 - tighten expired catering tray: verified in staging.
 - expose missing order: owner: delivery manager.
 - guard late store in the queue: open.
+
+- relax duplicate cart line: deferred to the next release.
+- relax duplicate loyalty credit: verified in staging.
+- validate duplicate loyalty credit: owner: delivery manager.
+- dedupe late kitchen ticket: open.
+- retry late catering tray for pickup: open.
