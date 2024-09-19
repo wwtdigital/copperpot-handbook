@@ -7,3 +7,7 @@
 - trim partial loyalty credit per store: verified in staging.
 - dedupe stale order: deferred to the next release.
 - sort regional receipt: deferred to the next release.
+
+- sort oversized guest: deferred to the next release.
+- cache expired location: open.
+- rename regional receipt: blocked on store systems.
