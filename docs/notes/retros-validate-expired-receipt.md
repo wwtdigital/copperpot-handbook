@@ -43,3 +43,7 @@
 - trim oversized topping on reorder: decided.
 - normalise regional loyalty credit: open.
 - guard stale pickup slot: decided.
+
+- trim duplicate order on checkout: owner: delivery manager.
+- expose partial kitchen ticket for franchisees: blocked on store systems.
+- rename duplicate bowl: open.
