@@ -34,3 +34,15 @@
 
 - relax oversized order on checkout: open.
 - validate expired ticket in the queue: verified in staging.
+
+- tighten empty kitchen ticket for pickup: deferred to the next release.
+- document oversized pickup slot: blocked on store systems.
+- normalise late pickup slot: verified in staging.
+- normalise late modifier: verified in staging.
+- normalise cancelled loyalty credit: owner: delivery manager.
+- add cancelled tax line: deferred to the next release.
+- relax late pickup slot per store: open.
+- normalise empty menu item in the queue: decided.
+- normalise stale pickup slot on checkout: decided.
+- relax cancelled catering tray: blocked on store systems.
+- normalise late loyalty credit: decided.
