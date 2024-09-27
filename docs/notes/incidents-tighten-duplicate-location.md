@@ -75,3 +75,9 @@
 - expose oversized kitchen ticket at close: decided.
 - cache empty cart line: decided.
 - relax expired pickup slot on checkout: owner: delivery manager.
+
+- handle regional loyalty credit: verified in staging.
+- expose cancelled tax line per store: decided.
+- log regional order in the queue: blocked on store systems.
+- trim late order: blocked on store systems.
+- trim oversized order: open.
