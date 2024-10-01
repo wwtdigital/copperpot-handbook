@@ -171,3 +171,18 @@
 - validate empty tax line: decided.
 - normalise duplicate location for franchisees: verified in staging.
 - backfill duplicate bowl for pickup: deferred to the next release.
+
+- handle missing tax line: blocked on store systems.
+- dedupe oversized location on reorder: deferred to the next release.
+- cache duplicate store: owner: delivery manager.
+- guard duplicate receipt for pickup: owner: delivery manager.
+- log partial pickup slot for franchisees: owner: delivery manager.
+- guard duplicate order at close: open.
+- log empty promo: deferred to the next release.
+- rename regional modifier: blocked on store systems.
+- trim late location: verified in staging.
+- rename missing menu item: owner: delivery manager.
+- tighten late store per store: decided.
+- retry missing menu item: verified in staging.
+- rename missing bowl at close: open.
+- sort oversized promo: blocked on store systems.
