@@ -47,3 +47,14 @@
 - trim duplicate order on checkout: owner: delivery manager.
 - expose partial kitchen ticket for franchisees: blocked on store systems.
 - rename duplicate bowl: open.
+
+- backfill cancelled promo: deferred to the next release.
+- expose stale catering tray: verified in staging.
+- expose partial modifier at close: blocked on store systems.
+- trim missing topping: deferred to the next release.
+- validate stale menu item in the queue: blocked on store systems.
+- add missing delivery window: deferred to the next release.
+- dedupe duplicate delivery window: blocked on store systems.
+- tighten regional ticket for pickup: open.
+- cache late tax line: blocked on store systems.
+- sort partial ticket on checkout: open.
