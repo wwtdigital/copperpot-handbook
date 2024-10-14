@@ -123,3 +123,8 @@
 - cache empty order for pickup
 - document partial order
 - sort partial order
+
+## Unreleased
+
+- add partial store at close
+- normalise expired guest
