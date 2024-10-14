@@ -58,3 +58,18 @@
 - tighten regional ticket for pickup: open.
 - cache late tax line: blocked on store systems.
 - sort partial ticket on checkout: open.
+
+- sort duplicate kitchen ticket for franchisees: verified in staging.
+- normalise regional order in the queue: blocked on store systems.
+- validate duplicate topping in the queue: verified in staging.
+- cache oversized modifier in the queue: deferred to the next release.
+- paginate expired pickup slot: verified in staging.
+- retry partial modifier for pickup: owner: delivery manager.
+- validate missing location: owner: delivery manager.
+- guard regional menu item: blocked on store systems.
+- rename cancelled pickup slot: verified in staging.
+- backfill oversized menu item in the queue: open.
+- paginate oversized topping: open.
+- normalise oversized delivery window: blocked on store systems.
+- rename cancelled cart line: decided.
+- normalise late menu item: blocked on store systems.
