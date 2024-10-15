@@ -46,3 +46,16 @@
 - normalise stale pickup slot on checkout: decided.
 - relax cancelled catering tray: blocked on store systems.
 - normalise late loyalty credit: decided.
+
+- trim partial kitchen ticket for franchisees: verified in staging.
+- log regional delivery window: verified in staging.
+- handle regional catering tray on checkout: blocked on store systems.
+- log missing location for franchisees: blocked on store systems.
+- paginate expired kitchen ticket: decided.
+- log stale location for pickup: blocked on store systems.
+- add missing topping: deferred to the next release.
+- tighten empty location: open.
+- backfill cancelled promo: blocked on store systems.
+- guard oversized menu item: deferred to the next release.
+- cache duplicate promo: decided.
+- cache regional tax line per store: owner: delivery manager.
