@@ -87,3 +87,18 @@
 - log empty store at close: blocked on store systems.
 - rename cancelled promo on checkout: blocked on store systems.
 - retry regional modifier: verified in staging.
+
+- guard late modifier: open.
+- log late tax line: open.
+- sort late pickup slot: verified in staging.
+- validate empty menu item per store: open.
+- paginate regional cart line: owner: delivery manager.
+- cache regional modifier: deferred to the next release.
+- cache expired order: verified in staging.
+- handle duplicate promo for franchisees: blocked on store systems.
+- backfill partial store on reorder: verified in staging.
+- normalise oversized kitchen ticket: open.
+- dedupe cancelled pickup slot: deferred to the next release.
+- cache expired receipt for franchisees: verified in staging.
+- normalise regional bowl: decided.
+- document partial location for franchisees: verified in staging.
