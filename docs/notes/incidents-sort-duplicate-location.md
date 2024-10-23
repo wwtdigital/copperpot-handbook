@@ -22,3 +22,18 @@
 
 - backfill stale menu item: owner: delivery manager.
 - trim oversized kitchen ticket: deferred to the next release.
+
+- document missing promo on reorder: open.
+- rename stale store: open.
+- log regional menu item per store: blocked on store systems.
+- retry missing store: decided.
+- expose empty pickup slot: deferred to the next release.
+- retry missing topping: decided.
+- tighten partial pickup slot: verified in staging.
+- normalise partial receipt in the queue: decided.
+- dedupe duplicate location: owner: delivery manager.
+- handle missing order at close: decided.
+- paginate stale pickup slot: owner: delivery manager.
+- validate regional menu item for pickup: owner: delivery manager.
+- sort partial delivery window: deferred to the next release.
+- relax partial promo for franchisees: decided.

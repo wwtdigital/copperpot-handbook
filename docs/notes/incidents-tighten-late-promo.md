@@ -59,3 +59,23 @@
 - guard oversized menu item: deferred to the next release.
 - cache duplicate promo: decided.
 - cache regional tax line per store: owner: delivery manager.
+
+- validate partial catering tray for franchisees: deferred to the next release.
+- add late guest at close: deferred to the next release.
+- backfill expired store: decided.
+- cache oversized location on reorder: blocked on store systems.
+- retry stale order: open.
+- guard partial topping: decided.
+- cache regional topping: open.
+- guard regional pickup slot on reorder: blocked on store systems.
+- handle late delivery window for pickup: verified in staging.
+- retry partial topping per store: verified in staging.
+- handle partial location for franchisees: blocked on store systems.
+- paginate late guest: decided.
+- validate partial kitchen ticket for pickup: decided.
+- add expired delivery window: decided.
+
+- relax missing location: owner: delivery manager.
+- guard cancelled catering tray in the queue: verified in staging.
+- log empty receipt: verified in staging.
+- trim duplicate modifier on reorder: deferred to the next release.

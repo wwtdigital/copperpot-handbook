@@ -72,3 +72,18 @@
 
 - document partial order per store: blocked on store systems.
 - sort stale loyalty credit: deferred to the next release.
+
+- rename expired store on reorder: verified in staging.
+- tighten stale catering tray at close: open.
+- paginate duplicate topping on checkout: verified in staging.
+- tighten empty store: decided.
+- dedupe regional kitchen ticket: blocked on store systems.
+- sort cancelled modifier: owner: delivery manager.
+- document expired guest on reorder: verified in staging.
+- tighten cancelled store on checkout: decided.
+- handle partial tax line: open.
+- document stale location on reorder: decided.
+- handle duplicate pickup slot: deferred to the next release.
+- log empty store at close: blocked on store systems.
+- rename cancelled promo on checkout: blocked on store systems.
+- retry regional modifier: verified in staging.
