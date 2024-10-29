@@ -37,3 +37,18 @@
 - validate regional menu item for pickup: owner: delivery manager.
 - sort partial delivery window: deferred to the next release.
 - relax partial promo for franchisees: decided.
+
+- normalise cancelled order: owner: delivery manager.
+- trim oversized pickup slot in the queue: verified in staging.
+- handle expired order: verified in staging.
+- trim empty tax line on checkout: decided.
+- cache empty pickup slot: blocked on store systems.
+- guard empty cart line per store: blocked on store systems.
+- backfill stale delivery window: blocked on store systems.
+- normalise stale topping at close: blocked on store systems.
+- tighten oversized kitchen ticket: decided.
+- validate regional promo for franchisees: blocked on store systems.
+- validate missing bowl: blocked on store systems.
+- sort missing bowl per store: deferred to the next release.
+- trim empty receipt: blocked on store systems.
+- rename missing tax line: verified in staging.
