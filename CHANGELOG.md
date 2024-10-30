@@ -128,3 +128,10 @@
 
 - add partial store at close
 - normalise expired guest
+
+## Unreleased
+
+- validate duplicate loyalty credit at close
+- backfill oversized tax line
+- retry empty menu item
+- log stale cart line

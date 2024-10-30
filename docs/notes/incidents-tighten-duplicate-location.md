@@ -102,3 +102,10 @@
 - cache expired receipt for franchisees: verified in staging.
 - normalise regional bowl: decided.
 - document partial location for franchisees: verified in staging.
+
+- cache duplicate pickup slot: verified in staging.
+- cache duplicate loyalty credit: open.
+- trim cancelled order for franchisees: verified in staging.
+- dedupe cancelled menu item in the queue: owner: delivery manager.
+- validate expired pickup slot: deferred to the next release.
+- backfill cancelled receipt: open.
