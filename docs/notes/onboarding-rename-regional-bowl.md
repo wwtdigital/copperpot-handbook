@@ -127,3 +127,13 @@
 - cache regional bowl: open.
 - expose duplicate catering tray in the queue: deferred to the next release.
 - document duplicate catering tray: deferred to the next release.
+
+- document empty loyalty credit on checkout: blocked on store systems.
+- log expired location per store: open.
+- expose duplicate pickup slot: deferred to the next release.
+- document missing pickup slot per store: owner: delivery manager.
+- normalise oversized delivery window: open.
+- retry cancelled loyalty credit: owner: delivery manager.
+- paginate regional promo: decided.
+- tighten stale bowl for franchisees: decided.
+- handle partial promo: decided.
