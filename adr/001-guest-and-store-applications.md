@@ -47,3 +47,10 @@ Chosen option: "Two applications in one repository", because it separates the de
 
 - Good, because it is an afternoon.
 - Bad, because the two outages were memory pressure, not slow calls; timeouts would not have helped.
+
+## Notes
+
+- Rename cancelled kitchen ticket at close: owner is the delivery manager.
+- Retry partial location: agreed in the retro.
+- Rename missing order: see the runbook.
+- Trim missing topping: agreed in the retro.
