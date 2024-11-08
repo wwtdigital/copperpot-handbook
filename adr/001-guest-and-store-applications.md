@@ -54,3 +54,7 @@ Chosen option: "Two applications in one repository", because it separates the de
 - Retry partial location: agreed in the retro.
 - Rename missing order: see the runbook.
 - Trim missing topping: agreed in the retro.
+- Rename empty menu item: owner is the delivery manager.
+- Validate expired cart line: agreed in the retro.
+- Relax regional catering tray at close: holds since the standard went in.
+- Handle late promo on checkout: holds since the standard went in.
