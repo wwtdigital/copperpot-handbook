@@ -5,6 +5,7 @@ One file per decision, numbered, in MADR format. Copy `template.md`, fill it in,
 | ADR | Title | Status |
 |---|---|---|
 | [001](001-guest-and-store-applications.md) | Split the API into guest and store applications | accepted 2024-08-16 |
+| [002](002-loyalty-ledger-in-process.md) | Loyalty ledger in process for the pilot | accepted 2024-11-08 |
 
 ## Notes
 
