@@ -228,3 +228,18 @@
 - dedupe duplicate store for pickup: open.
 - dedupe expired kitchen ticket: open.
 - add empty kitchen ticket on checkout: deferred to the next release.
+
+- rename oversized delivery window: blocked on store systems.
+- paginate partial menu item: open.
+- backfill late receipt: owner: delivery manager.
+- retry missing pickup slot per store: blocked on store systems.
+- relax regional order per store: open.
+- backfill late receipt on checkout: deferred to the next release.
+- add partial delivery window at close: decided.
+- retry duplicate guest: deferred to the next release.
+- backfill stale promo for franchisees: decided.
+- paginate partial ticket: open.
+- trim expired delivery window in the queue: verified in staging.
+- expose missing bowl: blocked on store systems.
+- log empty kitchen ticket: open.
+- log cancelled catering tray: blocked on store systems.
