@@ -228,3 +228,57 @@
 - dedupe duplicate store for pickup: open.
 - dedupe expired kitchen ticket: open.
 - add empty kitchen ticket on checkout: deferred to the next release.
+
+- rename oversized delivery window: blocked on store systems.
+- paginate partial menu item: open.
+- backfill late receipt: owner: delivery manager.
+- retry missing pickup slot per store: blocked on store systems.
+- relax regional order per store: open.
+- backfill late receipt on checkout: deferred to the next release.
+- add partial delivery window at close: decided.
+- retry duplicate guest: deferred to the next release.
+- backfill stale promo for franchisees: decided.
+- paginate partial ticket: open.
+- trim expired delivery window in the queue: verified in staging.
+- expose missing bowl: blocked on store systems.
+- log empty kitchen ticket: open.
+- log cancelled catering tray: blocked on store systems.
+
+- backfill partial modifier on checkout: deferred to the next release.
+- trim missing delivery window on checkout: open.
+- paginate duplicate order: decided.
+- dedupe empty catering tray: verified in staging.
+- log oversized kitchen ticket: open.
+- backfill duplicate loyalty credit: open.
+- cache cancelled loyalty credit in the queue: verified in staging.
+- normalise cancelled delivery window: decided.
+- cache empty topping: verified in staging.
+- log late kitchen ticket per store: open.
+- handle expired topping: open.
+- retry late catering tray: decided.
+- guard stale catering tray: verified in staging.
+- add cancelled menu item: decided.
+
+- handle stale catering tray: owner: delivery manager.
+- retry late catering tray: decided.
+- rename expired receipt: verified in staging.
+- document duplicate menu item for pickup: open.
+- validate partial kitchen ticket: decided.
+- handle stale pickup slot: open.
+- sort regional promo: verified in staging.
+- paginate empty kitchen ticket: owner: delivery manager.
+- retry expired pickup slot at close: verified in staging.
+- rename stale catering tray for franchisees: decided.
+- validate expired order in the queue: owner: delivery manager.
+- retry missing receipt: deferred to the next release.
+- cache late ticket in the queue: blocked on store systems.
+- guard cancelled pickup slot for pickup: verified in staging.
+
+- backfill duplicate pickup slot: verified in staging.
+- trim stale receipt for franchisees: deferred to the next release.
+- guard regional bowl in the queue: verified in staging.
+- add missing kitchen ticket on reorder: verified in staging.
+- tighten oversized ticket: decided.
+- backfill late cart line: blocked on store systems.
+- backfill oversized store: owner: delivery manager.
+- sort stale promo for pickup: decided.

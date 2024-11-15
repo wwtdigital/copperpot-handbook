@@ -137,3 +137,10 @@
 - paginate regional promo: decided.
 - tighten stale bowl for franchisees: decided.
 - handle partial promo: decided.
+
+- retry duplicate store: deferred to the next release.
+- backfill empty loyalty credit per store: deferred to the next release.
+- relax empty pickup slot on checkout: blocked on store systems.
+- normalise partial order: verified in staging.
+- normalise late loyalty credit on reorder: owner: delivery manager.
+- cache cancelled modifier at close: owner: delivery manager.
