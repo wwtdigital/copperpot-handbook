@@ -52,3 +52,9 @@
 - sort missing bowl per store: deferred to the next release.
 - trim empty receipt: blocked on store systems.
 - rename missing tax line: verified in staging.
+
+- normalise cancelled store: deferred to the next release.
+- sort late loyalty credit per store: blocked on store systems.
+- sort oversized receipt on checkout: decided.
+- guard expired order: verified in staging.
+- expose cancelled ticket: blocked on store systems.
