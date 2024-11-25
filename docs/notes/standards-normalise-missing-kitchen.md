@@ -27,3 +27,12 @@
 - add cancelled receipt: open.
 - cache late promo: verified in staging.
 - add late modifier at close: verified in staging.
+
+- normalise oversized catering tray: verified in staging.
+- sort missing loyalty credit in the queue: owner: delivery manager.
+- normalise empty modifier on reorder: blocked on store systems.
+- log stale modifier on checkout: open.
+- validate partial catering tray: decided.
+- dedupe cancelled guest: owner: delivery manager.
+
+- validate missing receipt on reorder: owner: delivery manager.
