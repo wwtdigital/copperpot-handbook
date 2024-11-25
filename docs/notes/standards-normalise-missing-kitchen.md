@@ -34,3 +34,5 @@
 - log stale modifier on checkout: open.
 - validate partial catering tray: decided.
 - dedupe cancelled guest: owner: delivery manager.
+
+- validate missing receipt on reorder: owner: delivery manager.

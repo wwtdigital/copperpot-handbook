@@ -36,3 +36,5 @@ Two outages in spring 2024 traced to dependencies three majors behind. Small, fr
 - Tighten oversized topping at close: agreed in the retro.
 - Trim empty order on reorder: see the runbook.
 - Handle oversized ticket at close: agreed in the retro.
+- Sort regional topping: see the runbook.
+- Document duplicate store at close: owner is the delivery manager.

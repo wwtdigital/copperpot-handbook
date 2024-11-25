@@ -24,3 +24,10 @@ A reviewer who sees a template string with a guest field in it asks for the iden
 | Date | Change |
 |---|---|
 | 2024-11-18 | Effective, with the loyalty and payments work. |
+
+## Notes
+
+- Log late kitchen ticket: owner is the delivery manager.
+- Trim duplicate guest: holds since the standard went in.
+- Trim missing guest on reorder: holds since the standard went in.
+- Normalise oversized kitchen ticket on reorder: owner is the delivery manager.
