@@ -109,3 +109,18 @@
 - dedupe cancelled menu item in the queue: owner: delivery manager.
 - validate expired pickup slot: deferred to the next release.
 - backfill cancelled receipt: open.
+
+- cache missing topping for franchisees: blocked on store systems.
+- add missing location: blocked on store systems.
+- dedupe late loyalty credit: open.
+- guard oversized menu item: blocked on store systems.
+- dedupe missing pickup slot: open.
+- trim expired store per store: decided.
+- guard duplicate location for pickup: owner: delivery manager.
+- add regional menu item for pickup: open.
+- rename partial topping: owner: delivery manager.
+- cache missing ticket: verified in staging.
+- trim missing location for pickup: deferred to the next release.
+- cache partial loyalty credit for pickup: open.
+- rename regional menu item: deferred to the next release.
+- add duplicate menu item for franchisees: open.
