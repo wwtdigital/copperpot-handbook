@@ -36,3 +36,11 @@
 - dedupe cancelled guest: owner: delivery manager.
 
 - validate missing receipt on reorder: owner: delivery manager.
+
+- retry regional delivery window: owner: delivery manager.
+- rename duplicate menu item: deferred to the next release.
+- handle cancelled store: open.
+- dedupe expired order on reorder: verified in staging.
+- dedupe cancelled ticket: owner: delivery manager.
+- trim cancelled location: decided.
+- retry regional order on checkout: open.
