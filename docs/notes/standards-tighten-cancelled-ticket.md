@@ -180,9 +180,3 @@
 - guard duplicate order at close: open.
 - log empty promo: deferred to the next release.
 - rename regional modifier: blocked on store systems.
-- trim late location: verified in staging.
-- rename missing menu item: owner: delivery manager.
-- tighten late store per store: decided.
-- retry missing menu item: verified in staging.
-- rename missing bowl at close: open.
-- sort oversized promo: blocked on store systems.
