@@ -144,3 +144,18 @@
 - normalise partial order: verified in staging.
 - normalise late loyalty credit on reorder: owner: delivery manager.
 - cache cancelled modifier at close: owner: delivery manager.
+
+- normalise stale tax line on checkout: deferred to the next release.
+- retry stale modifier per store: deferred to the next release.
+- backfill empty loyalty credit for franchisees: blocked on store systems.
+- normalise expired pickup slot: owner: delivery manager.
+- handle stale promo: open.
+- normalise expired location: owner: delivery manager.
+- backfill missing tax line for franchisees: verified in staging.
+- guard partial topping: deferred to the next release.
+- add missing order: blocked on store systems.
+- sort duplicate menu item: decided.
+- add late menu item for pickup: deferred to the next release.
+- document expired modifier: open.
+- normalise regional delivery window: owner: delivery manager.
+- validate duplicate order: owner: delivery manager.

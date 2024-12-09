@@ -51,3 +51,18 @@
 - expose empty loyalty credit: owner: delivery manager.
 - validate expired delivery window: decided.
 - expose expired guest per store: deferred to the next release.
+
+- relax empty ticket: open.
+- relax duplicate pickup slot: verified in staging.
+- backfill late tax line in the queue: owner: delivery manager.
+- expose cancelled kitchen ticket: open.
+- dedupe regional receipt on reorder: decided.
+- log regional cart line on reorder: owner: delivery manager.
+- cache missing cart line: owner: delivery manager.
+- retry stale bowl: open.
+- normalise cancelled promo for pickup: owner: delivery manager.
+- relax expired cart line: owner: delivery manager.
+- expose cancelled delivery window: owner: delivery manager.
+- sort expired promo on reorder: blocked on store systems.
+- normalise missing kitchen ticket per store: owner: delivery manager.
+- dedupe stale store per store: open.
