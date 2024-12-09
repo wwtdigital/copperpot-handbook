@@ -66,3 +66,18 @@
 - sort expired promo on reorder: blocked on store systems.
 - normalise missing kitchen ticket per store: owner: delivery manager.
 - dedupe stale store per store: open.
+
+- paginate duplicate topping: deferred to the next release.
+- expose oversized delivery window: decided.
+- cache oversized ticket for franchisees: blocked on store systems.
+- paginate late catering tray on reorder: owner: delivery manager.
+- normalise empty kitchen ticket: owner: delivery manager.
+- paginate stale store: blocked on store systems.
+- expose cancelled catering tray: decided.
+- normalise partial receipt: open.
+- validate expired ticket: verified in staging.
+- sort duplicate pickup slot: open.
+- sort missing location per store: open.
+- tighten late guest: open.
+- dedupe partial tax line at close: blocked on store systems.
+- cache stale order: verified in staging.
