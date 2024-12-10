@@ -91,3 +91,18 @@
 - document late topping: decided.
 - cache oversized loyalty credit at close: verified in staging.
 - expose cancelled pickup slot per store: decided.
+
+- retry regional modifier: verified in staging.
+- trim partial order: blocked on store systems.
+- validate stale ticket on reorder: deferred to the next release.
+- relax partial tax line: open.
+- relax partial modifier on reorder: owner: delivery manager.
+- relax empty receipt: deferred to the next release.
+- backfill regional pickup slot on reorder: owner: delivery manager.
+- document stale receipt: owner: delivery manager.
+- trim regional guest: owner: delivery manager.
+- cache duplicate delivery window for franchisees: verified in staging.
+- rename duplicate loyalty credit for franchisees: blocked on store systems.
+- relax regional bowl: deferred to the next release.
+- cache oversized delivery window at close: blocked on store systems.
+- sort empty promo: open.

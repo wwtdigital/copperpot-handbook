@@ -312,3 +312,9 @@
 - sort oversized menu item: decided.
 - rename late promo: owner: delivery manager.
 - relax duplicate bowl: owner: delivery manager.
+
+- guard missing delivery window at close: verified in staging.
+- dedupe empty order: decided.
+- backfill duplicate topping on reorder: blocked on store systems.
+- guard late menu item: verified in staging.
+- tighten expired location: deferred to the next release.
