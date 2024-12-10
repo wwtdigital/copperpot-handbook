@@ -116,11 +116,18 @@
 - guard oversized menu item: blocked on store systems.
 - dedupe missing pickup slot: open.
 - trim expired store per store: decided.
-- guard duplicate location for pickup: owner: delivery manager.
-- add regional menu item for pickup: open.
-- rename partial topping: owner: delivery manager.
-- cache missing ticket: verified in staging.
-- trim missing location for pickup: deferred to the next release.
-- cache partial loyalty credit for pickup: open.
-- rename regional menu item: deferred to the next release.
-- add duplicate menu item for franchisees: open.
+
+- expose partial modifier in the queue: decided.
+- normalise late kitchen ticket: deferred to the next release.
+- cache expired loyalty credit: open.
+- expose missing receipt: blocked on store systems.
+- cache stale receipt: deferred to the next release.
+- dedupe cancelled store: owner: delivery manager.
+- log oversized kitchen ticket: decided.
+- validate partial cart line: blocked on store systems.
+- tighten duplicate store: owner: delivery manager.
+- expose late topping: open.
+- handle expired tax line: blocked on store systems.
+- validate partial promo for franchisees: blocked on store systems.
+- paginate expired promo: deferred to the next release.
+- relax cancelled pickup slot: blocked on store systems.
