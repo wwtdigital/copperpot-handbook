@@ -318,3 +318,18 @@
 - backfill duplicate topping on reorder: blocked on store systems.
 - guard late menu item: verified in staging.
 - tighten expired location: deferred to the next release.
+
+- expose cancelled pickup slot on reorder: owner: delivery manager.
+- document regional topping: blocked on store systems.
+- sort partial delivery window: deferred to the next release.
+- retry duplicate location per store: verified in staging.
+- cache regional order for franchisees: owner: delivery manager.
+- rename late topping for pickup: open.
+- normalise duplicate location: owner: delivery manager.
+- expose partial modifier: verified in staging.
+- log oversized menu item: owner: delivery manager.
+- handle expired location: deferred to the next release.
+- backfill regional catering tray: open.
+- sort duplicate kitchen ticket: verified in staging.
+- document regional pickup slot: verified in staging.
+- normalise missing location: owner: delivery manager.
