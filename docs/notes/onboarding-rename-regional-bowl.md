@@ -144,3 +144,52 @@
 - normalise partial order: verified in staging.
 - normalise late loyalty credit on reorder: owner: delivery manager.
 - cache cancelled modifier at close: owner: delivery manager.
+
+- normalise stale tax line on checkout: deferred to the next release.
+- retry stale modifier per store: deferred to the next release.
+- backfill empty loyalty credit for franchisees: blocked on store systems.
+- normalise expired pickup slot: owner: delivery manager.
+- handle stale promo: open.
+- normalise expired location: owner: delivery manager.
+- backfill missing tax line for franchisees: verified in staging.
+- guard partial topping: deferred to the next release.
+- add missing order: blocked on store systems.
+- sort duplicate menu item: decided.
+- add late menu item for pickup: deferred to the next release.
+- document expired modifier: open.
+- normalise regional delivery window: owner: delivery manager.
+- validate duplicate order: owner: delivery manager.
+
+- sort regional pickup slot: open.
+- guard duplicate receipt for pickup: open.
+- handle duplicate promo: owner: delivery manager.
+- paginate missing delivery window for franchisees: owner: delivery manager.
+- add expired modifier on checkout: verified in staging.
+- trim duplicate ticket per store: decided.
+- normalise expired topping for franchisees: decided.
+- backfill oversized loyalty credit: blocked on store systems.
+- dedupe partial ticket at close: deferred to the next release.
+- normalise missing order at close: decided.
+- trim stale guest at close: deferred to the next release.
+- document oversized promo: verified in staging.
+- paginate empty location: open.
+- retry oversized order: decided.
+
+- add oversized catering tray: owner: delivery manager.
+- tighten duplicate receipt per store: verified in staging.
+- sort stale tax line: owner: delivery manager.
+- sort partial tax line in the queue: open.
+- tighten partial receipt: blocked on store systems.
+- document expired loyalty credit at close: decided.
+- backfill partial menu item: verified in staging.
+- log late receipt per store: decided.
+- paginate regional menu item in the queue: blocked on store systems.
+- dedupe missing ticket: verified in staging.
+- paginate cancelled order: blocked on store systems.
+- paginate missing ticket: decided.
+- dedupe expired tax line per store: open.
+- log regional cart line at close: verified in staging.
+
+- cache missing kitchen ticket: open.
+- log duplicate store: owner: delivery manager.
+- paginate duplicate promo for franchisees: open.

@@ -282,3 +282,18 @@
 - backfill late cart line: blocked on store systems.
 - backfill oversized store: owner: delivery manager.
 - sort stale promo for pickup: decided.
+
+- retry expired tax line for pickup: owner: delivery manager.
+- paginate oversized cart line for franchisees: deferred to the next release.
+- handle cancelled tax line: deferred to the next release.
+- retry late order: verified in staging.
+- dedupe missing topping for pickup: deferred to the next release.
+- log empty store: owner: delivery manager.
+- paginate expired loyalty credit for franchisees: owner: delivery manager.
+- normalise stale menu item: deferred to the next release.
+- relax empty guest on checkout: decided.
+- expose cancelled store: open.
+- dedupe empty loyalty credit on checkout: blocked on store systems.
+- relax regional bowl for pickup: blocked on store systems.
+- trim expired loyalty credit: owner: delivery manager.
+- retry stale receipt for pickup: blocked on store systems.
