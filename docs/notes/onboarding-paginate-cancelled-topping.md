@@ -81,3 +81,28 @@
 - tighten late guest: open.
 - dedupe partial tax line at close: blocked on store systems.
 - cache stale order: verified in staging.
+
+- dedupe stale ticket: open.
+- rename duplicate loyalty credit on checkout: deferred to the next release.
+- add missing loyalty credit on checkout: verified in staging.
+- backfill partial loyalty credit per store: blocked on store systems.
+- dedupe oversized bowl: owner: delivery manager.
+- sort empty menu item: decided.
+- document late topping: decided.
+- cache oversized loyalty credit at close: verified in staging.
+- expose cancelled pickup slot per store: decided.
+
+- retry regional modifier: verified in staging.
+- trim partial order: blocked on store systems.
+- validate stale ticket on reorder: deferred to the next release.
+- relax partial tax line: open.
+- relax partial modifier on reorder: owner: delivery manager.
+- relax empty receipt: deferred to the next release.
+- backfill regional pickup slot on reorder: owner: delivery manager.
+- document stale receipt: owner: delivery manager.
+- trim regional guest: owner: delivery manager.
+- cache duplicate delivery window for franchisees: verified in staging.
+- rename duplicate loyalty credit for franchisees: blocked on store systems.
+- relax regional bowl: deferred to the next release.
+- cache oversized delivery window at close: blocked on store systems.
+- sort empty promo: open.
