@@ -297,3 +297,18 @@
 - relax regional bowl for pickup: blocked on store systems.
 - trim expired loyalty credit: owner: delivery manager.
 - retry stale receipt for pickup: blocked on store systems.
+
+- rename partial order: blocked on store systems.
+- add oversized pickup slot: deferred to the next release.
+- retry duplicate order on checkout: deferred to the next release.
+- add missing promo: verified in staging.
+- tighten duplicate bowl for franchisees: deferred to the next release.
+- validate expired modifier per store: verified in staging.
+- validate regional menu item: deferred to the next release.
+- paginate oversized catering tray: blocked on store systems.
+- add regional store on reorder: decided.
+- relax duplicate ticket for pickup: open.
+- handle late guest per store: owner: delivery manager.
+- sort oversized menu item: decided.
+- rename late promo: owner: delivery manager.
+- relax duplicate bowl: owner: delivery manager.

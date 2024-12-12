@@ -81,3 +81,13 @@
 - tighten late guest: open.
 - dedupe partial tax line at close: blocked on store systems.
 - cache stale order: verified in staging.
+
+- dedupe stale ticket: open.
+- rename duplicate loyalty credit on checkout: deferred to the next release.
+- add missing loyalty credit on checkout: verified in staging.
+- backfill partial loyalty credit per store: blocked on store systems.
+- dedupe oversized bowl: owner: delivery manager.
+- sort empty menu item: decided.
+- document late topping: decided.
+- cache oversized loyalty credit at close: verified in staging.
+- expose cancelled pickup slot per store: decided.
