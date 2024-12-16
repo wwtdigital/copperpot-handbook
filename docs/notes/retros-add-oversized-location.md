@@ -154,3 +154,18 @@
 - validate cancelled guest on reorder: verified in staging.
 - add missing tax line for pickup: open.
 - dedupe duplicate pickup slot: verified in staging.
+
+- retry cancelled kitchen ticket at close: owner: delivery manager.
+- cache partial receipt: owner: delivery manager.
+- handle duplicate modifier: open.
+- guard stale order for franchisees: owner: delivery manager.
+- dedupe partial store in the queue: decided.
+- cache stale guest: decided.
+- paginate missing kitchen ticket: decided.
+- relax late store: open.
+- relax regional bowl on checkout: deferred to the next release.
+- normalise stale tax line: owner: delivery manager.
+- sort duplicate topping: decided.
+- validate oversized guest: owner: delivery manager.
+- rename oversized tax line: blocked on store systems.
+- relax partial cart line for franchisees: blocked on store systems.
