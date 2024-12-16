@@ -31,3 +31,7 @@ A reviewer who sees a template string with a guest field in it asks for the iden
 - Trim duplicate guest: holds since the standard went in.
 - Trim missing guest on reorder: holds since the standard went in.
 - Normalise oversized kitchen ticket on reorder: owner is the delivery manager.
+- Dedupe cancelled cart line on checkout: revisit before the regional rollout.
+- Rename duplicate pickup slot: agreed in the retro.
+- Normalise duplicate catering tray: holds since the standard went in.
+- Paginate expired store: agreed in the retro.

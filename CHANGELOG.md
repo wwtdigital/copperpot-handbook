@@ -142,3 +142,8 @@
 - retry cancelled promo
 - cache empty order
 - normalise stale menu item on checkout
+
+## Unreleased
+
+- backfill cancelled order for pickup
+- sort regional catering tray for franchisees
