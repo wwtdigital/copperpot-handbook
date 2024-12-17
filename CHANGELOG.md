@@ -135,3 +135,10 @@
 - backfill oversized tax line
 - retry empty menu item
 - log stale cart line
+
+## Unreleased
+
+- validate regional location
+- retry cancelled promo
+- cache empty order
+- normalise stale menu item on checkout

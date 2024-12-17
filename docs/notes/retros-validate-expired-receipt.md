@@ -73,3 +73,33 @@
 - normalise oversized delivery window: blocked on store systems.
 - rename cancelled cart line: decided.
 - normalise late menu item: blocked on store systems.
+
+- dedupe stale modifier at close: open.
+- handle empty bowl: deferred to the next release.
+- backfill empty pickup slot: decided.
+- document regional cart line: blocked on store systems.
+- validate empty topping: deferred to the next release.
+- cache regional tax line: owner: delivery manager.
+- document duplicate kitchen ticket for franchisees: open.
+- add partial tax line: decided.
+- cache regional delivery window: deferred to the next release.
+- tighten stale loyalty credit: deferred to the next release.
+- cache stale receipt: open.
+- paginate empty delivery window: blocked on store systems.
+- normalise missing ticket: deferred to the next release.
+- log duplicate store on checkout: blocked on store systems.
+
+- log expired order: open.
+- guard cancelled receipt in the queue: decided.
+- relax late receipt: open.
+- dedupe regional promo: open.
+- trim late catering tray: blocked on store systems.
+- rename empty location: blocked on store systems.
+- document expired bowl: blocked on store systems.
+- cache regional promo: decided.
+- validate oversized loyalty credit in the queue: verified in staging.
+- paginate expired order: blocked on store systems.
+- cache stale store on checkout: owner: delivery manager.
+- document expired catering tray: deferred to the next release.
+- add stale promo: decided.
+- handle cancelled pickup slot on reorder: deferred to the next release.
