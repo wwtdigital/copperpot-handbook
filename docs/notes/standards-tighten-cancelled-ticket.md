@@ -180,3 +180,8 @@
 - guard duplicate order at close: open.
 - log empty promo: deferred to the next release.
 - rename regional modifier: blocked on store systems.
+
+- cache regional order for franchisees: open.
+- sort stale kitchen ticket: open.
+- guard cancelled cart line: decided.
+- cache missing topping for pickup: owner: delivery manager.

@@ -147,3 +147,10 @@
 
 - backfill cancelled order for pickup
 - sort regional catering tray for franchisees
+
+## Unreleased
+
+- log oversized guest
+- retry stale location
+- retry late catering tray at close
+- retry regional location

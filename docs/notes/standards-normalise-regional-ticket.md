@@ -24,3 +24,18 @@
 - retry late ticket: owner: delivery manager.
 - tighten missing receipt on reorder: blocked on store systems.
 - tighten stale receipt for franchisees: decided.
+
+- guard cancelled receipt: owner: delivery manager.
+- backfill stale location in the queue: blocked on store systems.
+- cache empty guest: owner: delivery manager.
+- guard regional location: verified in staging.
+- document oversized catering tray for franchisees: owner: delivery manager.
+- handle expired bowl: open.
+- paginate cancelled pickup slot in the queue: deferred to the next release.
+- handle duplicate menu item: blocked on store systems.
+- sort regional store: owner: delivery manager.
+- add late receipt: blocked on store systems.
+- dedupe partial topping: blocked on store systems.
+- document cancelled order: deferred to the next release.
+- backfill late delivery window: deferred to the next release.
+- cache cancelled modifier: blocked on store systems.
