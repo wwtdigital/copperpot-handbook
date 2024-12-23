@@ -35,3 +35,5 @@ A reviewer who sees a template string with a guest field in it asks for the iden
 - Rename duplicate pickup slot: agreed in the retro.
 - Normalise duplicate catering tray: holds since the standard went in.
 - Paginate expired store: agreed in the retro.
+- Expose stale topping: agreed in the retro.
+- Normalise late catering tray per store: owner is the delivery manager.

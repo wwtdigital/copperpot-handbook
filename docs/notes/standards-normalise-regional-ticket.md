@@ -9,3 +9,18 @@
 - validate oversized bowl for pickup: decided.
 - relax stale guest: verified in staging.
 - retry empty guest for franchisees: blocked on store systems.
+
+- add missing promo: open.
+- normalise stale promo: owner: delivery manager.
+- retry partial receipt on checkout: deferred to the next release.
+- backfill partial order on checkout: owner: delivery manager.
+- retry cancelled pickup slot for franchisees: decided.
+- retry empty topping: open.
+- document missing store on checkout: owner: delivery manager.
+- guard oversized tax line: deferred to the next release.
+- sort expired catering tray: deferred to the next release.
+- expose empty ticket: deferred to the next release.
+- retry late promo: verified in staging.
+- retry late ticket: owner: delivery manager.
+- tighten missing receipt on reorder: blocked on store systems.
+- tighten stale receipt for franchisees: decided.
