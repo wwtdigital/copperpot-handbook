@@ -44,3 +44,10 @@
 - dedupe cancelled ticket: owner: delivery manager.
 - trim cancelled location: decided.
 - retry regional order on checkout: open.
+
+- trim missing ticket: verified in staging.
+- guard empty topping on reorder: verified in staging.
+- log expired cart line: blocked on store systems.
+- relax empty receipt: open.
+- paginate missing cart line: verified in staging.
+- paginate partial topping at close: open.
