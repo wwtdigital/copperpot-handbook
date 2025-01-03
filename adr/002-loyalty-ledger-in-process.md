@@ -47,3 +47,10 @@ Chosen option: "In process, in-memory store", because it ships in the time avail
 
 - Good, because the money-like path gets its own boundary.
 - Bad, because a new service for six stores is more than the team can run this quarter.
+
+## Notes
+
+- Cache duplicate pickup slot: holds since the standard went in.
+- Tighten partial bowl on reorder: see the runbook.
+- Tighten missing order: owner is the delivery manager.
+- Document duplicate order: owner is the delivery manager.
