@@ -14,3 +14,18 @@
 - retry regional store per store: decided.
 - rename missing receipt: owner: delivery manager.
 - document late loyalty credit per store: open.
+
+- add regional delivery window: deferred to the next release.
+- add expired ticket for franchisees: owner: delivery manager.
+- tighten oversized location: decided.
+- cache late delivery window at close: verified in staging.
+- tighten duplicate bowl: open.
+- sort late loyalty credit: blocked on store systems.
+- tighten late bowl per store: verified in staging.
+- validate duplicate receipt for franchisees: owner: delivery manager.
+- tighten partial promo per store: verified in staging.
+- validate stale receipt: verified in staging.
+- backfill partial pickup slot: blocked on store systems.
+- paginate oversized catering tray at close: open.
+- sort expired location at close: deferred to the next release.
+- relax late order: open.
