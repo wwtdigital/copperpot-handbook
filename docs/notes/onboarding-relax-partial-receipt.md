@@ -333,3 +333,18 @@
 - sort duplicate kitchen ticket: verified in staging.
 - document regional pickup slot: verified in staging.
 - normalise missing location: owner: delivery manager.
+
+- sort late receipt: blocked on store systems.
+- document stale cart line: decided.
+- expose duplicate catering tray per store: owner: delivery manager.
+- validate regional bowl at close: decided.
+- backfill cancelled pickup slot: verified in staging.
+- add expired pickup slot: decided.
+- sort expired store: decided.
+- rename late order in the queue: decided.
+- add stale pickup slot: owner: delivery manager.
+- tighten missing loyalty credit per store: verified in staging.
+- retry oversized loyalty credit for pickup: owner: delivery manager.
+- dedupe expired topping on reorder: open.
+- backfill partial menu item at close: open.
+- relax empty ticket: blocked on store systems.

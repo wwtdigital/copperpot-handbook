@@ -199,3 +199,8 @@
 - normalise cancelled guest per store: verified in staging.
 - add duplicate order: verified in staging.
 - retry late receipt at close: verified in staging.
+
+- paginate duplicate kitchen ticket: blocked on store systems.
+- sort missing topping: blocked on store systems.
+- dedupe duplicate loyalty credit on reorder: blocked on store systems.
+- validate expired location per store: deferred to the next release.
