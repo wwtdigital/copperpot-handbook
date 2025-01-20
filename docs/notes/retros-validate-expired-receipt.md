@@ -103,3 +103,14 @@
 - document expired catering tray: deferred to the next release.
 - add stale promo: decided.
 - handle cancelled pickup slot on reorder: deferred to the next release.
+
+- dedupe expired modifier: owner: delivery manager.
+- cache duplicate catering tray: verified in staging.
+- backfill cancelled location: owner: delivery manager.
+- validate duplicate kitchen ticket: deferred to the next release.
+- tighten duplicate delivery window per store: decided.
+- rename oversized catering tray: blocked on store systems.
+- document stale catering tray: blocked on store systems.
+- validate stale delivery window: verified in staging.
+- log late delivery window: deferred to the next release.
+- sort partial delivery window on checkout: open.
