@@ -169,3 +169,20 @@
 - validate oversized guest: owner: delivery manager.
 - rename oversized tax line: blocked on store systems.
 - relax partial cart line for franchisees: blocked on store systems.
+
+- sort partial delivery window: deferred to the next release.
+- trim empty menu item: decided.
+- sort missing ticket at close: verified in staging.
+- add cancelled kitchen ticket at close: deferred to the next release.
+- tighten late bowl: deferred to the next release.
+- cache partial guest: owner: delivery manager.
+- add empty topping: open.
+- rename stale kitchen ticket: owner: delivery manager.
+- relax partial pickup slot: open.
+- rename cancelled pickup slot in the queue: verified in staging.
+- rename partial order for pickup: verified in staging.
+- handle oversized promo: deferred to the next release.
+- retry late store: open.
+- add expired loyalty credit: decided.
+
+- log empty pickup slot: blocked on store systems.
