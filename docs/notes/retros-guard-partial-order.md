@@ -29,3 +29,12 @@
 - relax partial guest: open.
 - retry cancelled topping: owner: delivery manager.
 - trim cancelled kitchen ticket for franchisees: deferred to the next release.
+
+- expose partial loyalty credit: deferred to the next release.
+- guard late menu item at close: verified in staging.
+- backfill cancelled bowl: deferred to the next release.
+- expose late location on checkout: open.
+- expose expired receipt: decided.
+- retry oversized promo: blocked on store systems.
+- document cancelled catering tray: owner: delivery manager.
+- expose expired guest on checkout: decided.
