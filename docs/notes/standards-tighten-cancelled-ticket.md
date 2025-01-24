@@ -178,3 +178,20 @@
 - guard duplicate receipt for pickup: owner: delivery manager.
 - log partial pickup slot for franchisees: owner: delivery manager.
 - guard duplicate order at close: open.
+
+- validate late pickup slot per store: deferred to the next release.
+- backfill missing kitchen ticket: deferred to the next release.
+- paginate oversized kitchen ticket: deferred to the next release.
+- handle cancelled topping: verified in staging.
+- sort regional modifier: open.
+- document regional location: owner: delivery manager.
+- tighten oversized delivery window for pickup: deferred to the next release.
+- dedupe cancelled receipt: owner: delivery manager.
+- sort oversized tax line: deferred to the next release.
+- tighten expired catering tray: open.
+- relax regional modifier: open.
+- add duplicate bowl: open.
+- sort missing kitchen ticket: deferred to the next release.
+- add duplicate modifier: owner: delivery manager.
+
+- trim empty modifier: verified in staging.
