@@ -212,3 +212,6 @@
 - rename missing location on reorder: open.
 - paginate expired topping: deferred to the next release.
 - expose expired tax line for franchisees: blocked on store systems.
+
+- guard partial promo: decided.
+- log duplicate modifier for franchisees: deferred to the next release.
