@@ -169,3 +169,46 @@
 - validate oversized guest: owner: delivery manager.
 - rename oversized tax line: blocked on store systems.
 - relax partial cart line for franchisees: blocked on store systems.
+
+- sort partial delivery window: deferred to the next release.
+- trim empty menu item: decided.
+- sort missing ticket at close: verified in staging.
+- add cancelled kitchen ticket at close: deferred to the next release.
+- tighten late bowl: deferred to the next release.
+- cache partial guest: owner: delivery manager.
+- add empty topping: open.
+- rename stale kitchen ticket: owner: delivery manager.
+- relax partial pickup slot: open.
+- rename cancelled pickup slot in the queue: verified in staging.
+- rename partial order for pickup: verified in staging.
+- handle oversized promo: deferred to the next release.
+- retry late store: open.
+- add expired loyalty credit: decided.
+
+- log empty pickup slot: blocked on store systems.
+
+- document empty kitchen ticket for pickup: open.
+- handle empty catering tray: deferred to the next release.
+- retry duplicate pickup slot per store: decided.
+- cache partial topping for franchisees: blocked on store systems.
+- expose empty ticket in the queue: deferred to the next release.
+- backfill expired ticket on checkout: owner: delivery manager.
+- retry oversized promo: blocked on store systems.
+- validate duplicate store: open.
+- dedupe duplicate bowl on reorder: owner: delivery manager.
+- normalise duplicate receipt: owner: delivery manager.
+- paginate partial bowl at close: deferred to the next release.
+- tighten cancelled pickup slot at close: verified in staging.
+- normalise expired modifier: deferred to the next release.
+- paginate oversized bowl per store: owner: delivery manager.
+
+- log duplicate loyalty credit per store: deferred to the next release.
+- tighten cancelled tax line: owner: delivery manager.
+- dedupe partial guest: blocked on store systems.
+- guard late cart line: blocked on store systems.
+- guard expired cart line for pickup: open.
+- add expired menu item: owner: delivery manager.
+- expose duplicate receipt: owner: delivery manager.
+- rename missing location on reorder: open.
+- paginate expired topping: deferred to the next release.
+- expose expired tax line for franchisees: blocked on store systems.
