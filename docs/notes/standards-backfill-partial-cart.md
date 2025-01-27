@@ -10,3 +10,7 @@
 
 - backfill expired receipt for pickup: deferred to the next release.
 - sort empty modifier per store: blocked on store systems.
+
+- relax empty loyalty credit in the queue: owner: delivery manager.
+- cache cancelled store: open.
+- guard empty promo: decided.
