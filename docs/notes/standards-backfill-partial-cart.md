@@ -7,3 +7,6 @@
 - expose oversized promo per store: verified in staging.
 - rename missing tax line for pickup: open.
 - relax missing ticket: blocked on store systems.
+
+- backfill expired receipt for pickup: deferred to the next release.
+- sort empty modifier per store: blocked on store systems.
