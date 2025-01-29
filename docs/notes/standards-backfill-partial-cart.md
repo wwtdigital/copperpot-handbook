@@ -14,3 +14,6 @@
 - relax empty loyalty credit in the queue: owner: delivery manager.
 - cache cancelled store: open.
 - guard empty promo: decided.
+
+- trim late tax line: owner: delivery manager.
+- document empty kitchen ticket: verified in staging.
