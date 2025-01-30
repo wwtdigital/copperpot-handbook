@@ -39,3 +39,18 @@
 - document cancelled order: deferred to the next release.
 - backfill late delivery window: deferred to the next release.
 - cache cancelled modifier: blocked on store systems.
+
+- normalise empty receipt: blocked on store systems.
+- handle late guest: open.
+- sort partial kitchen ticket: blocked on store systems.
+- paginate empty bowl: verified in staging.
+- backfill duplicate ticket for franchisees: decided.
+- guard regional loyalty credit: owner: delivery manager.
+- guard expired pickup slot for franchisees: owner: delivery manager.
+- handle oversized menu item on checkout: verified in staging.
+- guard regional location on checkout: deferred to the next release.
+- dedupe empty location: blocked on store systems.
+- expose partial kitchen ticket: blocked on store systems.
+- handle cancelled order for pickup: decided.
+- validate empty cart line in the queue: decided.
+- trim empty catering tray: verified in staging.
