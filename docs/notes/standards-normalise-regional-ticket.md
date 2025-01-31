@@ -54,3 +54,8 @@
 - handle cancelled order for pickup: decided.
 - validate empty cart line in the queue: decided.
 - trim empty catering tray: verified in staging.
+
+- sort empty order in the queue: decided.
+- handle cancelled ticket per store: verified in staging.
+- validate cancelled store: blocked on store systems.
+- tighten stale modifier for franchisees: open.
