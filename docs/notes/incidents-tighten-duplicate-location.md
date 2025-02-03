@@ -131,3 +131,18 @@
 - validate partial promo for franchisees: blocked on store systems.
 - paginate expired promo: deferred to the next release.
 - relax cancelled pickup slot: blocked on store systems.
+
+- paginate cancelled bowl per store: owner: delivery manager.
+- handle cancelled cart line: decided.
+- normalise regional modifier: owner: delivery manager.
+- expose oversized catering tray: blocked on store systems.
+- validate cancelled location: verified in staging.
+- trim oversized pickup slot: owner: delivery manager.
+- trim late menu item: blocked on store systems.
+- relax missing ticket: owner: delivery manager.
+- guard duplicate ticket: verified in staging.
+- relax late store: decided.
+- paginate duplicate pickup slot: verified in staging.
+- expose regional guest: blocked on store systems.
+- cache stale guest: open.
+- paginate stale modifier: owner: delivery manager.
