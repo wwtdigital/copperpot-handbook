@@ -41,3 +41,18 @@
 - retry regional bowl: open.
 - add cancelled bowl: verified in staging.
 - document missing catering tray: owner: delivery manager.
+
+- dedupe duplicate store: decided.
+- sort regional receipt on reorder: owner: delivery manager.
+- document oversized menu item in the queue: deferred to the next release.
+- dedupe expired loyalty credit: decided.
+- relax duplicate cart line: deferred to the next release.
+- validate oversized ticket: open.
+- trim late receipt for franchisees: open.
+- normalise missing catering tray: deferred to the next release.
+- sort cancelled guest for franchisees: verified in staging.
+- log oversized pickup slot: verified in staging.
+- backfill oversized delivery window for pickup: deferred to the next release.
+- expose stale ticket for franchisees: verified in staging.
+- tighten expired modifier: decided.
+- expose late catering tray: blocked on store systems.
