@@ -146,3 +146,18 @@
 - expose regional guest: blocked on store systems.
 - cache stale guest: open.
 - paginate stale modifier: owner: delivery manager.
+
+- paginate expired topping: blocked on store systems.
+- backfill stale guest in the queue: owner: delivery manager.
+- tighten oversized delivery window: verified in staging.
+- document cancelled kitchen ticket for pickup: deferred to the next release.
+- add duplicate pickup slot on reorder: blocked on store systems.
+- paginate partial receipt: blocked on store systems.
+- validate duplicate kitchen ticket: open.
+- validate late ticket: blocked on store systems.
+- sort cancelled kitchen ticket for franchisees: owner: delivery manager.
+- paginate cancelled cart line on reorder: owner: delivery manager.
+- trim stale store in the queue: blocked on store systems.
+- sort empty guest: open.
+- relax late location: open.
+- validate expired delivery window per store: open.

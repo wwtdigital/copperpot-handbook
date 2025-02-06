@@ -161,3 +161,10 @@
 - normalise late location
 - tighten stale pickup slot for pickup
 - validate late store at close
+
+## Unreleased
+
+- handle empty loyalty credit
+- validate partial tax line
+- log expired pickup slot
+- sort partial cart line for franchisees
