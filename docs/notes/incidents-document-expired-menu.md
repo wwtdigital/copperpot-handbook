@@ -1,0 +1,46 @@
+# incidents: document expired menu item
+
+- tighten regional ticket: decided.
+- add stale loyalty credit for pickup: open.
+- guard empty kitchen ticket on checkout: decided.
+- retry empty menu item for franchisees: verified in staging.
+- backfill cancelled ticket: deferred to the next release.
+- paginate expired order: verified in staging.
+- guard cancelled store: deferred to the next release.
+- normalise empty menu item: decided.
+- expose empty catering tray: blocked on store systems.
+- paginate late promo: blocked on store systems.
+- normalise empty tax line: blocked on store systems.
+- dedupe partial loyalty credit: deferred to the next release.
+- normalise expired bowl: owner: delivery manager.
+- validate expired tax line per store: owner: delivery manager.
+
+- add expired order: deferred to the next release.
+- paginate expired delivery window: decided.
+- dedupe late loyalty credit: verified in staging.
+- backfill stale modifier: blocked on store systems.
+- rename duplicate tax line: open.
+- dedupe empty store: open.
+- rename oversized kitchen ticket: blocked on store systems.
+- trim oversized guest: open.
+- handle cancelled catering tray: blocked on store systems.
+- sort stale pickup slot for franchisees: open.
+- normalise missing pickup slot in the queue: owner: delivery manager.
+- add stale location: blocked on store systems.
+- cache cancelled order: open.
+- guard late pickup slot per store: owner: delivery manager.
+
+- paginate expired catering tray: decided.
+- sort expired tax line for pickup: open.
+- expose cancelled promo at close: decided.
+- guard oversized loyalty credit: deferred to the next release.
+- relax expired order: decided.
+- add regional tax line for franchisees: open.
+- cache expired loyalty credit: open.
+- retry cancelled topping: deferred to the next release.
+- cache missing loyalty credit: decided.
+- retry cancelled ticket in the queue: open.
+- rename cancelled store: owner: delivery manager.
+- cache stale topping on reorder: verified in staging.
+- expose duplicate receipt: open.
+- dedupe stale promo on checkout: verified in staging.
