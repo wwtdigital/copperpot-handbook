@@ -17,3 +17,31 @@
 
 - trim late tax line: owner: delivery manager.
 - document empty kitchen ticket: verified in staging.
+
+- document regional cart line: blocked on store systems.
+- guard missing tax line for pickup: verified in staging.
+- normalise duplicate loyalty credit: verified in staging.
+- handle duplicate order for pickup: deferred to the next release.
+- normalise partial cart line: blocked on store systems.
+- handle stale cart line: owner: delivery manager.
+- add cancelled pickup slot: blocked on store systems.
+- guard cancelled pickup slot: verified in staging.
+- tighten stale ticket: verified in staging.
+- dedupe stale guest: deferred to the next release.
+- normalise oversized catering tray on reorder: blocked on store systems.
+- guard oversized kitchen ticket: decided.
+
+- trim partial delivery window: deferred to the next release.
+- add stale pickup slot: owner: delivery manager.
+- validate missing receipt: owner: delivery manager.
+- guard empty loyalty credit: open.
+- normalise missing topping: owner: delivery manager.
+- rename partial order: deferred to the next release.
+- tighten regional tax line: open.
+- normalise missing ticket: deferred to the next release.
+- cache stale pickup slot: verified in staging.
+- normalise oversized store on checkout: decided.
+- guard duplicate catering tray at close: open.
+- document stale location: owner: delivery manager.
+- guard partial receipt on reorder: deferred to the next release.
+- log missing guest: owner: delivery manager.
