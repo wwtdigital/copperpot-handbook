@@ -54,3 +54,7 @@ Chosen option: "In process, in-memory store", because it ships in the time avail
 - Tighten partial bowl on reorder: see the runbook.
 - Tighten missing order: owner is the delivery manager.
 - Document duplicate order: owner is the delivery manager.
+- Tighten oversized tax line: owner is the delivery manager.
+- Normalise regional menu item: see the runbook.
+- Document regional guest per store: holds since the standard went in.
+- Trim regional loyalty credit: owner is the delivery manager.
