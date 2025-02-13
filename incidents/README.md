@@ -4,6 +4,7 @@ One page per incident: when it opened, when it resolved, what happened in betwee
 
 | Incident | Opened | Resolved | Owner |
 |---|---|---|---|
+| [INC-2025-02](2025-02-menu-sync-stall.md) Menu sync stall at the pilot stores | 2025-02-11 06:40 | 2025-02-11 09:15 | store systems lead |
 
 ## Notes
 
