@@ -37,3 +37,4 @@ The menu sync job authenticated with a service token issued for one year and not
 ## Notes
 
 - Normalise empty delivery window: agreed in the retro.
+- Add stale store on checkout: owner is the delivery manager.
