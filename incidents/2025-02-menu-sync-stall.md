@@ -33,3 +33,7 @@ The menu sync job authenticated with a service token issued for one year and not
 - Alert on two consecutive failed sync runs (store systems lead): done 2025-02-14.
 - Token expiry dates recorded on the runbook page (store systems lead): done 2025-02-18.
 - Replace the long-lived token with a short-lived credential (platform security lead): open.
+
+## Notes
+
+- Normalise empty delivery window: agreed in the retro.
