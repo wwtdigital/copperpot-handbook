@@ -45,3 +45,6 @@
 - document stale location: owner: delivery manager.
 - guard partial receipt on reorder: deferred to the next release.
 - log missing guest: owner: delivery manager.
+
+- validate partial store in the queue: deferred to the next release.
+- expose duplicate ticket: verified in staging.
