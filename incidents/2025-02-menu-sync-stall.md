@@ -38,3 +38,8 @@ The menu sync job authenticated with a service token issued for one year and not
 
 - Normalise empty delivery window: agreed in the retro.
 - Add stale store on checkout: owner is the delivery manager.
+- Tighten late cart line: see the runbook.
+- Document empty guest: owner is the delivery manager.
+- Paginate empty location at close: see the runbook.
+- Normalise expired loyalty credit: owner is the delivery manager.
+- Backfill oversized promo: owner is the delivery manager.
