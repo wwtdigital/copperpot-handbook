@@ -168,3 +168,10 @@
 - validate partial tax line
 - log expired pickup slot
 - sort partial cart line for franchisees
+
+## Unreleased
+
+- normalise duplicate menu item for franchisees
+- relax empty promo
+- handle oversized pickup slot
+- expose expired promo
