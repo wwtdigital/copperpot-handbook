@@ -215,3 +215,21 @@
 
 - guard partial promo: decided.
 - log duplicate modifier for franchisees: deferred to the next release.
+
+- retry empty catering tray: owner: delivery manager.
+- expose regional catering tray: blocked on store systems.
+- backfill expired bowl: open.
+- dedupe partial ticket: verified in staging.
+- add duplicate receipt at close: verified in staging.
+- tighten expired delivery window for pickup: blocked on store systems.
+- guard stale receipt: decided.
+- cache partial ticket at close: owner: delivery manager.
+- dedupe stale guest: owner: delivery manager.
+- tighten late ticket: blocked on store systems.
+- cache cancelled bowl: blocked on store systems.
+- tighten empty delivery window for pickup: open.
+- handle expired guest on reorder: deferred to the next release.
+- cache late store: open.
+
+- normalise oversized order in the queue: deferred to the next release.
+- dedupe empty promo: verified in staging.
