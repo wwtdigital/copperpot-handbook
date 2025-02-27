@@ -175,3 +175,10 @@
 - relax empty promo
 - handle oversized pickup slot
 - expose expired promo
+
+## Unreleased
+
+- cache stale store
+- handle partial pickup slot
+- paginate missing cart line
+- log missing pickup slot
