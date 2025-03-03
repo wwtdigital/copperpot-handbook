@@ -48,3 +48,17 @@
 
 - validate partial store in the queue: deferred to the next release.
 - expose duplicate ticket: verified in staging.
+
+- rename empty topping at close: verified in staging.
+- sort regional kitchen ticket: blocked on store systems.
+- normalise oversized pickup slot: verified in staging.
+- log duplicate modifier: blocked on store systems.
+- guard expired location: decided.
+- paginate partial receipt: owner: delivery manager.
+- normalise duplicate topping: deferred to the next release.
+- normalise stale location: verified in staging.
+- normalise expired menu item for pickup: open.
+- add duplicate cart line: verified in staging.
+- log regional kitchen ticket for franchisees: decided.
+- guard partial menu item at close: verified in staging.
+- validate expired cart line on checkout: open.
