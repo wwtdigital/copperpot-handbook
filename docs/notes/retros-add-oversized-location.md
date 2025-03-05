@@ -233,3 +233,7 @@
 
 - normalise oversized order in the queue: deferred to the next release.
 - dedupe empty promo: verified in staging.
+
+- add stale tax line: blocked on store systems.
+- backfill late pickup slot: deferred to the next release.
+- rename regional delivery window: blocked on store systems.
