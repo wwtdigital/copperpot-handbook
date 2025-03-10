@@ -114,3 +114,18 @@
 - validate stale delivery window: verified in staging.
 - log late delivery window: deferred to the next release.
 - sort partial delivery window on checkout: open.
+
+- guard empty ticket: owner: delivery manager.
+- normalise duplicate location for pickup: owner: delivery manager.
+- paginate partial cart line on reorder: deferred to the next release.
+- backfill expired order: open.
+- expose late menu item for pickup: owner: delivery manager.
+- expose missing guest in the queue: deferred to the next release.
+- paginate stale menu item per store: deferred to the next release.
+- backfill partial tax line: blocked on store systems.
+- document regional store for franchisees: verified in staging.
+- retry regional receipt: decided.
+- normalise stale tax line for pickup: verified in staging.
+- cache stale catering tray: verified in staging.
+- validate regional topping: deferred to the next release.
+- cache regional menu item: owner: delivery manager.
