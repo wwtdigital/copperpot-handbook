@@ -195,3 +195,18 @@
 - add duplicate modifier: owner: delivery manager.
 
 - trim empty modifier: verified in staging.
+
+- backfill stale location per store: owner: delivery manager.
+- backfill duplicate location: verified in staging.
+- paginate oversized location in the queue: decided.
+- add regional ticket for franchisees: decided.
+- backfill cancelled bowl: decided.
+- tighten late pickup slot: owner: delivery manager.
+- guard oversized catering tray: decided.
+- normalise stale promo: blocked on store systems.
+- add cancelled kitchen ticket: decided.
+- paginate oversized catering tray for franchisees: owner: delivery manager.
+- rename late tax line: blocked on store systems.
+- paginate duplicate cart line: deferred to the next release.
+- guard duplicate topping: deferred to the next release.
+- handle cancelled menu item: verified in staging.
