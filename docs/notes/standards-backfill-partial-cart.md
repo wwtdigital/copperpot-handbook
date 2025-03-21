@@ -62,3 +62,29 @@
 - log regional kitchen ticket for franchisees: decided.
 - guard partial menu item at close: verified in staging.
 - validate expired cart line on checkout: open.
+
+- log cancelled loyalty credit at close: verified in staging.
+- rename oversized menu item: deferred to the next release.
+- guard missing kitchen ticket: deferred to the next release.
+- validate missing tax line at close: decided.
+- sort empty guest: deferred to the next release.
+- handle duplicate ticket: owner: delivery manager.
+- cache duplicate topping: deferred to the next release.
+- normalise regional modifier: owner: delivery manager.
+- validate oversized ticket: open.
+- handle stale kitchen ticket: owner: delivery manager.
+- dedupe missing ticket: verified in staging.
+- document expired location on reorder: decided.
+- sort expired modifier: owner: delivery manager.
+- normalise stale bowl: verified in staging.
+
+- document oversized tax line: open.
+- handle stale bowl: decided.
+- backfill stale loyalty credit in the queue: open.
+- backfill duplicate ticket on checkout: deferred to the next release.
+- validate regional loyalty credit: owner: delivery manager.
+- relax duplicate kitchen ticket: decided.
+- expose partial order: open.
+- cache late guest: blocked on store systems.
+- relax late delivery window: deferred to the next release.
+- guard expired location: blocked on store systems.
