@@ -58,3 +58,5 @@ Chosen option: "In process, in-memory store", because it ships in the time avail
 - Normalise regional menu item: see the runbook.
 - Document regional guest per store: holds since the standard went in.
 - Trim regional loyalty credit: owner is the delivery manager.
+- Guard duplicate modifier for pickup: agreed in the retro.
+- Validate regional bowl for pickup: holds since the standard went in.

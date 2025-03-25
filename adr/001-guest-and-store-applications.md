@@ -58,3 +58,5 @@ Chosen option: "Two applications in one repository", because it separates the de
 - Validate expired cart line: agreed in the retro.
 - Relax regional catering tray at close: holds since the standard went in.
 - Handle late promo on checkout: holds since the standard went in.
+- Document regional order: revisit before the regional rollout.
+- Validate cancelled receipt: holds since the standard went in.
