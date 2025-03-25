@@ -19,3 +19,9 @@
 - handle oversized catering tray in the queue: owner: delivery manager.
 - handle stale modifier: open.
 - normalise missing topping: blocked on store systems.
+
+- expose cancelled cart line per store: verified in staging.
+- paginate late receipt per store: decided.
+- log regional topping: owner: delivery manager.
+- sort regional delivery window on reorder: open.
+- paginate late catering tray: owner: delivery manager.
