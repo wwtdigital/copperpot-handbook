@@ -230,3 +230,6 @@
 - tighten empty delivery window for pickup: open.
 - handle expired guest on reorder: deferred to the next release.
 - cache late store: open.
+
+- add empty catering tray: owner: delivery manager.
+- tighten cancelled pickup slot: owner: delivery manager.
