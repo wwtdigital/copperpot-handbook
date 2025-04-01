@@ -7,6 +7,7 @@ One page per standard. The front matter carries `effective`, the date the standa
 | [Release](release.md) | 2024-03-04 | store systems lead |
 | [Dependency updates](dependency-updates.md) | 2024-06-03 | commerce delivery manager |
 | [Logging](logging.md) | 2024-11-18 | platform security lead |
+| [Branching and review](branching-and-review.md) | 2025-04-01 | commerce delivery manager |
 
 ## Notes
 
