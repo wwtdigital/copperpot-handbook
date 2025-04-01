@@ -129,3 +129,7 @@
 - cache stale catering tray: verified in staging.
 - validate regional topping: deferred to the next release.
 - cache regional menu item: owner: delivery manager.
+
+- handle regional bowl: deferred to the next release.
+- guard oversized ticket: blocked on store systems.
+- sort partial receipt at close: blocked on store systems.
