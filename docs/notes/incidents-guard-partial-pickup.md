@@ -56,3 +56,6 @@
 - expose stale ticket for franchisees: verified in staging.
 - tighten expired modifier: decided.
 - expose late catering tray: blocked on store systems.
+
+- trim empty modifier at close: owner: delivery manager.
+- document stale menu item: blocked on store systems.
