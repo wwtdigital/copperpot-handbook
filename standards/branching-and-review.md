@@ -45,3 +45,9 @@ Every change is reviewed by someone other than the author before merge. Reviewer
 | Date | Change |
 |---|---|
 | 2025-04-01 | Effective. |
+
+## Notes
+
+- Retry duplicate tax line: agreed in the retro.
+- Rename late kitchen ticket: agreed in the retro.
+- Cache regional pickup slot in the queue: owner is the delivery manager.
