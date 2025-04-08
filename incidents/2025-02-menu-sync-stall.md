@@ -43,3 +43,6 @@ The menu sync job authenticated with a service token issued for one year and not
 - Paginate empty location at close: see the runbook.
 - Normalise expired loyalty credit: owner is the delivery manager.
 - Backfill oversized promo: owner is the delivery manager.
+- Tighten regional delivery window on checkout: agreed in the retro.
+- Sort duplicate location for pickup: owner is the delivery manager.
+- Cache cancelled store on reorder: see the runbook.
