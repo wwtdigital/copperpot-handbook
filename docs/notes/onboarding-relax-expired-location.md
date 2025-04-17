@@ -29,3 +29,15 @@
 - paginate oversized catering tray at close: open.
 - sort expired location at close: deferred to the next release.
 - relax late order: open.
+
+- validate stale bowl: open.
+- rename empty bowl: verified in staging.
+- cache cancelled store: verified in staging.
+- handle missing delivery window: blocked on store systems.
+- cache late loyalty credit: blocked on store systems.
+- normalise stale delivery window on reorder: verified in staging.
+- paginate stale topping per store: blocked on store systems.
+- tighten empty pickup slot: deferred to the next release.
+- handle regional loyalty credit: blocked on store systems.
+- backfill regional order: decided.
+- add oversized kitchen ticket: deferred to the next release.
