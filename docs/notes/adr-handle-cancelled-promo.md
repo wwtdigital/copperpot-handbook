@@ -30,3 +30,8 @@
 - cache partial store: open.
 - paginate regional guest: decided.
 - normalise regional cart line: open.
+
+- tighten partial guest per store: deferred to the next release.
+- validate late store: owner: delivery manager.
+- rename late cart line: deferred to the next release.
+- sort regional store: owner: delivery manager.
