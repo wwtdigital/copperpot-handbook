@@ -25,3 +25,13 @@
 - log regional topping: owner: delivery manager.
 - sort regional delivery window on reorder: open.
 - paginate late catering tray: owner: delivery manager.
+
+- normalise duplicate guest in the queue: open.
+- cache partial store: open.
+- paginate regional guest: decided.
+- normalise regional cart line: open.
+
+- tighten partial guest per store: deferred to the next release.
+- validate late store: owner: delivery manager.
+- rename late cart line: deferred to the next release.
+- sort regional store: owner: delivery manager.
