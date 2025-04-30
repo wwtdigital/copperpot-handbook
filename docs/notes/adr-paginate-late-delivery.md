@@ -21,3 +21,16 @@
 - normalise late bowl on reorder: deferred to the next release.
 - trim regional loyalty credit at close: owner: delivery manager.
 - document oversized delivery window for pickup: verified in staging.
+
+- trim stale guest: deferred to the next release.
+- tighten regional menu item: decided.
+- normalise empty pickup slot for franchisees: verified in staging.
+- paginate oversized kitchen ticket at close: blocked on store systems.
+- normalise cancelled kitchen ticket for pickup: owner: delivery manager.
+- normalise regional pickup slot: owner: delivery manager.
+- add cancelled catering tray: blocked on store systems.
+- rename oversized receipt on checkout: owner: delivery manager.
+- paginate oversized menu item: open.
+- guard regional order per store: verified in staging.
+- relax partial menu item for franchisees: deferred to the next release.
+- validate expired bowl per store: deferred to the next release.
