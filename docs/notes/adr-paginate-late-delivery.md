@@ -34,3 +34,11 @@
 - guard regional order per store: verified in staging.
 - relax partial menu item for franchisees: deferred to the next release.
 - validate expired bowl per store: deferred to the next release.
+
+- normalise empty tax line: decided.
+- normalise stale topping for pickup: open.
+- validate missing pickup slot on checkout: owner: delivery manager.
+- trim empty order on reorder: open.
+- expose empty tax line on checkout: deferred to the next release.
+- guard cancelled cart line: verified in staging.
+- retry empty topping: blocked on store systems.
