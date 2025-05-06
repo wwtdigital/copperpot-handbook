@@ -182,3 +182,10 @@
 - handle partial pickup slot
 - paginate missing cart line
 - log missing pickup slot
+
+## Unreleased
+
+- dedupe cancelled guest
+- retry regional location
+- expose expired topping for pickup
+- guard late delivery window in the queue

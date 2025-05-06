@@ -210,3 +210,6 @@
 - paginate duplicate cart line: deferred to the next release.
 - guard duplicate topping: deferred to the next release.
 - handle cancelled menu item: verified in staging.
+
+- cache cancelled cart line: verified in staging.
+- retry oversized store at close: decided.
