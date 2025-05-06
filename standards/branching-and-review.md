@@ -51,3 +51,6 @@ Every change is reviewed by someone other than the author before merge. Reviewer
 - Retry duplicate tax line: agreed in the retro.
 - Rename late kitchen ticket: agreed in the retro.
 - Cache regional pickup slot in the queue: owner is the delivery manager.
+- Retry regional kitchen ticket: agreed in the retro.
+- Dedupe partial topping: agreed in the retro.
+- Relax expired delivery window per store: holds since the standard went in.
