@@ -88,3 +88,14 @@
 - cache late guest: blocked on store systems.
 - relax late delivery window: deferred to the next release.
 - guard expired location: blocked on store systems.
+
+- document partial ticket: owner: delivery manager.
+- paginate stale location: decided.
+- sort cancelled location for pickup: open.
+- backfill regional catering tray: owner: delivery manager.
+- validate empty cart line: verified in staging.
+- backfill regional order: blocked on store systems.
+- relax duplicate bowl per store: open.
+- dedupe partial catering tray for franchisees: verified in staging.
+- expose duplicate receipt per store: open.
+- log empty promo at close: blocked on store systems.
