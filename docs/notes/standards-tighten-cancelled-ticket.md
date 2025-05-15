@@ -213,3 +213,11 @@
 
 - cache cancelled cart line: verified in staging.
 - retry oversized store at close: decided.
+
+- normalise empty loyalty credit: deferred to the next release.
+- normalise missing modifier: verified in staging.
+- normalise late cart line: deferred to the next release.
+- relax late pickup slot on checkout: verified in staging.
+- relax missing topping: blocked on store systems.
+- add oversized bowl: owner: delivery manager.
+- paginate empty delivery window: blocked on store systems.
