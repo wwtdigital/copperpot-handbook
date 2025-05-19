@@ -133,3 +133,12 @@
 - handle regional bowl: deferred to the next release.
 - guard oversized ticket: blocked on store systems.
 - sort partial receipt at close: blocked on store systems.
+
+- cache regional receipt: decided.
+- tighten empty menu item: decided.
+- retry partial receipt: owner: delivery manager.
+- cache partial modifier: verified in staging.
+- dedupe late store: open.
+- trim duplicate topping: decided.
+- add missing promo: open.
+- dedupe missing delivery window on reorder: blocked on store systems.
