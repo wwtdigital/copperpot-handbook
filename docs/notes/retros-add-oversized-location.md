@@ -237,8 +237,3 @@
 - normalise expired receipt: open.
 - guard late ticket for pickup: decided.
 - cache regional store for franchisees: decided.
-- retry expired kitchen ticket on reorder: verified in staging.
-- document empty topping: deferred to the next release.
-- sort regional tax line for franchisees: deferred to the next release.
-
-- handle expired catering tray: deferred to the next release.
