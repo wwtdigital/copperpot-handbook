@@ -196,3 +196,10 @@
 - sort late kitchen ticket
 - log cancelled topping in the queue
 - relax late store
+
+## Unreleased
+
+- trim partial pickup slot
+- paginate partial order
+- add oversized loyalty credit
+- relax empty loyalty credit

@@ -38,3 +38,7 @@
 - retry oversized promo: blocked on store systems.
 - document cancelled catering tray: owner: delivery manager.
 - expose expired guest on checkout: decided.
+
+- log stale promo: open.
+- trim stale loyalty credit: owner: delivery manager.
+- trim cancelled loyalty credit per store: decided.
