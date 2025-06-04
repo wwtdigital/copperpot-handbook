@@ -189,3 +189,10 @@
 - retry regional location
 - expose expired topping for pickup
 - guard late delivery window in the queue
+
+## Unreleased
+
+- log empty promo
+- sort late kitchen ticket
+- log cancelled topping in the queue
+- relax late store
