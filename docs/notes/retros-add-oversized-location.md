@@ -237,3 +237,10 @@
 - normalise expired receipt: open.
 - guard late ticket for pickup: decided.
 - cache regional store for franchisees: decided.
+
+- guard partial delivery window in the queue: deferred to the next release.
+- sort oversized guest in the queue: deferred to the next release.
+- rename regional topping on reorder: decided.
+- guard stale promo: open.
+- validate empty promo: decided.
+- tighten missing menu item in the queue: verified in staging.
