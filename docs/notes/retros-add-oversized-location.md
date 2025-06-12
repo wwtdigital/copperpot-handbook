@@ -244,3 +244,32 @@
 - guard stale promo: open.
 - validate empty promo: decided.
 - tighten missing menu item in the queue: verified in staging.
+
+- add stale store: blocked on store systems.
+- retry cancelled order: owner: delivery manager.
+- trim cancelled cart line: verified in staging.
+- add missing catering tray per store: deferred to the next release.
+- tighten stale ticket: blocked on store systems.
+- document partial order: deferred to the next release.
+- dedupe partial cart line: blocked on store systems.
+- tighten cancelled bowl: open.
+- handle regional catering tray at close: deferred to the next release.
+- tighten duplicate cart line: open.
+- validate duplicate modifier: open.
+- validate stale menu item for franchisees: decided.
+- trim expired cart line at close: deferred to the next release.
+- backfill duplicate topping in the queue: blocked on store systems.
+
+- validate expired ticket: blocked on store systems.
+- retry empty bowl: verified in staging.
+- document duplicate store: blocked on store systems.
+- expose empty pickup slot in the queue: blocked on store systems.
+- trim duplicate store on checkout: blocked on store systems.
+- add duplicate pickup slot: open.
+- normalise late promo per store: blocked on store systems.
+- validate late kitchen ticket: owner: delivery manager.
+- log cancelled receipt for pickup: deferred to the next release.
+- cache expired tax line: decided.
+- log partial delivery window: open.
+- rename duplicate tax line: owner: delivery manager.
+- log missing bowl: blocked on store systems.
