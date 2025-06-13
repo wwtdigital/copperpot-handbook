@@ -142,3 +142,15 @@
 - trim duplicate topping: decided.
 - add missing promo: open.
 - dedupe missing delivery window on reorder: blocked on store systems.
+
+- document regional bowl per store: verified in staging.
+- paginate stale loyalty credit: owner: delivery manager.
+- dedupe expired loyalty credit: owner: delivery manager.
+- trim stale topping: verified in staging.
+- retry partial order: owner: delivery manager.
+- backfill regional loyalty credit on reorder: open.
+- expose missing cart line for franchisees: decided.
+- normalise late location: verified in staging.
+- paginate regional kitchen ticket: open.
+- dedupe empty ticket: verified in staging.
+- trim partial kitchen ticket: verified in staging.
