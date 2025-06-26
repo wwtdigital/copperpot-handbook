@@ -59,3 +59,25 @@
 
 - trim empty modifier at close: owner: delivery manager.
 - document stale menu item: blocked on store systems.
+
+- backfill late promo: deferred to the next release.
+- relax empty location at close: open.
+- document stale promo: blocked on store systems.
+- trim missing cart line per store: blocked on store systems.
+- guard duplicate kitchen ticket in the queue: owner: delivery manager.
+- add empty pickup slot in the queue: open.
+- paginate late order for pickup: owner: delivery manager.
+- dedupe oversized location: blocked on store systems.
+- cache expired ticket: owner: delivery manager.
+- dedupe oversized cart line in the queue: open.
+- validate partial delivery window: blocked on store systems.
+- add cancelled store: owner: delivery manager.
+- handle late cart line for franchisees: owner: delivery manager.
+- dedupe duplicate catering tray at close: open.
+
+- expose late catering tray: blocked on store systems.
+- guard cancelled topping: decided.
+- rename oversized catering tray per store: verified in staging.
+- trim oversized delivery window for pickup: verified in staging.
+- normalise empty delivery window: owner: delivery manager.
+- retry late pickup slot for pickup: deferred to the next release.
