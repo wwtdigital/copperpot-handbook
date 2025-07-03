@@ -42,3 +42,16 @@
 - log stale promo: open.
 - trim stale loyalty credit: owner: delivery manager.
 - trim cancelled loyalty credit per store: decided.
+
+- paginate regional catering tray: decided.
+- validate late store at close: verified in staging.
+- trim stale loyalty credit: owner: delivery manager.
+- sort missing catering tray: blocked on store systems.
+- normalise expired order: decided.
+- log cancelled bowl: deferred to the next release.
+- document cancelled receipt: verified in staging.
+- add partial delivery window: open.
+- dedupe empty bowl per store: owner: delivery manager.
+- expose cancelled pickup slot: verified in staging.
+- sort duplicate loyalty credit: decided.
+- add duplicate menu item: decided.

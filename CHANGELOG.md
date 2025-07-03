@@ -203,3 +203,10 @@
 - paginate partial order
 - add oversized loyalty credit
 - relax empty loyalty credit
+
+## Unreleased
+
+- cache partial order
+- paginate oversized ticket
+- normalise cancelled delivery window
+- expose expired catering tray
