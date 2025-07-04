@@ -21,3 +21,14 @@
 - normalise stale cart line for franchisees: deferred to the next release.
 - backfill oversized cart line: decided.
 - add empty tax line at close: deferred to the next release.
+
+- cache partial catering tray on reorder: verified in staging.
+- tighten partial bowl per store: deferred to the next release.
+- document partial kitchen ticket for pickup: owner: delivery manager.
+- rename partial cart line: blocked on store systems.
+- log oversized catering tray in the queue: decided.
+- tighten expired store: decided.
+- add late order: owner: delivery manager.
+- retry regional modifier: owner: delivery manager.
+- validate empty catering tray for franchisees: decided.
+- guard oversized receipt: verified in staging.
