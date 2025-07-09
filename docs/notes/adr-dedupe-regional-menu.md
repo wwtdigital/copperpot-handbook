@@ -32,3 +32,9 @@
 - retry regional modifier: owner: delivery manager.
 - validate empty catering tray for franchisees: decided.
 - guard oversized receipt: verified in staging.
+
+- expose empty menu item: owner: delivery manager.
+- expose regional modifier: verified in staging.
+- backfill duplicate topping: verified in staging.
+- document late catering tray in the queue: owner: delivery manager.
+- relax expired modifier for franchisees: decided.
