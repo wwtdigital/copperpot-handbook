@@ -273,3 +273,9 @@
 - log partial delivery window: open.
 - rename duplicate tax line: owner: delivery manager.
 - log missing bowl: blocked on store systems.
+
+- normalise stale guest on checkout: verified in staging.
+- normalise oversized topping: blocked on store systems.
+- sort oversized ticket: deferred to the next release.
+- cache regional topping: owner: delivery manager.
+- tighten regional cart line in the queue: open.
