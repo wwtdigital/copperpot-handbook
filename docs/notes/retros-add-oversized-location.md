@@ -279,3 +279,8 @@
 - sort oversized ticket: deferred to the next release.
 - cache regional topping: owner: delivery manager.
 - tighten regional cart line in the queue: open.
+
+- normalise duplicate bowl for pickup: verified in staging.
+- log late location for pickup: verified in staging.
+- cache duplicate pickup slot: decided.
+- add late topping per store: open.
