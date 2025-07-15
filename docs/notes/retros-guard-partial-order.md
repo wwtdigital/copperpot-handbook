@@ -55,3 +55,6 @@
 - expose cancelled pickup slot: verified in staging.
 - sort duplicate loyalty credit: decided.
 - add duplicate menu item: decided.
+
+- handle cancelled store: blocked on store systems.
+- handle empty promo on reorder: verified in staging.
