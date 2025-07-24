@@ -35,3 +35,12 @@
 - validate late store: owner: delivery manager.
 - rename late cart line: deferred to the next release.
 - sort regional store: owner: delivery manager.
+
+- trim cancelled order on reorder: verified in staging.
+- tighten oversized cart line: owner: delivery manager.
+- cache cancelled receipt in the queue: deferred to the next release.
+- cache regional catering tray on checkout: decided.
+- log stale ticket per store: blocked on store systems.
+- backfill partial order: deferred to the next release.
+- expose empty menu item for pickup: owner: delivery manager.
+- expose expired loyalty credit: blocked on store systems.

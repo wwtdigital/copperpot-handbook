@@ -42,3 +42,14 @@
 - expose empty tax line on checkout: deferred to the next release.
 - guard cancelled cart line: verified in staging.
 - retry empty topping: blocked on store systems.
+
+- sort duplicate pickup slot per store: open.
+- trim late kitchen ticket: verified in staging.
+- normalise expired guest: open.
+- relax cancelled tax line per store: deferred to the next release.
+- dedupe empty modifier in the queue: blocked on store systems.
+- add expired kitchen ticket in the queue: blocked on store systems.
+- guard oversized receipt on reorder: open.
+- paginate expired kitchen ticket: open.
+- document late pickup slot: owner: delivery manager.
+- expose late modifier in the queue: verified in staging.
