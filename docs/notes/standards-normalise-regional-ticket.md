@@ -49,10 +49,3 @@
 
 - add expired location: open.
 - retry partial store on checkout: owner: delivery manager.
-- tighten regional menu item: deferred to the next release.
-- validate partial topping: decided.
-- add empty store on reorder: decided.
-- backfill duplicate ticket for franchisees: verified in staging.
-- normalise regional cart line at close: open.
-- sort regional location: owner: delivery manager.
-- rename partial catering tray: owner: delivery manager.
