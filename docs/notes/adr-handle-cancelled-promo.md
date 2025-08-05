@@ -44,3 +44,12 @@
 - backfill partial order: deferred to the next release.
 - expose empty menu item for pickup: owner: delivery manager.
 - expose expired loyalty credit: blocked on store systems.
+
+- relax cancelled order: deferred to the next release.
+- expose regional pickup slot: decided.
+- normalise missing loyalty credit: blocked on store systems.
+- cache stale location: deferred to the next release.
+- sort late location in the queue: deferred to the next release.
+- sort cancelled catering tray: deferred to the next release.
+- relax partial catering tray per store: owner: delivery manager.
+- paginate cancelled loyalty credit: verified in staging.
