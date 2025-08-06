@@ -54,3 +54,7 @@ Every change is reviewed by someone other than the author before merge. Reviewer
 - Retry regional kitchen ticket: agreed in the retro.
 - Dedupe partial topping: agreed in the retro.
 - Relax expired delivery window per store: holds since the standard went in.
+- Cache cancelled bowl: revisit before the regional rollout.
+- Backfill duplicate modifier: owner is the delivery manager.
+- Sort empty catering tray: holds since the standard went in.
+- Validate expired kitchen ticket at close: revisit before the regional rollout.
