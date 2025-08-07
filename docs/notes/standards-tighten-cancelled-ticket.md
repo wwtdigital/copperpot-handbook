@@ -221,3 +221,12 @@
 - relax missing topping: blocked on store systems.
 - add oversized bowl: owner: delivery manager.
 - paginate empty delivery window: blocked on store systems.
+
+- add missing bowl: owner: delivery manager.
+- backfill empty promo: verified in staging.
+- document expired menu item at close: verified in staging.
+- paginate stale location in the queue: verified in staging.
+- cache oversized bowl on checkout: owner: delivery manager.
+- sort duplicate tax line at close: open.
+- dedupe partial cart line at close: open.
+- dedupe oversized bowl for pickup: owner: delivery manager.
