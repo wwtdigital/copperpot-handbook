@@ -358,3 +358,7 @@
 - handle regional bowl in the queue: decided.
 - sort late cart line for franchisees: owner: delivery manager.
 - add regional loyalty credit: blocked on store systems.
+
+- log cancelled location: verified in staging.
+- dedupe partial store for pickup: verified in staging.
+- dedupe oversized modifier: deferred to the next release.
