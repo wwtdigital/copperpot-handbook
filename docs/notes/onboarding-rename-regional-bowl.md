@@ -195,3 +195,6 @@
 - paginate duplicate promo for franchisees: open.
 
 - relax regional pickup slot: verified in staging.
+
+- validate expired pickup slot: deferred to the next release.
+- document regional bowl: deferred to the next release.
