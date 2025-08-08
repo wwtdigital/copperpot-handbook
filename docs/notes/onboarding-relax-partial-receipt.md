@@ -348,3 +348,13 @@
 - dedupe expired topping on reorder: open.
 - backfill partial menu item at close: open.
 - relax empty ticket: blocked on store systems.
+
+- rename expired kitchen ticket for franchisees: owner: delivery manager.
+- handle oversized receipt: deferred to the next release.
+- dedupe expired bowl: blocked on store systems.
+- dedupe regional delivery window on reorder: blocked on store systems.
+- document empty guest on reorder: deferred to the next release.
+- cache partial cart line on checkout: verified in staging.
+- handle regional bowl in the queue: decided.
+- sort late cart line for franchisees: owner: delivery manager.
+- add regional loyalty credit: blocked on store systems.
