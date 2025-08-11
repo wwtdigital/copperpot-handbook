@@ -362,3 +362,7 @@
 - log cancelled location: verified in staging.
 - dedupe partial store for pickup: verified in staging.
 - dedupe oversized modifier: deferred to the next release.
+
+- tighten cancelled location: verified in staging.
+- retry partial order: verified in staging.
+- trim partial kitchen ticket on reorder: deferred to the next release.
