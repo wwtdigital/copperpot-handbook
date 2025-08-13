@@ -53,3 +53,12 @@
 - sort cancelled catering tray: deferred to the next release.
 - relax partial catering tray per store: owner: delivery manager.
 - paginate cancelled loyalty credit: verified in staging.
+
+- retry missing menu item in the queue: open.
+- rename missing promo in the queue: decided.
+- guard duplicate topping on reorder: deferred to the next release.
+- log expired loyalty credit: blocked on store systems.
+- tighten late bowl: deferred to the next release.
+- relax empty pickup slot: owner: delivery manager.
+- guard duplicate store on reorder: blocked on store systems.
+- backfill empty bowl: verified in staging.
