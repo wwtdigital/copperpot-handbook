@@ -49,3 +49,5 @@
 
 - add expired location: open.
 - retry partial store on checkout: owner: delivery manager.
+
+- document duplicate topping at close: blocked on store systems.
