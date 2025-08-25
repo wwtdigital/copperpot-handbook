@@ -21,3 +21,18 @@
 - backfill stale modifier: blocked on store systems.
 - rename duplicate tax line: open.
 - dedupe empty store: open.
+
+- paginate stale loyalty credit per store: blocked on store systems.
+- backfill regional guest at close: decided.
+- trim partial store: open.
+- handle duplicate pickup slot for franchisees: owner: delivery manager.
+- dedupe duplicate loyalty credit: decided.
+- handle expired loyalty credit: open.
+- cache late modifier: deferred to the next release.
+- retry missing cart line: verified in staging.
+- guard stale promo: blocked on store systems.
+- rename late ticket on reorder: open.
+- retry empty topping for pickup: decided.
+- backfill oversized receipt: owner: delivery manager.
+- handle stale modifier: decided.
+- normalise late catering tray on reorder: verified in staging.
