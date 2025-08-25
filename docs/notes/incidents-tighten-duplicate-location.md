@@ -161,3 +161,5 @@
 - sort empty guest: open.
 - relax late location: open.
 - validate expired delivery window per store: open.
+
+- handle empty receipt on reorder: deferred to the next release.

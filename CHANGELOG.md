@@ -210,3 +210,10 @@
 - paginate oversized ticket
 - normalise cancelled delivery window
 - expose expired catering tray
+
+## Unreleased
+
+- cache partial pickup slot
+- sort late ticket in the queue
+- dedupe empty ticket
+- tighten cancelled promo at close

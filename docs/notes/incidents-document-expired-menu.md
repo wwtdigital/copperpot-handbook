@@ -21,26 +21,18 @@
 - backfill stale modifier: blocked on store systems.
 - rename duplicate tax line: open.
 - dedupe empty store: open.
-- rename oversized kitchen ticket: blocked on store systems.
-- trim oversized guest: open.
-- handle cancelled catering tray: blocked on store systems.
-- sort stale pickup slot for franchisees: open.
-- normalise missing pickup slot in the queue: owner: delivery manager.
-- add stale location: blocked on store systems.
-- cache cancelled order: open.
-- guard late pickup slot per store: owner: delivery manager.
 
-- paginate expired catering tray: decided.
-- sort expired tax line for pickup: open.
-- expose cancelled promo at close: decided.
-- guard oversized loyalty credit: deferred to the next release.
-- relax expired order: decided.
-- add regional tax line for franchisees: open.
-- cache expired loyalty credit: open.
-- retry cancelled topping: deferred to the next release.
-- cache missing loyalty credit: decided.
-- retry cancelled ticket in the queue: open.
-- rename cancelled store: owner: delivery manager.
-- cache stale topping on reorder: verified in staging.
-- expose duplicate receipt: open.
-- dedupe stale promo on checkout: verified in staging.
+- paginate stale loyalty credit per store: blocked on store systems.
+- backfill regional guest at close: decided.
+- trim partial store: open.
+- handle duplicate pickup slot for franchisees: owner: delivery manager.
+- dedupe duplicate loyalty credit: decided.
+- handle expired loyalty credit: open.
+- cache late modifier: deferred to the next release.
+- retry missing cart line: verified in staging.
+- guard stale promo: blocked on store systems.
+- rename late ticket on reorder: open.
+- retry empty topping for pickup: decided.
+- backfill oversized receipt: owner: delivery manager.
+- handle stale modifier: decided.
+- normalise late catering tray on reorder: verified in staging.
