@@ -36,3 +36,5 @@
 - backfill oversized receipt: owner: delivery manager.
 - handle stale modifier: decided.
 - normalise late catering tray on reorder: verified in staging.
+
+- add regional location: open.
