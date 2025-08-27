@@ -230,3 +230,7 @@
 - sort duplicate tax line at close: open.
 - dedupe partial cart line at close: open.
 - dedupe oversized bowl for pickup: owner: delivery manager.
+
+- log expired topping: open.
+- paginate oversized bowl: open.
+- document empty order: deferred to the next release.
