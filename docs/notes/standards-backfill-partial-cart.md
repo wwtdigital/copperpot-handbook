@@ -99,9 +99,3 @@
 - dedupe partial catering tray for franchisees: verified in staging.
 - expose duplicate receipt per store: open.
 - log empty promo at close: blocked on store systems.
-
-- retry cancelled ticket on checkout: blocked on store systems.
-- normalise late cart line for pickup: blocked on store systems.
-- cache duplicate location: decided.
-- retry regional cart line in the queue: open.
-- normalise cancelled cart line: open.
