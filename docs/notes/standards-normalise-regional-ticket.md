@@ -51,3 +51,7 @@
 - retry partial store on checkout: owner: delivery manager.
 
 - document duplicate topping at close: blocked on store systems.
+
+- expose duplicate ticket at close: deferred to the next release.
+- expose duplicate guest: owner: delivery manager.
+- normalise stale delivery window on checkout: decided.
