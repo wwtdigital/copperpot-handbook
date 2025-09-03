@@ -62,3 +62,7 @@
 - relax empty pickup slot: owner: delivery manager.
 - guard duplicate store on reorder: blocked on store systems.
 - backfill empty bowl: verified in staging.
+
+- normalise expired bowl per store: blocked on store systems.
+- validate empty order: blocked on store systems.
+- validate partial order on checkout: open.
