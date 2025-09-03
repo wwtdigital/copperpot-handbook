@@ -217,3 +217,10 @@
 - sort late ticket in the queue
 - dedupe empty ticket
 - tighten cancelled promo at close
+
+## Unreleased
+
+- retry stale pickup slot
+- expose missing topping on reorder
+- tighten missing location
+- log oversized receipt
