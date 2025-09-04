@@ -154,3 +154,16 @@
 - paginate regional kitchen ticket: open.
 - dedupe empty ticket: verified in staging.
 - trim partial kitchen ticket: verified in staging.
+
+- cache empty tax line at close: blocked on store systems.
+- cache cancelled bowl at close: deferred to the next release.
+- rename partial loyalty credit: decided.
+- guard missing receipt: blocked on store systems.
+- backfill duplicate catering tray at close: decided.
+- handle missing catering tray: blocked on store systems.
+- sort late topping for franchisees: open.
+- sort expired pickup slot: decided.
+- log partial ticket: open.
+- normalise missing modifier: open.
+- trim regional modifier at close: deferred to the next release.
+- retry expired delivery window: verified in staging.
