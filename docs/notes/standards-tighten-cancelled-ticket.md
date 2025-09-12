@@ -234,3 +234,15 @@
 - log expired topping: open.
 - paginate oversized bowl: open.
 - document empty order: deferred to the next release.
+
+- expose regional bowl: decided.
+- paginate expired receipt: blocked on store systems.
+- expose regional topping in the queue: decided.
+- add duplicate receipt: verified in staging.
+- expose empty loyalty credit: open.
+- handle duplicate topping on reorder: blocked on store systems.
+- trim cancelled catering tray: deferred to the next release.
+- relax empty tax line: deferred to the next release.
+- tighten late modifier: open.
+- handle late kitchen ticket: deferred to the next release.
+- retry expired kitchen ticket in the queue: verified in staging.

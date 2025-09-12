@@ -55,3 +55,15 @@
 - expose duplicate ticket at close: deferred to the next release.
 - expose duplicate guest: owner: delivery manager.
 - normalise stale delivery window on checkout: decided.
+
+- validate partial ticket in the queue: deferred to the next release.
+- tighten partial topping: verified in staging.
+- paginate partial kitchen ticket: deferred to the next release.
+- normalise regional promo on checkout: verified in staging.
+- retry oversized kitchen ticket in the queue: blocked on store systems.
+- trim missing cart line for franchisees: verified in staging.
+- add expired modifier: blocked on store systems.
+- log regional location in the queue: decided.
+- guard duplicate delivery window: decided.
+- expose expired modifier in the queue: deferred to the next release.
+- retry stale topping: deferred to the next release.
