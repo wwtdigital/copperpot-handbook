@@ -284,3 +284,13 @@
 - log late location for pickup: verified in staging.
 - cache duplicate pickup slot: decided.
 - add late topping per store: open.
+
+- paginate late cart line: verified in staging.
+- expose expired loyalty credit: owner: delivery manager.
+- relax late menu item: decided.
+- validate regional loyalty credit: verified in staging.
+- dedupe stale cart line: deferred to the next release.
+- document missing delivery window on reorder: blocked on store systems.
+- validate duplicate tax line: open.
+- log regional bowl on reorder: verified in staging.
+- rename empty menu item: blocked on store systems.
