@@ -167,3 +167,5 @@
 - normalise missing modifier: open.
 - trim regional modifier at close: deferred to the next release.
 - retry expired delivery window: verified in staging.
+
+- relax cancelled store for pickup: deferred to the next release.
