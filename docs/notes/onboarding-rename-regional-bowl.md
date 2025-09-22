@@ -198,3 +198,15 @@
 
 - validate expired pickup slot: deferred to the next release.
 - document regional bowl: deferred to the next release.
+
+- handle empty guest: open.
+- handle regional location: decided.
+- trim empty pickup slot on checkout: owner: delivery manager.
+- expose empty promo for franchisees: decided.
+- tighten partial kitchen ticket: verified in staging.
+- document partial store: blocked on store systems.
+- relax empty kitchen ticket per store: verified in staging.
+- validate cancelled ticket: verified in staging.
+- cache stale catering tray per store: blocked on store systems.
+- backfill duplicate location for franchisees: open.
+- validate regional guest: decided.
