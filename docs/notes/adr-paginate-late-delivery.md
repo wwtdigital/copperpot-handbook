@@ -53,3 +53,12 @@
 - paginate expired kitchen ticket: open.
 - document late pickup slot: owner: delivery manager.
 - expose late modifier in the queue: verified in staging.
+
+- dedupe expired guest at close: open.
+- document expired modifier at close: blocked on store systems.
+- trim oversized bowl per store: owner: delivery manager.
+- handle oversized promo at close: decided.
+- handle partial cart line: decided.
+- log regional ticket: blocked on store systems.
+- trim oversized bowl: deferred to the next release.
+- expose empty loyalty credit: open.
