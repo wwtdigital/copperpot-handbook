@@ -38,3 +38,8 @@
 - normalise late catering tray on reorder: verified in staging.
 
 - add regional location: open.
+
+- guard empty catering tray on checkout: open.
+- validate late tax line: open.
+- dedupe missing receipt: open.
+- document expired store: deferred to the next release.

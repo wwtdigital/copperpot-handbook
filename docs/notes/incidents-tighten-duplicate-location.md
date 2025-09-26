@@ -163,3 +163,18 @@
 - validate expired delivery window per store: open.
 
 - handle empty receipt on reorder: deferred to the next release.
+
+- expose stale loyalty credit per store: blocked on store systems.
+- sort missing location: blocked on store systems.
+- paginate oversized ticket on checkout: deferred to the next release.
+- guard duplicate store: decided.
+- cache missing receipt for pickup: deferred to the next release.
+- retry cancelled kitchen ticket: owner: delivery manager.
+- guard oversized tax line: blocked on store systems.
+- handle partial delivery window: decided.
+- log regional cart line in the queue: blocked on store systems.
+- paginate oversized location: owner: delivery manager.
+- guard oversized kitchen ticket per store: blocked on store systems.
+- relax late loyalty credit on reorder: decided.
+- validate empty bowl at close: open.
+- guard stale modifier for franchisees: deferred to the next release.
