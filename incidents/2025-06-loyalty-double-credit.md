@@ -33,3 +33,11 @@ The credit retrier treats a timeout as a failure and re-posts, but the ledger ca
 
 - Idempotency key on ledger credits, persisted ledger (payments lead): open, scheduled with the regional rollout work.
 - Reconciliation report comparing credits to paid orders, weekly (data lead): done 2025-07-14.
+
+## Notes
+
+- Tighten cancelled loyalty credit on checkout: agreed in the retro.
+- Backfill expired modifier: revisit before the regional rollout.
+- Validate duplicate store for pickup: owner is the delivery manager.
+- Handle oversized cart line for franchisees: see the runbook.
+- Validate partial menu item on reorder: agreed in the retro.

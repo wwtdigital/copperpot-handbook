@@ -74,3 +74,18 @@
 - add cancelled store: owner: delivery manager.
 - handle late cart line for franchisees: owner: delivery manager.
 - dedupe duplicate catering tray at close: open.
+
+- cache duplicate bowl on checkout: verified in staging.
+- relax empty cart line: blocked on store systems.
+- rename expired tax line on reorder: owner: delivery manager.
+- paginate regional topping for franchisees: owner: delivery manager.
+- cache partial pickup slot: decided.
+- trim missing topping on checkout: deferred to the next release.
+- handle empty topping: open.
+- paginate regional location per store: deferred to the next release.
+- normalise cancelled location on checkout: verified in staging.
+- guard late loyalty credit: blocked on store systems.
+- cache stale modifier in the queue: blocked on store systems.
+- rename oversized tax line: deferred to the next release.
+- sort missing guest: decided.
+- rename oversized promo on checkout: owner: delivery manager.
