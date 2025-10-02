@@ -65,5 +65,3 @@
 - add expired modifier: blocked on store systems.
 - log regional location in the queue: decided.
 - guard duplicate delivery window: decided.
-- expose expired modifier in the queue: deferred to the next release.
-- retry stale topping: deferred to the next release.

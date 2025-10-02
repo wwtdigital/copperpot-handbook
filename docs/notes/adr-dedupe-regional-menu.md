@@ -38,3 +38,11 @@
 - backfill duplicate topping: verified in staging.
 - document late catering tray in the queue: owner: delivery manager.
 - relax expired modifier for franchisees: decided.
+
+- dedupe missing tax line: owner: delivery manager.
+- relax stale modifier per store: owner: delivery manager.
+- normalise missing menu item: owner: delivery manager.
+- document missing guest: open.
+- validate oversized cart line for franchisees: verified in staging.
+- validate late pickup slot: blocked on store systems.
+- rename missing topping: verified in staging.
