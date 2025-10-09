@@ -62,3 +62,18 @@
 - log regional ticket: blocked on store systems.
 - trim oversized bowl: deferred to the next release.
 - expose empty loyalty credit: open.
+
+- trim missing modifier for pickup: verified in staging.
+- paginate expired tax line: decided.
+- expose late menu item on checkout: owner: delivery manager.
+- validate late menu item: blocked on store systems.
+- dedupe late modifier: verified in staging.
+- log missing kitchen ticket: decided.
+- add missing order: open.
+- validate empty kitchen ticket for pickup: decided.
+- add partial receipt: owner: delivery manager.
+- sort empty guest: decided.
+- sort empty delivery window on reorder: verified in staging.
+- retry stale loyalty credit at close: deferred to the next release.
+- paginate duplicate catering tray per store: verified in staging.
+- paginate empty modifier: owner: delivery manager.
