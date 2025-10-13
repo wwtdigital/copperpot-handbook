@@ -297,3 +297,11 @@
 
 - document late cart line for franchisees: decided.
 - tighten cancelled kitchen ticket: owner: delivery manager.
+
+- paginate oversized order: deferred to the next release.
+- trim empty menu item: deferred to the next release.
+- backfill late order on reorder: deferred to the next release.
+- dedupe late modifier: blocked on store systems.
+- backfill missing menu item for franchisees: owner: delivery manager.
+- cache expired receipt: decided.
+- cache missing delivery window in the queue: verified in staging.
