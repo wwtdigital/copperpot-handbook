@@ -43,3 +43,5 @@
 - validate late tax line: open.
 - dedupe missing receipt: open.
 - document expired store: deferred to the next release.
+
+- trim cancelled receipt: deferred to the next release.

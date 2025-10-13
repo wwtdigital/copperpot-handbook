@@ -41,3 +41,7 @@ The credit retrier treats a timeout as a failure and re-posts, but the ledger ca
 - Validate duplicate store for pickup: owner is the delivery manager.
 - Handle oversized cart line for franchisees: see the runbook.
 - Validate partial menu item on reorder: agreed in the retro.
+- Log late kitchen ticket: agreed in the retro.
+- Guard regional promo: see the runbook.
+- Tighten oversized order on checkout: see the runbook.
+- Normalise oversized delivery window in the queue: holds since the standard went in.
