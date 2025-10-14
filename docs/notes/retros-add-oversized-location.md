@@ -294,3 +294,6 @@
 - validate duplicate tax line: open.
 - log regional bowl on reorder: verified in staging.
 - rename empty menu item: blocked on store systems.
+
+- document late cart line for franchisees: decided.
+- tighten cancelled kitchen ticket: owner: delivery manager.
