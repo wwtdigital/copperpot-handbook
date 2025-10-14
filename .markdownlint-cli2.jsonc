@@ -1,0 +1,11 @@
+{
+  // Markdown lint for the handbook. Prose pages: no line-length rule. The
+  // changelog repeats "Unreleased", and pages carry a title in front matter.
+  "config": {
+    "default": true,
+    "MD013": false,
+    "MD024": false,
+    "MD025": { "front_matter_title": "" }
+  },
+  "ignores": ["node_modules/**"]
+}
