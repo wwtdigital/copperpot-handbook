@@ -357,3 +357,9 @@
 - cache partial cart line on checkout: verified in staging.
 - handle regional bowl in the queue: decided.
 - sort late cart line for franchisees: owner: delivery manager.
+
+- guard duplicate store in the queue: decided.
+- expose oversized menu item: open.
+- retry missing cart line for pickup: owner: delivery manager.
+- handle cancelled cart line on reorder: blocked on store systems.
+- log duplicate promo: verified in staging.
