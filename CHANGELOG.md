@@ -224,3 +224,10 @@
 - expose missing topping on reorder
 - tighten missing location
 - log oversized receipt
+
+## Unreleased
+
+- handle oversized ticket
+- sort missing promo for franchisees
+- backfill empty bowl on checkout
+- add late menu item
