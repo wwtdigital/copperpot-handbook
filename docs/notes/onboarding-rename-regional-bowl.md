@@ -210,3 +210,18 @@
 - cache stale catering tray per store: blocked on store systems.
 - backfill duplicate location for franchisees: open.
 - validate regional guest: decided.
+
+- expose missing receipt on checkout: deferred to the next release.
+- guard regional modifier: deferred to the next release.
+- tighten missing modifier for franchisees: blocked on store systems.
+- cache cancelled menu item: verified in staging.
+- document stale location: verified in staging.
+- tighten expired receipt: owner: delivery manager.
+- add regional loyalty credit: verified in staging.
+- trim late catering tray: owner: delivery manager.
+- dedupe duplicate modifier for pickup: open.
+- trim oversized ticket: open.
+- retry empty ticket: decided.
+- guard oversized catering tray: owner: delivery manager.
+- normalise late receipt per store: owner: delivery manager.
+- backfill oversized bowl for franchisees: deferred to the next release.
