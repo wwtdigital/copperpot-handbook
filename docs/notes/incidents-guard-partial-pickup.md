@@ -89,3 +89,11 @@
 - rename oversized tax line: deferred to the next release.
 - sort missing guest: decided.
 - rename oversized promo on checkout: owner: delivery manager.
+
+- document duplicate guest: owner: delivery manager.
+- add empty guest for franchisees: verified in staging.
+- normalise cancelled guest: blocked on store systems.
+- normalise late location: owner: delivery manager.
+- relax expired tax line: open.
+- cache empty store: owner: delivery manager.
+- log cancelled topping: deferred to the next release.
