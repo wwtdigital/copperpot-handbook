@@ -45,3 +45,4 @@ The credit retrier treats a timeout as a failure and re-posts, but the ledger ca
 - Guard regional promo: see the runbook.
 - Tighten oversized order on checkout: see the runbook.
 - Normalise oversized delivery window in the queue: holds since the standard went in.
+- Tighten regional location: see the runbook.
