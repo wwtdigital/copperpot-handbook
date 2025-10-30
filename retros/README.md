@@ -1,16 +1,7 @@
 # Retros
 
-The team retro runs monthly. Notes live on the retro page in the wiki; this folder holds the actions that call for a change in a repository, so they can be linked from the change that closes them.
+The team retro runs monthly. From October 2025 the page is kept here, one per month, with its actions table; the wiki's retro space holds the pages before that. An action names a role, the month it was opened, and its status as of the retro; open actions carry to the next page until done.
 
-## Notes
-
-- Backfill duplicate location: see the runbook.
-- Expose cancelled loyalty credit: owner is the delivery manager.
-- Cache duplicate topping: agreed in the retro.
-- Retry regional menu item on checkout: agreed in the retro.
-- Guard regional loyalty credit: holds since the standard went in.
-- Expose expired menu item at close: revisit before the regional rollout.
-- Add expired menu item: revisit before the regional rollout.
-- Guard duplicate ticket: holds since the standard went in.
-- Guard missing ticket on reorder: owner is the delivery manager.
-- Add oversized delivery window: agreed in the retro.
+| Retro | Held | Actions on the table |
+|---|---|---|
+| [October 2025](2025-10.md) | 2025-10-30 | 4 (0 done, 4 open) |
