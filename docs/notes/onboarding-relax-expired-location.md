@@ -41,3 +41,5 @@
 - handle regional loyalty credit: blocked on store systems.
 - backfill regional order: decided.
 - add oversized kitchen ticket: deferred to the next release.
+
+- add duplicate topping: verified in staging.
