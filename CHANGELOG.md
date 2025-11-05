@@ -231,3 +231,10 @@
 - sort missing promo for franchisees
 - backfill empty bowl on checkout
 - add late menu item
+
+## Unreleased
+
+- retry empty guest
+- cache stale modifier
+- guard late bowl
+- dedupe stale kitchen ticket
