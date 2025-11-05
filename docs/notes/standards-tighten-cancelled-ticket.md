@@ -246,3 +246,12 @@
 - tighten late modifier: open.
 - handle late kitchen ticket: deferred to the next release.
 - retry expired kitchen ticket in the queue: verified in staging.
+
+- add missing location: deferred to the next release.
+- expose duplicate cart line: decided.
+- relax cancelled store: owner: delivery manager.
+- relax stale ticket: decided.
+- relax oversized catering tray per store: decided.
+- log stale cart line: decided.
+- trim cancelled delivery window: open.
+- relax cancelled ticket: open.
