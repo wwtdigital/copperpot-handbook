@@ -6,6 +6,7 @@ One page per incident: when it opened, when it resolved, what happened in betwee
 |---|---|---|---|
 | [INC-2025-02](2025-02-menu-sync-stall.md) Menu sync stall at the pilot stores | 2025-02-11 06:40 | 2025-02-11 09:15 | store systems lead |
 | [INC-2025-06](2025-06-loyalty-double-credit.md) Loyalty points credited twice at two pilot stores | 2025-06-24 11:05 | 2025-06-25 16:30 | payments lead |
+| [INC-2025-11](2025-11-guest-api-after-release.md) Guest API errors after the release promotion | 2025-11-04 00:40 | 2025-11-04 02:10 | store systems lead |
 
 ## Notes
 
