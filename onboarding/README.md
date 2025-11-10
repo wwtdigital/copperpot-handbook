@@ -1,5 +1,7 @@
 # Onboarding
 
+The current first-week page is "Onboarding: commerce team" in the Commerce Team Home space, rewritten after the move to the new host. Read that first; the steps below are kept for the links.
+
 Start with the wiki page "Onboarding (2023)" in the Commerce Team Home space. It covers access, the first clone and the first ticket.
 
 Then, in your first week:
@@ -8,6 +10,7 @@ Then, in your first week:
 2. Read the team working agreement in the wiki.
 3. Pair with the senior engineer on one change from ticket to merge.
 4. Pick a ticket tagged `good-first-issue` on the CPB board.
+5. Clone `copperpot-commerce-api` from the host and run `npm ci`; the database URL comes from the team vault.
 
 Ask the delivery manager for access and the senior engineer for architecture questions.
 
