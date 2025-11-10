@@ -43,3 +43,15 @@
 - add oversized kitchen ticket: deferred to the next release.
 
 - add duplicate topping: verified in staging.
+
+- rename empty guest on reorder: owner: delivery manager.
+- normalise duplicate cart line: owner: delivery manager.
+- paginate oversized tax line: open.
+- document oversized bowl: deferred to the next release.
+- add cancelled kitchen ticket: deferred to the next release.
+- dedupe late cart line: verified in staging.
+- cache empty tax line on checkout: decided.
+- retry empty delivery window: decided.
+- dedupe duplicate cart line: open.
+- add partial loyalty credit: blocked on store systems.
+- dedupe regional receipt on reorder: owner: delivery manager.
