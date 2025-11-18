@@ -238,3 +238,10 @@
 - cache stale modifier
 - guard late bowl
 - dedupe stale kitchen ticket
+
+## Unreleased
+
+- handle late order
+- sort partial menu item at close
+- backfill stale loyalty credit
+- tighten late catering tray
