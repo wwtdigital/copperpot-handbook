@@ -77,3 +77,16 @@
 - retry stale loyalty credit at close: deferred to the next release.
 - paginate duplicate catering tray per store: verified in staging.
 - paginate empty modifier: owner: delivery manager.
+
+- tighten empty receipt: decided.
+- paginate expired guest: owner: delivery manager.
+- cache partial kitchen ticket at close: decided.
+- trim stale tax line: decided.
+- relax missing tax line: verified in staging.
+- normalise late menu item: deferred to the next release.
+- retry late loyalty credit: verified in staging.
+- retry expired delivery window: decided.
+- retry expired topping in the queue: open.
+- sort missing tax line in the queue: open.
+- backfill regional guest: decided.
+- paginate empty tax line on checkout: decided.
