@@ -66,3 +66,33 @@
 - normalise expired bowl per store: blocked on store systems.
 - validate empty order: blocked on store systems.
 - validate partial order on checkout: open.
+
+- normalise cancelled tax line: open.
+- tighten duplicate order: owner: delivery manager.
+- sort oversized tax line at close: verified in staging.
+- paginate missing bowl: verified in staging.
+- log cancelled cart line for franchisees: blocked on store systems.
+- expose cancelled store per store: verified in staging.
+- log duplicate order on reorder: open.
+- relax regional loyalty credit for pickup: deferred to the next release.
+- document expired cart line: deferred to the next release.
+- backfill regional loyalty credit: open.
+- expose missing location at close: owner: delivery manager.
+- document partial catering tray per store: decided.
+- cache oversized delivery window: blocked on store systems.
+- sort cancelled store: open.
+
+- trim stale catering tray per store: decided.
+- paginate late modifier per store: deferred to the next release.
+- paginate regional order: decided.
+- paginate regional receipt: verified in staging.
+- cache oversized ticket for pickup: deferred to the next release.
+- normalise empty location: decided.
+- guard oversized promo: open.
+- document empty menu item: decided.
+- document cancelled order: blocked on store systems.
+- add empty guest: owner: delivery manager.
+- handle missing pickup slot: verified in staging.
+- trim oversized delivery window at close: deferred to the next release.
+- backfill stale store: deferred to the next release.
+- validate cancelled modifier: deferred to the next release.
