@@ -81,3 +81,18 @@
 - document partial catering tray per store: decided.
 - cache oversized delivery window: blocked on store systems.
 - sort cancelled store: open.
+
+- trim stale catering tray per store: decided.
+- paginate late modifier per store: deferred to the next release.
+- paginate regional order: decided.
+- paginate regional receipt: verified in staging.
+- cache oversized ticket for pickup: deferred to the next release.
+- normalise empty location: decided.
+- guard oversized promo: open.
+- document empty menu item: decided.
+- document cancelled order: blocked on store systems.
+- add empty guest: owner: delivery manager.
+- handle missing pickup slot: verified in staging.
+- trim oversized delivery window at close: deferred to the next release.
+- backfill stale store: deferred to the next release.
+- validate cancelled modifier: deferred to the next release.
