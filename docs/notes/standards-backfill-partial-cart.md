@@ -99,3 +99,23 @@
 - dedupe partial catering tray for franchisees: verified in staging.
 - expose duplicate receipt per store: open.
 - log empty promo at close: blocked on store systems.
+
+- paginate late pickup slot at close: deferred to the next release.
+- guard missing delivery window: owner: delivery manager.
+- document stale bowl: owner: delivery manager.
+- tighten regional menu item for pickup: open.
+- handle partial topping at close: blocked on store systems.
+- rename regional guest in the queue: owner: delivery manager.
+- sort late store on checkout: decided.
+- handle partial ticket: blocked on store systems.
+- expose late location on reorder: blocked on store systems.
+- tighten stale guest for pickup: blocked on store systems.
+- relax empty catering tray: owner: delivery manager.
+- add late order: decided.
+
+- trim oversized pickup slot for franchisees: verified in staging.
+- tighten expired ticket on checkout: open.
+- relax stale tax line per store: open.
+- tighten oversized modifier: verified in staging.
+- cache regional cart line: verified in staging.
+- validate partial bowl at close: verified in staging.
