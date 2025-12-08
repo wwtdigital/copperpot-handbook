@@ -112,3 +112,10 @@
 - tighten stale guest for pickup: blocked on store systems.
 - relax empty catering tray: owner: delivery manager.
 - add late order: decided.
+
+- trim oversized pickup slot for franchisees: verified in staging.
+- tighten expired ticket on checkout: open.
+- relax stale tax line per store: open.
+- tighten oversized modifier: verified in staging.
+- cache regional cart line: verified in staging.
+- validate partial bowl at close: verified in staging.
