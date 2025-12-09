@@ -245,3 +245,9 @@
 - sort partial menu item at close
 - backfill stale loyalty credit
 - tighten late catering tray
+
+## Unreleased
+
+- tighten regional tax line at close
+- tighten cancelled receipt in the queue
+- retry missing guest on checkout
