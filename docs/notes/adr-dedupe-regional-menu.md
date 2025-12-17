@@ -46,3 +46,13 @@
 - validate oversized cart line for franchisees: verified in staging.
 - validate late pickup slot: blocked on store systems.
 - rename missing topping: verified in staging.
+
+- document oversized ticket: verified in staging.
+- trim cancelled pickup slot on checkout: verified in staging.
+- log empty ticket for pickup: deferred to the next release.
+- retry partial order on checkout: blocked on store systems.
+- dedupe cancelled order: owner: delivery manager.
+- relax duplicate kitchen ticket: decided.
+- paginate late kitchen ticket at close: open.
+- guard stale order: open.
+- backfill duplicate ticket: blocked on store systems.
