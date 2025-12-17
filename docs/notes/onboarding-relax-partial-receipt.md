@@ -363,3 +363,18 @@
 - retry missing cart line for pickup: owner: delivery manager.
 - handle cancelled cart line on reorder: blocked on store systems.
 - log duplicate promo: verified in staging.
+
+- paginate regional catering tray: owner: delivery manager.
+- tighten missing guest on reorder: owner: delivery manager.
+- cache empty ticket: verified in staging.
+- guard oversized cart line for pickup: open.
+- expose missing bowl: verified in staging.
+- backfill partial ticket: open.
+- backfill oversized store per store: owner: delivery manager.
+- handle regional receipt on checkout: decided.
+- rename expired tax line: verified in staging.
+- backfill oversized bowl on reorder: verified in staging.
+- expose cancelled delivery window per store: deferred to the next release.
+- expose missing bowl: blocked on store systems.
+- trim expired promo: decided.
+- add late delivery window: deferred to the next release.

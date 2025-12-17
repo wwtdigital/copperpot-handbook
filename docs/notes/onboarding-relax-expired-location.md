@@ -55,3 +55,22 @@
 - dedupe duplicate cart line: open.
 - add partial loyalty credit: blocked on store systems.
 - dedupe regional receipt on reorder: owner: delivery manager.
+
+- trim cancelled store: open.
+- cache duplicate catering tray: verified in staging.
+- tighten oversized order: open.
+- dedupe stale delivery window: owner: delivery manager.
+- cache duplicate location: decided.
+- tighten expired loyalty credit: owner: delivery manager.
+- tighten oversized loyalty credit for pickup: deferred to the next release.
+- guard cancelled bowl: deferred to the next release.
+- trim duplicate receipt in the queue: blocked on store systems.
+- document cancelled delivery window: owner: delivery manager.
+- cache partial delivery window in the queue: blocked on store systems.
+- document cancelled ticket: open.
+- expose duplicate topping: decided.
+- tighten regional receipt: verified in staging.
+
+- validate partial pickup slot in the queue: deferred to the next release.
+- expose stale tax line: verified in staging.
+- tighten regional kitchen ticket: deferred to the next release.
