@@ -305,3 +305,8 @@
 - backfill missing menu item for franchisees: owner: delivery manager.
 - cache expired receipt: decided.
 - cache missing delivery window in the queue: verified in staging.
+
+- relax duplicate tax line: verified in staging.
+- sort expired kitchen ticket: deferred to the next release.
+- handle expired catering tray: open.
+- backfill missing receipt at close: decided.
