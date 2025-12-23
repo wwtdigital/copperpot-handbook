@@ -58,3 +58,17 @@
 
 - handle cancelled store: blocked on store systems.
 - handle empty promo on reorder: verified in staging.
+
+- log missing guest: decided.
+- relax missing menu item: owner: delivery manager.
+- handle oversized promo at close: decided.
+- rename cancelled menu item: owner: delivery manager.
+- dedupe late ticket: blocked on store systems.
+- relax oversized receipt for pickup: deferred to the next release.
+- normalise oversized receipt: deferred to the next release.
+- cache late store: decided.
+- normalise stale ticket per store: deferred to the next release.
+- paginate missing catering tray for franchisees: owner: delivery manager.
+- dedupe missing topping in the queue: open.
+- backfill expired ticket per store: open.
+- rename missing menu item at close: deferred to the next release.
