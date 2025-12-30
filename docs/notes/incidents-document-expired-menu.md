@@ -45,3 +45,6 @@
 - document expired store: deferred to the next release.
 
 - trim cancelled receipt: deferred to the next release.
+
+- dedupe missing bowl: decided.
+- expose partial pickup slot: decided.
