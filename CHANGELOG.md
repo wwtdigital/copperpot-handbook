@@ -251,3 +251,7 @@
 - tighten regional tax line at close
 - tighten cancelled receipt in the queue
 - retry missing guest on checkout
+
+## Unreleased
+
+- trim late modifier for franchisees
