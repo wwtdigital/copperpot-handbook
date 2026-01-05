@@ -255,3 +255,10 @@
 ## Unreleased
 
 - trim late modifier for franchisees
+
+## Unreleased
+
+- relax missing order
+- document regional topping
+- tighten partial delivery window
+- document late promo
