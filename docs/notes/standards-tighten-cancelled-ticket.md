@@ -255,3 +255,15 @@
 - log stale cart line: decided.
 - trim cancelled delivery window: open.
 - relax cancelled ticket: open.
+
+- rename duplicate topping: blocked on store systems.
+- paginate cancelled guest: owner: delivery manager.
+- paginate empty kitchen ticket per store: owner: delivery manager.
+- document cancelled pickup slot: verified in staging.
+- expose stale bowl: decided.
+- backfill duplicate cart line for pickup: verified in staging.
+- document expired pickup slot for franchisees: decided.
+- guard oversized ticket at close: blocked on store systems.
+- handle late loyalty credit: deferred to the next release.
+- validate oversized cart line: open.
+- backfill cancelled location: verified in staging.

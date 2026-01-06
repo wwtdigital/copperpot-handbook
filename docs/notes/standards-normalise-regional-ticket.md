@@ -65,3 +65,13 @@
 - add expired modifier: blocked on store systems.
 - log regional location in the queue: decided.
 - guard duplicate delivery window: decided.
+
+- handle oversized receipt at close: owner: delivery manager.
+- handle missing modifier in the queue: deferred to the next release.
+- log late tax line: decided.
+- paginate cancelled delivery window: owner: delivery manager.
+- sort oversized promo: verified in staging.
+- sort oversized loyalty credit: verified in staging.
+- trim empty bowl in the queue: blocked on store systems.
+- trim cancelled kitchen ticket in the queue: owner: delivery manager.
+- tighten expired cart line: blocked on store systems.
