@@ -72,3 +72,8 @@
 - dedupe missing topping in the queue: open.
 - backfill expired ticket per store: open.
 - rename missing menu item at close: deferred to the next release.
+
+- expose stale loyalty credit: deferred to the next release.
+- validate late bowl in the queue: open.
+- tighten missing modifier: open.
+- retry regional tax line: open.
