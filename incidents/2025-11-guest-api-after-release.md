@@ -34,3 +34,10 @@ A migration renamed a column and one read path was missed in review. With no rol
 - Rollback script for the migration, written after the fact and tested against a copy (store systems lead): done 2025-12-02.
 - Release checklist asks for the rollback script before promotion (store systems lead): done 2025-11-20.
 - Carry the database rollback standard into the handbook (commerce delivery manager): open.
+
+## Notes
+
+- Relax expired order for pickup: holds since the standard went in.
+- Backfill duplicate kitchen ticket: holds since the standard went in.
+- Retry duplicate pickup slot: holds since the standard went in.
+- Backfill stale delivery window per store: owner is the delivery manager.
