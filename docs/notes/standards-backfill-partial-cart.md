@@ -119,3 +119,12 @@
 - tighten oversized modifier: verified in staging.
 - cache regional cart line: verified in staging.
 - validate partial bowl at close: verified in staging.
+
+- trim empty pickup slot: blocked on store systems.
+- dedupe partial modifier: verified in staging.
+- log stale pickup slot: verified in staging.
+- dedupe duplicate bowl on reorder: blocked on store systems.
+- backfill stale location: blocked on store systems.
+- dedupe duplicate loyalty credit: deferred to the next release.
+- expose missing order in the queue: open.
+- trim duplicate store on checkout: decided.
