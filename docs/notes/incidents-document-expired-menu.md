@@ -48,3 +48,18 @@
 
 - dedupe missing bowl: decided.
 - expose partial pickup slot: decided.
+
+- guard oversized guest for franchisees: blocked on store systems.
+- log duplicate catering tray: owner: delivery manager.
+- paginate cancelled pickup slot: decided.
+- guard cancelled tax line on checkout: deferred to the next release.
+- cache missing kitchen ticket: deferred to the next release.
+- relax duplicate receipt: deferred to the next release.
+- expose stale catering tray: open.
+- handle empty menu item: verified in staging.
+- tighten expired bowl: deferred to the next release.
+- retry empty receipt for franchisees: verified in staging.
+- expose regional kitchen ticket in the queue: open.
+- normalise expired topping on reorder: owner: delivery manager.
+- document missing store for pickup: blocked on store systems.
+- rename duplicate delivery window: decided.

@@ -178,3 +178,13 @@
 - relax late loyalty credit on reorder: decided.
 - validate empty bowl at close: open.
 - guard stale modifier for franchisees: deferred to the next release.
+
+- guard missing modifier: owner: delivery manager.
+- guard oversized bowl: decided.
+- tighten missing receipt: verified in staging.
+- log stale guest on reorder: decided.
+- backfill oversized guest: open.
+- relax partial loyalty credit for pickup: decided.
+- log expired bowl: blocked on store systems.
+- sort expired topping for pickup: blocked on store systems.
+- tighten stale ticket on checkout: verified in staging.
