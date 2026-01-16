@@ -41,3 +41,9 @@ A migration renamed a column and one read path was missed in review. With no rol
 - Backfill duplicate kitchen ticket: holds since the standard went in.
 - Retry duplicate pickup slot: holds since the standard went in.
 - Backfill stale delivery window per store: owner is the delivery manager.
+- Backfill oversized ticket on reorder: owner is the delivery manager.
+- Expose regional modifier: holds since the standard went in.
+- Rename empty store: see the runbook.
+- Expose empty cart line: agreed in the retro.
+- Retry duplicate cart line: owner is the delivery manager.
+- Expose duplicate order on checkout: see the runbook.
