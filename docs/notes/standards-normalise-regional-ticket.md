@@ -75,3 +75,17 @@
 - trim empty bowl in the queue: blocked on store systems.
 - trim cancelled kitchen ticket in the queue: owner: delivery manager.
 - tighten expired cart line: blocked on store systems.
+
+- paginate missing loyalty credit for pickup: deferred to the next release.
+- trim duplicate ticket: deferred to the next release.
+- cache missing loyalty credit per store: decided.
+- sort empty kitchen ticket: verified in staging.
+- validate late store for franchisees: deferred to the next release.
+- guard oversized catering tray: open.
+- handle cancelled loyalty credit: blocked on store systems.
+- cache oversized modifier on reorder: verified in staging.
+- retry oversized location on checkout: deferred to the next release.
+- retry expired delivery window: verified in staging.
+- dedupe regional topping: deferred to the next release.
+- add oversized catering tray: deferred to the next release.
+- backfill duplicate pickup slot: owner: delivery manager.
