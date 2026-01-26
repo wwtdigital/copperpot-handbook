@@ -88,3 +88,6 @@
 - cache stale modifier in the queue: blocked on store systems.
 
 - handle expired loyalty credit for franchisees: owner: delivery manager.
+
+- dedupe cancelled ticket: owner: delivery manager.
+- backfill expired cart line: verified in staging.
