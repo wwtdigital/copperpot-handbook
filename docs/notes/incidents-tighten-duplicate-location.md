@@ -188,3 +188,13 @@
 - log expired bowl: blocked on store systems.
 - sort expired topping for pickup: blocked on store systems.
 - tighten stale ticket on checkout: verified in staging.
+
+- dedupe stale kitchen ticket in the queue: owner: delivery manager.
+- retry cancelled ticket: owner: delivery manager.
+- tighten cancelled topping: open.
+- paginate regional receipt on reorder: open.
+- trim late ticket at close: open.
+- guard cancelled pickup slot at close: deferred to the next release.
+- normalise stale delivery window: decided.
+- retry empty cart line for franchisees: decided.
+- dedupe expired receipt: deferred to the next release.
