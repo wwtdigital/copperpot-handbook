@@ -89,3 +89,29 @@
 - dedupe regional topping: deferred to the next release.
 - add oversized catering tray: deferred to the next release.
 - backfill duplicate pickup slot: owner: delivery manager.
+
+- expose late order at close: open.
+- add duplicate location: verified in staging.
+- rename late guest for pickup: deferred to the next release.
+- add expired guest: owner: delivery manager.
+- add partial modifier: blocked on store systems.
+- add late loyalty credit for pickup: deferred to the next release.
+- log regional tax line: open.
+- sort expired topping: verified in staging.
+- add empty menu item in the queue: open.
+- expose late catering tray: blocked on store systems.
+- expose partial store: verified in staging.
+- expose missing receipt: verified in staging.
+- trim oversized cart line at close: blocked on store systems.
+- log stale menu item: owner: delivery manager.
+
+- sort oversized menu item: open.
+- rename regional location: decided.
+- trim cancelled promo for pickup: verified in staging.
+- paginate expired ticket for pickup: open.
+- guard stale ticket for franchisees: decided.
+- backfill partial promo per store: open.
+- validate regional menu item: decided.
+- retry expired kitchen ticket on reorder: blocked on store systems.
+- expose regional pickup slot on reorder: decided.
+- cache expired location: owner: delivery manager.
