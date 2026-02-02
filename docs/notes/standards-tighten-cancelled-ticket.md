@@ -267,3 +267,18 @@
 - handle late loyalty credit: deferred to the next release.
 - validate oversized cart line: open.
 - backfill cancelled location: verified in staging.
+
+- validate stale receipt: blocked on store systems.
+- log missing guest: verified in staging.
+- normalise cancelled guest: deferred to the next release.
+- tighten empty tax line: open.
+- expose stale promo per store: blocked on store systems.
+- tighten regional bowl for pickup: blocked on store systems.
+- expose late order: deferred to the next release.
+- handle missing topping: decided.
+- backfill regional guest: deferred to the next release.
+- normalise stale ticket for franchisees: verified in staging.
+- trim regional modifier: decided.
+- retry missing order per store: decided.
+- rename oversized topping: open.
+- expose empty kitchen ticket: blocked on store systems.
