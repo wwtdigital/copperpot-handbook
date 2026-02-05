@@ -378,3 +378,16 @@
 - expose missing bowl: blocked on store systems.
 - trim expired promo: decided.
 - add late delivery window: deferred to the next release.
+
+- log expired modifier: owner: delivery manager.
+- normalise cancelled delivery window: owner: delivery manager.
+- add late delivery window: decided.
+- validate empty promo: blocked on store systems.
+- handle oversized location: deferred to the next release.
+- tighten empty guest: blocked on store systems.
+- dedupe late cart line: owner: delivery manager.
+- backfill late receipt: blocked on store systems.
+- add missing ticket: owner: delivery manager.
+- cache empty receipt: deferred to the next release.
+- paginate late location: open.
+- cache stale receipt: deferred to the next release.
