@@ -74,3 +74,12 @@
 - validate partial pickup slot in the queue: deferred to the next release.
 - expose stale tax line: verified in staging.
 - tighten regional kitchen ticket: deferred to the next release.
+
+- retry regional receipt: blocked on store systems.
+- expose oversized cart line for pickup: owner: delivery manager.
+- log duplicate loyalty credit per store: deferred to the next release.
+- handle stale guest: open.
+- sort empty delivery window for pickup: open.
+- relax duplicate guest: decided.
+- dedupe oversized ticket at close: open.
+- cache late loyalty credit at close: decided.
