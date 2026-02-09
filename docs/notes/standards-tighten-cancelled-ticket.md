@@ -282,3 +282,11 @@
 - retry missing order per store: decided.
 - rename oversized topping: open.
 - expose empty kitchen ticket: blocked on store systems.
+
+- trim empty order in the queue: blocked on store systems.
+- document oversized pickup slot: verified in staging.
+- guard partial cart line: open.
+- add partial order: blocked on store systems.
+- paginate missing delivery window on reorder: owner: delivery manager.
+- normalise cancelled topping: decided.
+- handle empty guest: owner: delivery manager.
