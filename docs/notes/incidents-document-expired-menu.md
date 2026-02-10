@@ -63,3 +63,14 @@
 - normalise expired topping on reorder: owner: delivery manager.
 - document missing store for pickup: blocked on store systems.
 - rename duplicate delivery window: decided.
+
+- paginate duplicate menu item on reorder: open.
+- document oversized receipt: verified in staging.
+- retry late pickup slot: verified in staging.
+- trim partial bowl at close: owner: delivery manager.
+- relax duplicate loyalty credit: verified in staging.
+- guard stale cart line: owner: delivery manager.
+- expose expired menu item for pickup: blocked on store systems.
+- normalise partial delivery window: open.
+- validate stale store in the queue: verified in staging.
+- add duplicate loyalty credit: open.

@@ -262,3 +262,8 @@
 - document regional topping
 - tighten partial delivery window
 - document late promo
+
+## Unreleased
+
+- relax oversized order in the queue
+- tighten regional menu item
