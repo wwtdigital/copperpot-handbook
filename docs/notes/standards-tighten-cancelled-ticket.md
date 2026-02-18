@@ -282,3 +282,20 @@
 - retry missing order per store: decided.
 - rename oversized topping: open.
 - expose empty kitchen ticket: blocked on store systems.
+
+- add empty bowl: blocked on store systems.
+- normalise expired store: verified in staging.
+- dedupe duplicate topping: owner: delivery manager.
+- tighten oversized receipt: blocked on store systems.
+- guard oversized bowl: verified in staging.
+- validate empty pickup slot: owner: delivery manager.
+- tighten expired menu item on checkout: verified in staging.
+- trim empty cart line for pickup: blocked on store systems.
+- log oversized promo on reorder: decided.
+- guard late pickup slot: owner: delivery manager.
+- retry missing catering tray: owner: delivery manager.
+- dedupe cancelled topping in the queue: owner: delivery manager.
+- add expired loyalty credit for pickup: blocked on store systems.
+- normalise empty ticket on reorder: open.
+
+- backfill missing loyalty credit: blocked on store systems.
