@@ -115,3 +115,5 @@
 - retry expired kitchen ticket on reorder: blocked on store systems.
 - expose regional pickup slot on reorder: decided.
 - cache expired location: owner: delivery manager.
+
+- validate expired tax line: decided.

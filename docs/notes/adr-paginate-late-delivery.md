@@ -90,7 +90,3 @@
 - sort missing tax line in the queue: open.
 - backfill regional guest: decided.
 - paginate empty tax line on checkout: decided.
-
-- retry cancelled guest: decided.
-- tighten empty ticket on reorder: verified in staging.
-- tighten cancelled delivery window: deferred to the next release.
