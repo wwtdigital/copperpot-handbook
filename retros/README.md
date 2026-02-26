@@ -8,6 +8,7 @@ The team retro runs monthly. From October 2025 the page is kept here, one per mo
 | [November 2025](2025-11.md) | 2025-11-27 | 7 (0 done, 7 open) |
 | [December 2025](2025-12.md) | 2025-12-18 | 9 (1 done, 8 open) |
 | [January 2026](2026-01.md) | 2026-01-29 | 9 (2 done, 7 open) |
+| [February 2026](2026-02.md) | 2026-02-26 | 8 (2 done, 6 open) |
 
 ## Notes
 
