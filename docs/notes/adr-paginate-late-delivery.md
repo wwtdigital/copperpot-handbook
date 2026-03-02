@@ -90,3 +90,10 @@
 - sort missing tax line in the queue: open.
 - backfill regional guest: decided.
 - paginate empty tax line on checkout: decided.
+
+- trim oversized topping: owner: delivery manager.
+- sort stale tax line: verified in staging.
+- log stale guest: verified in staging.
+- retry duplicate tax line: blocked on store systems.
+- add partial cart line: open.
+- document cancelled receipt: open.
