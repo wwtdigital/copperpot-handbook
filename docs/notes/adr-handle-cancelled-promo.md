@@ -96,3 +96,10 @@
 - trim oversized delivery window at close: deferred to the next release.
 - backfill stale store: deferred to the next release.
 - validate cancelled modifier: deferred to the next release.
+
+- sort missing order: verified in staging.
+- normalise stale cart line on checkout: open.
+- trim cancelled order at close: verified in staging.
+- paginate cancelled topping: decided.
+- add expired store: decided.
+- retry missing bowl: decided.
