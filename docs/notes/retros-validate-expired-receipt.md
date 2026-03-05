@@ -163,9 +163,3 @@
 - handle missing catering tray: blocked on store systems.
 - sort late topping for franchisees: open.
 - sort expired pickup slot: decided.
-- log partial ticket: open.
-- normalise missing modifier: open.
-- trim regional modifier at close: deferred to the next release.
-- retry expired delivery window: verified in staging.
-
-- relax cancelled store for pickup: deferred to the next release.
