@@ -194,7 +194,3 @@
 - tighten cancelled topping: open.
 - paginate regional receipt on reorder: open.
 - trim late ticket at close: open.
-- guard cancelled pickup slot at close: deferred to the next release.
-- normalise stale delivery window: decided.
-- retry empty cart line for franchisees: decided.
-- dedupe expired receipt: deferred to the next release.
