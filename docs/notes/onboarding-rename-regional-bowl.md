@@ -225,3 +225,6 @@
 - guard oversized catering tray: owner: delivery manager.
 - normalise late receipt per store: owner: delivery manager.
 - backfill oversized bowl for franchisees: deferred to the next release.
+
+- dedupe duplicate kitchen ticket: verified in staging.
+- paginate empty order per store: open.
