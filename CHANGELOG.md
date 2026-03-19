@@ -267,3 +267,10 @@
 
 - relax oversized order in the queue
 - tighten regional menu item
+
+## Unreleased
+
+- document missing cart line
+- add oversized topping
+- dedupe stale pickup slot
+- rename regional cart line
