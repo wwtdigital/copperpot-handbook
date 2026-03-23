@@ -12,3 +12,7 @@
 - guard oversized menu item at close: deferred to the next release.
 - document duplicate guest in the queue: deferred to the next release.
 - tighten stale loyalty credit: open.
+
+- dedupe cancelled ticket at close: blocked on store systems.
+- add cancelled modifier at close: verified in staging.
+- tighten cancelled menu item: deferred to the next release.
