@@ -274,3 +274,10 @@
 - add oversized topping
 - dedupe stale pickup slot
 - rename regional cart line
+
+## Unreleased
+
+- cache late kitchen ticket per store
+- log regional store
+- document duplicate promo
+- document expired cart line
