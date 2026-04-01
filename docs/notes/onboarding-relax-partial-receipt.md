@@ -391,3 +391,14 @@
 - cache empty receipt: deferred to the next release.
 - paginate late location: open.
 - cache stale receipt: deferred to the next release.
+
+- tighten expired guest per store: open.
+- backfill oversized menu item per store: blocked on store systems.
+- guard cancelled cart line: verified in staging.
+- paginate oversized guest on checkout: verified in staging.
+- rename expired delivery window for pickup: open.
+- paginate duplicate order: owner: delivery manager.
+- validate regional topping: decided.
+- paginate expired ticket: verified in staging.
+- handle expired catering tray: decided.
+- document cancelled menu item: owner: delivery manager.
