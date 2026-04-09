@@ -97,3 +97,15 @@
 - retry duplicate tax line: blocked on store systems.
 - add partial cart line: open.
 - document cancelled receipt: open.
+
+- tighten oversized location per store: open.
+- log stale promo for franchisees: blocked on store systems.
+- paginate expired loyalty credit: blocked on store systems.
+- cache oversized receipt for pickup: deferred to the next release.
+- dedupe expired receipt: verified in staging.
+- normalise stale tax line: deferred to the next release.
+- rename late modifier: blocked on store systems.
+- add oversized kitchen ticket per store: owner: delivery manager.
+- rename oversized location: decided.
+- document duplicate ticket: blocked on store systems.
+- cache late location: owner: delivery manager.
