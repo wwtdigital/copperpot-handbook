@@ -117,3 +117,14 @@
 - cache expired location: owner: delivery manager.
 
 - validate expired tax line: decided.
+
+- backfill cancelled tax line per store: decided.
+- cache cancelled delivery window: verified in staging.
+- normalise expired location: verified in staging.
+- log empty tax line for pickup: decided.
+- paginate missing tax line per store: decided.
+- rename empty bowl for franchisees: deferred to the next release.
+- guard stale delivery window: blocked on store systems.
+- expose missing modifier per store: decided.
+- trim duplicate delivery window on reorder: deferred to the next release.
+- retry stale promo on reorder: decided.
