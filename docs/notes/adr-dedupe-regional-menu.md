@@ -56,3 +56,18 @@
 - paginate late kitchen ticket at close: open.
 - guard stale order: open.
 - backfill duplicate ticket: blocked on store systems.
+
+- guard late loyalty credit on checkout: owner: delivery manager.
+- dedupe cancelled catering tray per store: owner: delivery manager.
+- validate stale kitchen ticket for franchisees: owner: delivery manager.
+- handle stale tax line: verified in staging.
+- guard stale location in the queue: open.
+- tighten late topping: owner: delivery manager.
+- rename stale guest: verified in staging.
+- sort expired guest at close: owner: delivery manager.
+- dedupe missing guest on checkout: decided.
+- rename expired catering tray: verified in staging.
+- log regional guest at close: open.
+- guard expired bowl for franchisees: decided.
+- log empty guest on reorder: decided.
+- relax empty pickup slot for pickup: verified in staging.

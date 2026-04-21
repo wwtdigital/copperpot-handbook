@@ -109,3 +109,10 @@
 - rename oversized location: decided.
 - document duplicate ticket: blocked on store systems.
 - cache late location: owner: delivery manager.
+
+- backfill stale modifier: verified in staging.
+- log stale delivery window: owner: delivery manager.
+- add stale promo: blocked on store systems.
+- expose missing order: open.
+- expose partial catering tray: deferred to the next release.
+- tighten missing receipt per store: decided.
