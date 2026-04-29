@@ -186,3 +186,10 @@
 - backfill oversized guest: open.
 - relax partial loyalty credit for pickup: decided.
 - log expired bowl: blocked on store systems.
+
+- validate cancelled location: owner: delivery manager.
+- cache stale tax line: open.
+- rename duplicate loyalty credit on reorder: decided.
+- handle empty modifier: verified in staging.
+- dedupe partial guest: open.
+- trim empty ticket: verified in staging.
