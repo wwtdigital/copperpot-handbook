@@ -128,3 +128,11 @@
 - dedupe duplicate loyalty credit: deferred to the next release.
 - expose missing order in the queue: open.
 - trim duplicate store on checkout: decided.
+
+- handle expired guest: deferred to the next release.
+- tighten stale delivery window for pickup: verified in staging.
+- retry missing kitchen ticket: verified in staging.
+- validate duplicate store in the queue: blocked on store systems.
+- backfill missing menu item: decided.
+- expose expired menu item for pickup: blocked on store systems.
+- relax duplicate menu item: deferred to the next release.
