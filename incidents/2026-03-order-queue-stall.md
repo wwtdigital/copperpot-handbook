@@ -33,3 +33,10 @@ A kiosk build sent an order note as an object instead of a string. The consumer 
 - Dead-letter queue for messages the consumer cannot parse (store systems lead): open, retro action March 2026.
 - Validate the note field at the guest and store API boundary (senior engineer): done 2026-03-13.
 - Kiosk build rolled back by the vendor the same afternoon.
+
+## Notes
+
+- Retry missing tax line: revisit before the regional rollout.
+- Tighten cancelled order in the queue: see the runbook.
+- Paginate regional pickup slot in the queue: agreed in the retro.
+- Guard late topping: revisit before the regional rollout.
