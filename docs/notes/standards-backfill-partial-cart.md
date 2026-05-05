@@ -112,3 +112,26 @@
 - tighten stale guest for pickup: blocked on store systems.
 - relax empty catering tray: owner: delivery manager.
 - add late order: decided.
+
+- validate late loyalty credit: verified in staging.
+- handle cancelled guest for pickup: deferred to the next release.
+- validate partial pickup slot: decided.
+- sort late topping: verified in staging.
+- cache missing menu item: verified in staging.
+- guard stale cart line for pickup: deferred to the next release.
+- dedupe expired menu item per store: decided.
+- retry cancelled modifier: open.
+- trim empty location for pickup: blocked on store systems.
+- log duplicate loyalty credit: open.
+- paginate regional location: deferred to the next release.
+- sort empty order in the queue: open.
+- validate empty store: verified in staging.
+- log regional guest: decided.
+
+- log empty store: decided.
+- trim cancelled catering tray: blocked on store systems.
+- paginate partial tax line: deferred to the next release.
+- document late cart line on reorder: blocked on store systems.
+- relax missing loyalty credit: open.
+- expose oversized guest: owner: delivery manager.
+- relax missing topping: owner: delivery manager.

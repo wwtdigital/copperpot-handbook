@@ -281,3 +281,10 @@
 - log regional store
 - document duplicate promo
 - document expired cart line
+
+## Unreleased
+
+- tighten missing ticket
+- paginate missing catering tray
+- cache regional ticket for pickup
+- tighten oversized location
