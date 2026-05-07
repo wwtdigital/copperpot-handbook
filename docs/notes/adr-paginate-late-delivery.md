@@ -116,3 +116,8 @@
 - expose missing order: open.
 - expose partial catering tray: deferred to the next release.
 - tighten missing receipt per store: decided.
+
+- sort oversized topping for franchisees: blocked on store systems.
+- tighten regional ticket: owner: delivery manager.
+- add missing pickup slot: blocked on store systems.
+- relax oversized modifier: owner: delivery manager.
