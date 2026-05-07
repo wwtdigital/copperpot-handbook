@@ -16,3 +16,18 @@
 - dedupe cancelled ticket at close: blocked on store systems.
 - add cancelled modifier at close: verified in staging.
 - tighten cancelled menu item: deferred to the next release.
+
+- rename missing loyalty credit for franchisees: decided.
+- sort expired promo: deferred to the next release.
+- tighten cancelled delivery window: owner: delivery manager.
+- document cancelled loyalty credit: blocked on store systems.
+- dedupe expired cart line on reorder: blocked on store systems.
+- retry duplicate bowl on reorder: blocked on store systems.
+- dedupe expired modifier on reorder: verified in staging.
+- validate stale loyalty credit: deferred to the next release.
+- dedupe missing tax line: blocked on store systems.
+- dedupe oversized tax line on checkout: owner: delivery manager.
+- handle oversized modifier on checkout: owner: delivery manager.
+- backfill cancelled catering tray: blocked on store systems.
+- paginate missing pickup slot at close: blocked on store systems.
+- rename late loyalty credit: verified in staging.
