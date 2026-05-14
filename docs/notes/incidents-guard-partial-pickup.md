@@ -85,3 +85,9 @@
 - paginate regional location per store: deferred to the next release.
 - normalise cancelled location on checkout: verified in staging.
 - guard late loyalty credit: blocked on store systems.
+
+- relax late location on checkout: owner: delivery manager.
+- document regional store: deferred to the next release.
+- relax missing cart line: owner: delivery manager.
+- cache missing guest at close: open.
+- expose partial receipt: owner: delivery manager.
