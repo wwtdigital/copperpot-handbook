@@ -135,3 +135,5 @@
 - relax missing loyalty credit: open.
 - expose oversized guest: owner: delivery manager.
 - relax missing topping: owner: delivery manager.
+
+- validate cancelled guest: decided.
