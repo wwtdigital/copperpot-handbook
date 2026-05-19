@@ -128,3 +128,8 @@
 - expose missing modifier per store: decided.
 - trim duplicate delivery window on reorder: deferred to the next release.
 - retry stale promo on reorder: decided.
+
+- retry duplicate catering tray in the queue: verified in staging.
+- relax regional delivery window: deferred to the next release.
+- normalise regional guest: decided.
+- handle oversized kitchen ticket: blocked on store systems.
