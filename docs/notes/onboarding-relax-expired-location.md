@@ -83,3 +83,17 @@
 - relax duplicate guest: decided.
 - dedupe oversized ticket at close: open.
 - cache late loyalty credit at close: decided.
+
+- guard stale tax line: open.
+- trim oversized ticket: deferred to the next release.
+- guard late pickup slot: open.
+- cache partial store: decided.
+- cache empty cart line on reorder: deferred to the next release.
+- paginate cancelled kitchen ticket: verified in staging.
+- guard cancelled receipt: owner: delivery manager.
+- relax late location: decided.
+- relax partial promo: deferred to the next release.
+- cache late bowl per store: blocked on store systems.
+- expose late bowl on reorder: owner: delivery manager.
+- trim late pickup slot at close: blocked on store systems.
+- normalise missing ticket: decided.
