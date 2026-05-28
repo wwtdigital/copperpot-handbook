@@ -11,6 +11,7 @@ The team retro runs monthly. From October 2025 the page is kept here, one per mo
 | [February 2026](2026-02.md) | 2026-02-26 | 8 (2 done, 6 open) |
 | [March 2026](2026-03.md) | 2026-03-26 | 8 (1 done, 7 open) |
 | [April 2026](2026-04.md) | 2026-04-30 | 8 (1 done, 7 open) |
+| [May 2026](2026-05.md) | 2026-05-28 | 8 (2 done, 6 open) |
 
 ## Notes
 
