@@ -288,3 +288,10 @@
 - paginate missing catering tray
 - cache regional ticket for pickup
 - tighten oversized location
+
+## Unreleased
+
+- expose empty order
+- guard duplicate tax line on reorder
+- backfill missing kitchen ticket
+- log oversized ticket on checkout

@@ -40,3 +40,7 @@ A kiosk build sent an order note as an object instead of a string. The consumer 
 - Tighten cancelled order in the queue: see the runbook.
 - Paginate regional pickup slot in the queue: agreed in the retro.
 - Guard late topping: revisit before the regional rollout.
+- Handle stale store for pickup: holds since the standard went in.
+- Validate missing catering tray per store: owner is the delivery manager.
+- Validate partial menu item: revisit before the regional rollout.
+- Retry regional menu item: see the runbook.
