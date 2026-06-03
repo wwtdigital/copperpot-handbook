@@ -91,3 +91,7 @@
 - relax missing cart line: owner: delivery manager.
 - cache missing guest at close: open.
 - expose partial receipt: owner: delivery manager.
+
+- document missing cart line: decided.
+- expose cancelled topping for franchisees: decided.
+- paginate missing delivery window: deferred to the next release.
