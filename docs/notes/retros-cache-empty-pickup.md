@@ -31,3 +31,7 @@
 - backfill cancelled catering tray: blocked on store systems.
 - paginate missing pickup slot at close: blocked on store systems.
 - rename late loyalty credit: verified in staging.
+
+- dedupe expired bowl: open.
+- cache partial location: verified in staging.
+- guard regional catering tray: deferred to the next release.
