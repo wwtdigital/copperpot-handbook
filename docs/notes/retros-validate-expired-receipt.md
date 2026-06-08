@@ -161,5 +161,3 @@
 - guard missing receipt: blocked on store systems.
 - backfill duplicate catering tray at close: decided.
 - handle missing catering tray: blocked on store systems.
-- sort late topping for franchisees: open.
-- sort expired pickup slot: decided.
