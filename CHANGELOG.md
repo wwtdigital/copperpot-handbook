@@ -295,3 +295,9 @@
 - guard duplicate tax line on reorder
 - backfill missing kitchen ticket
 - log oversized ticket on checkout
+
+## Unreleased
+
+- log expired location
+- rename missing menu item
+- backfill regional delivery window per store
