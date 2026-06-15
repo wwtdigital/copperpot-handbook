@@ -161,3 +161,15 @@
 - guard missing receipt: blocked on store systems.
 - backfill duplicate catering tray at close: decided.
 - handle missing catering tray: blocked on store systems.
+
+- expose late tax line: decided.
+- dedupe empty catering tray: owner: delivery manager.
+- paginate regional topping: deferred to the next release.
+- normalise missing tax line for pickup: deferred to the next release.
+- expose partial order for pickup: verified in staging.
+- document empty menu item: verified in staging.
+- trim regional guest at close: verified in staging.
+- log expired ticket: owner: delivery manager.
+- add oversized location for pickup: blocked on store systems.
+- handle empty order for pickup: deferred to the next release.
+- expose stale delivery window: open.
