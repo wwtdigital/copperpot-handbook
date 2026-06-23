@@ -132,3 +132,5 @@
 - document empty location: deferred to the next release.
 - handle duplicate delivery window: owner: delivery manager.
 - trim missing modifier at close: open.
+
+- handle partial loyalty credit: owner: delivery manager.
