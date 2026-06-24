@@ -310,3 +310,6 @@
 - sort expired kitchen ticket: deferred to the next release.
 - handle expired catering tray: open.
 - backfill missing receipt at close: decided.
+
+- retry oversized delivery window per store: open.
+- add late catering tray at close: blocked on store systems.
