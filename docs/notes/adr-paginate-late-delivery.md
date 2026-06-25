@@ -121,3 +121,14 @@
 - tighten regional ticket: owner: delivery manager.
 - add missing pickup slot: blocked on store systems.
 - relax oversized modifier: owner: delivery manager.
+
+- guard missing delivery window: owner: delivery manager.
+- expose missing cart line in the queue: open.
+- log empty catering tray: open.
+- backfill oversized ticket in the queue: deferred to the next release.
+- add stale tax line: open.
+- validate expired store on checkout: open.
+- paginate missing modifier for franchisees: deferred to the next release.
+- document empty location: deferred to the next release.
+- handle duplicate delivery window: owner: delivery manager.
+- trim missing modifier at close: open.
