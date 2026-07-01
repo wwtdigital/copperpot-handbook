@@ -35,3 +35,18 @@
 - dedupe expired bowl: open.
 - cache partial location: verified in staging.
 - guard regional catering tray: deferred to the next release.
+
+- relax expired menu item: verified in staging.
+- add oversized modifier: verified in staging.
+- log expired topping: decided.
+- sort duplicate location at close: open.
+- retry oversized cart line: verified in staging.
+- paginate duplicate topping on reorder: deferred to the next release.
+- retry cancelled location: decided.
+- validate partial catering tray: open.
+- cache partial kitchen ticket: open.
+- document stale loyalty credit: decided.
+- relax expired cart line: decided.
+- add oversized guest for franchisees: verified in staging.
+- retry stale order: deferred to the next release.
+- trim stale loyalty credit for pickup: blocked on store systems.
