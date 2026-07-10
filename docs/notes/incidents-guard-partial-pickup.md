@@ -95,3 +95,6 @@
 - document missing cart line: decided.
 - expose cancelled topping for franchisees: decided.
 - paginate missing delivery window: deferred to the next release.
+
+- validate missing store: open.
+- dedupe regional receipt: blocked on store systems.
