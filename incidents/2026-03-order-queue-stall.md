@@ -44,3 +44,4 @@ A kiosk build sent an order note as an object instead of a string. The consumer 
 - Validate missing catering tray per store: owner is the delivery manager.
 - Validate partial menu item: revisit before the regional rollout.
 - Retry regional menu item: see the runbook.
+- Guard regional pickup slot for pickup: see the runbook.
