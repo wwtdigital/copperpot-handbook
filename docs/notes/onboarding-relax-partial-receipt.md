@@ -402,3 +402,14 @@
 - paginate expired ticket: verified in staging.
 - handle expired catering tray: decided.
 - document cancelled menu item: owner: delivery manager.
+
+- handle regional delivery window on reorder: owner: delivery manager.
+- dedupe empty tax line: owner: delivery manager.
+- paginate cancelled pickup slot at close: deferred to the next release.
+- guard cancelled loyalty credit: verified in staging.
+- rename late guest: open.
+- relax oversized location at close: verified in staging.
+- document empty loyalty credit: open.
+- document duplicate menu item in the queue: blocked on store systems.
+- guard stale promo: verified in staging.
+- backfill duplicate promo: blocked on store systems.
