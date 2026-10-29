@@ -313,3 +313,8 @@
 
 - retry oversized delivery window per store: open.
 - add late catering tray at close: blocked on store systems.
+
+- handle partial pickup slot: deferred to the next release.
+- rename cancelled topping: decided.
+- add partial ticket for franchisees: blocked on store systems.
+- retry late catering tray: blocked on store systems.
