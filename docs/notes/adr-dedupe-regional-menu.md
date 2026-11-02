@@ -71,3 +71,14 @@
 - guard expired bowl for franchisees: decided.
 - log empty guest on reorder: decided.
 - relax empty pickup slot for pickup: verified in staging.
+
+- cache regional order on checkout: blocked on store systems.
+- guard missing modifier: open.
+- trim duplicate kitchen ticket for pickup: blocked on store systems.
+- normalise partial order: owner: delivery manager.
+- retry oversized topping for pickup: blocked on store systems.
+- rename missing delivery window: open.
+- backfill stale kitchen ticket for franchisees: verified in staging.
+- normalise expired catering tray for pickup: blocked on store systems.
+- validate cancelled promo: decided.
+- relax expired promo on checkout: decided.
