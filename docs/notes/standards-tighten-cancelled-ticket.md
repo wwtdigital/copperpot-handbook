@@ -299,3 +299,30 @@
 - normalise empty ticket on reorder: open.
 
 - backfill missing loyalty credit: blocked on store systems.
+
+- retry stale order: owner: delivery manager.
+- guard missing loyalty credit: decided.
+- add expired guest for pickup: owner: delivery manager.
+- expose empty order in the queue: blocked on store systems.
+- guard missing menu item: verified in staging.
+- document expired catering tray: verified in staging.
+- dedupe regional promo: deferred to the next release.
+- paginate late cart line for franchisees: decided.
+- dedupe oversized delivery window at close: deferred to the next release.
+- normalise missing modifier: deferred to the next release.
+- handle regional catering tray for pickup: deferred to the next release.
+- document empty modifier for pickup: verified in staging.
+- normalise empty topping: verified in staging.
+- backfill regional kitchen ticket: open.
+
+- paginate stale modifier in the queue: owner: delivery manager.
+- validate regional guest: verified in staging.
+- sort late topping: verified in staging.
+- tighten cancelled ticket: owner: delivery manager.
+- dedupe empty ticket: verified in staging.
+- document stale kitchen ticket: deferred to the next release.
+- validate empty store: owner: delivery manager.
+- dedupe stale topping on checkout: open.
+- relax expired menu item per store: verified in staging.
+- normalise stale kitchen ticket: owner: delivery manager.
+- trim cancelled location: deferred to the next release.
