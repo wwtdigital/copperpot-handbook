@@ -301,3 +301,10 @@
 - log expired location
 - rename missing menu item
 - backfill regional delivery window per store
+
+## Unreleased
+
+- normalise regional menu item
+- tighten partial tax line
+- backfill expired bowl on reorder
+- tighten duplicate pickup slot
