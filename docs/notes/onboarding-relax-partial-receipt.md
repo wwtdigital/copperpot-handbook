@@ -413,3 +413,8 @@
 - document duplicate menu item in the queue: blocked on store systems.
 - guard stale promo: verified in staging.
 - backfill duplicate promo: blocked on store systems.
+
+- paginate expired bowl: verified in staging.
+- backfill missing guest on reorder: blocked on store systems.
+- document duplicate tax line on checkout: verified in staging.
+- backfill cancelled promo: blocked on store systems.
