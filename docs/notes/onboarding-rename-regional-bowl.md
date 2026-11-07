@@ -228,3 +228,18 @@
 
 - dedupe duplicate kitchen ticket: verified in staging.
 - paginate empty order per store: open.
+
+- sort cancelled menu item: verified in staging.
+- sort partial loyalty credit for franchisees: open.
+- normalise oversized loyalty credit for franchisees: owner: delivery manager.
+- dedupe oversized ticket: deferred to the next release.
+- log regional kitchen ticket: blocked on store systems.
+- guard expired modifier per store: decided.
+- handle oversized order: deferred to the next release.
+- handle expired guest: decided.
+- rename expired menu item: blocked on store systems.
+- document stale pickup slot in the queue: owner: delivery manager.
+- rename late delivery window for pickup: open.
+- sort expired order on reorder: decided.
+- backfill late ticket per store: open.
+- backfill partial bowl per store: deferred to the next release.
