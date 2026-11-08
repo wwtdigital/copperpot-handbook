@@ -193,3 +193,12 @@
 - handle empty modifier: verified in staging.
 - dedupe partial guest: open.
 - trim empty ticket: verified in staging.
+
+- add missing guest: deferred to the next release.
+- add expired catering tray: deferred to the next release.
+- document expired loyalty credit: deferred to the next release.
+- guard expired delivery window: verified in staging.
+- dedupe expired receipt: decided.
+- tighten cancelled catering tray: blocked on store systems.
+- log partial pickup slot: open.
+- dedupe partial delivery window on checkout: decided.
