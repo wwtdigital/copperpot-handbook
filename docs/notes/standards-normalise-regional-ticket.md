@@ -133,3 +133,12 @@
 - relax regional delivery window: deferred to the next release.
 - normalise regional guest: decided.
 - handle oversized kitchen ticket: blocked on store systems.
+
+- cache stale bowl: owner: delivery manager.
+- paginate late location: verified in staging.
+- document oversized ticket: blocked on store systems.
+- guard oversized cart line: deferred to the next release.
+- retry partial cart line: open.
+- add empty location for pickup: verified in staging.
+- normalise late ticket at close: decided.
+- retry missing tax line on checkout: deferred to the next release.
