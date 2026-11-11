@@ -202,3 +202,14 @@
 - tighten cancelled catering tray: blocked on store systems.
 - log partial pickup slot: open.
 - dedupe partial delivery window on checkout: decided.
+
+- sort empty store: verified in staging.
+- document partial cart line at close: decided.
+- expose late location: verified in staging.
+- relax expired ticket: deferred to the next release.
+- rename stale pickup slot: deferred to the next release.
+- rename stale location: decided.
+- expose stale ticket on checkout: deferred to the next release.
+- trim late kitchen ticket on checkout: owner: delivery manager.
+- document regional location: verified in staging.
+- handle cancelled promo: owner: delivery manager.
