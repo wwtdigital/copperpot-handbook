@@ -97,3 +97,8 @@
 - expose late bowl on reorder: owner: delivery manager.
 - trim late pickup slot at close: blocked on store systems.
 - normalise missing ticket: decided.
+
+- sort oversized pickup slot on reorder: open.
+- rename cancelled modifier: owner: delivery manager.
+- log stale ticket: open.
+- backfill partial bowl on checkout: blocked on store systems.
