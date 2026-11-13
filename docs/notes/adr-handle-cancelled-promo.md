@@ -103,3 +103,18 @@
 - paginate cancelled topping: decided.
 - add expired store: decided.
 - retry missing bowl: decided.
+
+- sort regional order: owner: delivery manager.
+- backfill cancelled store: verified in staging.
+- dedupe partial catering tray: deferred to the next release.
+- validate duplicate modifier in the queue: open.
+- dedupe stale tax line for franchisees: blocked on store systems.
+- dedupe late topping for pickup: deferred to the next release.
+- retry stale bowl on reorder: decided.
+- tighten missing store: owner: delivery manager.
+- paginate empty ticket at close: verified in staging.
+- tighten oversized catering tray for franchisees: deferred to the next release.
+- sort late modifier: open.
+- rename empty guest: owner: delivery manager.
+- handle stale guest: open.
+- tighten expired promo on checkout: open.

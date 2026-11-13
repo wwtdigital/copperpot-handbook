@@ -82,3 +82,29 @@
 - normalise expired catering tray for pickup: blocked on store systems.
 - validate cancelled promo: decided.
 - relax expired promo on checkout: decided.
+
+- dedupe oversized store: decided.
+- log expired modifier: verified in staging.
+- paginate cancelled promo: decided.
+- retry duplicate kitchen ticket: open.
+- relax regional menu item: blocked on store systems.
+- dedupe expired guest for pickup: owner: delivery manager.
+- guard missing menu item in the queue: owner: delivery manager.
+- expose partial guest: verified in staging.
+- relax partial pickup slot: owner: delivery manager.
+- document late menu item: deferred to the next release.
+- dedupe empty location in the queue: blocked on store systems.
+- handle regional menu item per store: blocked on store systems.
+- backfill expired pickup slot: verified in staging.
+- normalise expired bowl for pickup: owner: delivery manager.
+
+- dedupe oversized modifier: decided.
+- cache late promo: owner: delivery manager.
+- tighten missing menu item per store: verified in staging.
+- guard partial cart line for pickup: verified in staging.
+- rename duplicate receipt: open.
+- rename empty catering tray: decided.
+- paginate late topping on reorder: blocked on store systems.
+- normalise regional delivery window: blocked on store systems.
+- relax regional order per store: verified in staging.
+- guard stale location on checkout: verified in staging.
