@@ -418,3 +418,18 @@
 - backfill missing guest on reorder: blocked on store systems.
 - document duplicate tax line on checkout: verified in staging.
 - backfill cancelled promo: blocked on store systems.
+
+- handle regional store: verified in staging.
+- guard expired store: open.
+- paginate partial modifier: open.
+- rename partial receipt: decided.
+- paginate missing tax line: owner: delivery manager.
+- backfill empty location: decided.
+- relax oversized menu item for franchisees: blocked on store systems.
+- tighten oversized receipt for franchisees: open.
+- handle expired bowl: open.
+- rename missing guest: decided.
+- log stale tax line: blocked on store systems.
+- retry missing bowl: owner: delivery manager.
+- trim missing store: decided.
+- add oversized kitchen ticket per store: verified in staging.

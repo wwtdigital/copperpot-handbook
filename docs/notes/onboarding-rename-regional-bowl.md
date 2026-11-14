@@ -243,3 +243,7 @@
 - sort expired order on reorder: decided.
 - backfill late ticket per store: open.
 - backfill partial bowl per store: deferred to the next release.
+
+- validate stale bowl on reorder: open.
+- add expired tax line: verified in staging.
+- sort oversized receipt: blocked on store systems.
