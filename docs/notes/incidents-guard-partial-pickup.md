@@ -98,3 +98,9 @@
 
 - validate missing store: open.
 - dedupe regional receipt: blocked on store systems.
+
+- add duplicate modifier: deferred to the next release.
+- document late receipt: open.
+- retry expired loyalty credit on reorder: blocked on store systems.
+- cache oversized catering tray: deferred to the next release.
+- paginate stale catering tray: decided.
