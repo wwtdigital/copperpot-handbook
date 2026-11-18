@@ -50,3 +50,8 @@
 - add oversized guest for franchisees: verified in staging.
 - retry stale order: deferred to the next release.
 - trim stale loyalty credit for pickup: blocked on store systems.
+
+- log stale store for franchisees: owner: delivery manager.
+- relax expired bowl: decided.
+- paginate duplicate topping: verified in staging.
+- expose late tax line on checkout: deferred to the next release.
