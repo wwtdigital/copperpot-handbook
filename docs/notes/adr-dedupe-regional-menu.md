@@ -108,3 +108,18 @@
 - normalise regional delivery window: blocked on store systems.
 - relax regional order per store: verified in staging.
 - guard stale location on checkout: verified in staging.
+
+- validate stale ticket: decided.
+- log missing guest: owner: delivery manager.
+- dedupe regional menu item: verified in staging.
+- tighten late tax line for pickup: blocked on store systems.
+- relax regional pickup slot: owner: delivery manager.
+- sort missing store: decided.
+- tighten missing pickup slot for franchisees: owner: delivery manager.
+- rename oversized location on checkout: owner: delivery manager.
+- tighten duplicate modifier: deferred to the next release.
+- backfill oversized store: blocked on store systems.
+- add duplicate location at close: decided.
+- add missing order: deferred to the next release.
+- document cancelled location on reorder: decided.
+- retry duplicate promo per store: verified in staging.
