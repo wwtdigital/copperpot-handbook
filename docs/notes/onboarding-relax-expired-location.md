@@ -102,3 +102,12 @@
 - rename cancelled modifier: owner: delivery manager.
 - log stale ticket: open.
 - backfill partial bowl on checkout: blocked on store systems.
+
+- rename empty pickup slot for pickup: decided.
+- validate oversized guest: owner: delivery manager.
+- tighten missing guest: blocked on store systems.
+- relax empty location: verified in staging.
+- trim oversized bowl: decided.
+- paginate stale pickup slot: decided.
+- dedupe empty topping on checkout: decided.
+- backfill missing modifier: open.
