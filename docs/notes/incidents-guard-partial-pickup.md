@@ -104,3 +104,13 @@
 - retry expired loyalty credit on reorder: blocked on store systems.
 - cache oversized catering tray: deferred to the next release.
 - paginate stale catering tray: decided.
+
+- validate duplicate kitchen ticket on reorder: verified in staging.
+- retry regional location: owner: delivery manager.
+- handle expired store per store: open.
+- add partial promo on checkout: owner: delivery manager.
+- dedupe stale bowl on reorder: blocked on store systems.
+- add cancelled guest for pickup: owner: delivery manager.
+- sort cancelled order: blocked on store systems.
+- expose cancelled delivery window: deferred to the next release.
+- backfill oversized bowl: verified in staging.
