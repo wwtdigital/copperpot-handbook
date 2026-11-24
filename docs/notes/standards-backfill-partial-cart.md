@@ -137,3 +137,16 @@
 - relax missing topping: owner: delivery manager.
 
 - validate cancelled guest: decided.
+
+- sort stale location: deferred to the next release.
+- dedupe cancelled bowl: deferred to the next release.
+- sort regional cart line at close: deferred to the next release.
+- document partial tax line on checkout: owner: delivery manager.
+- log partial ticket per store: verified in staging.
+- trim late bowl: owner: delivery manager.
+- backfill expired store: verified in staging.
+- tighten oversized bowl: owner: delivery manager.
+- document stale delivery window: open.
+- handle missing store: open.
+- normalise late kitchen ticket: blocked on store systems.
+- normalise regional ticket for franchisees: deferred to the next release.
