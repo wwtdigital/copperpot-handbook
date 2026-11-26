@@ -227,3 +227,18 @@
 - retry late guest at close: deferred to the next release.
 - paginate stale guest: owner: delivery manager.
 - sort partial ticket for franchisees: deferred to the next release.
+
+- normalise missing tax line: open.
+- handle regional delivery window: verified in staging.
+- trim stale pickup slot for pickup: open.
+- sort empty order: open.
+- relax regional tax line: owner: delivery manager.
+- paginate stale topping at close: owner: delivery manager.
+- relax stale order at close: open.
+- trim empty catering tray on reorder: decided.
+- cache regional ticket on reorder: blocked on store systems.
+- cache cancelled promo at close: decided.
+- backfill duplicate modifier for franchisees: owner: delivery manager.
+- handle empty guest on reorder: decided.
+- dedupe duplicate guest on reorder: blocked on store systems.
+- relax regional catering tray for pickup: owner: delivery manager.
