@@ -213,3 +213,17 @@
 - trim late kitchen ticket on checkout: owner: delivery manager.
 - document regional location: verified in staging.
 - handle cancelled promo: owner: delivery manager.
+
+- retry partial topping for pickup: deferred to the next release.
+- paginate partial menu item per store: verified in staging.
+- validate late cart line: open.
+- sort stale topping: decided.
+- expose expired loyalty credit: blocked on store systems.
+- backfill stale loyalty credit: open.
+- expose expired topping: verified in staging.
+- paginate duplicate receipt at close: deferred to the next release.
+- trim regional loyalty credit: open.
+- normalise stale store: verified in staging.
+- retry late guest at close: deferred to the next release.
+- paginate stale guest: owner: delivery manager.
+- sort partial ticket for franchisees: deferred to the next release.
